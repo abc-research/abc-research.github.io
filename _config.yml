@@ -1,0 +1,354 @@
+# Site settings
+title: ABC2020
+email: abc@sozolab.jp
+url: https://abc-research.github.io
+description: "International Conference on Activity and Behavior Computing (ABC), which includes Human Activity Recognition with mobile / environmental sensors in ubiquitous / pervasive domains and with cameras in vision domains, and Human Behavior Analysis for long-term health care, rehabilitation, emotion recognition, human interaction, and so on."
+keywords: "activity recognition, behavior analysis, international conference, activity and behavior computing"
+conf_title1: "International Conference on"
+conf_title2: "Activity and Behavior Computing"
+meta_author: Sozo Inoue
+location: Kitakyushu, Japan
+date: <strike>Jun. 22nd - 25th, 2020</strike> <b style="color:pink"> Aug. 26-29, 2020</b>
+conjunction:
+  name: ICIEV&IVPR2020
+  url: http://cennser.org/ICIEV/
+  
+navitem:
+  - name: About
+    url: "#about"
+  - name: Registration
+    url: "https://sites.google.com/view/iciev-abc-2020-payment"
+  - name: Program
+    url: "#program"
+#  - name: CFP
+#    url: "#cfp" 
+  - name: Challenge
+    url: "https://abc-research.github.io/cook2020/"
+  - name: Venue
+    url: "#venue"
+  - name: Committee
+    url: "#committee"
+  - name: Series
+    url: "#series"
+    
+includes:
+  - file: header.html
+  - file: sponsors.html
+  - file: about.html
+  - file: program.html
+  - file: cfp.html
+  - file: venue.html
+  - file: committee.html
+  - file: series.html
+  
+
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 80B3FF
+  primary-rgb: "128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Dr. Henry Jekyll
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+about:
+  - text: "<b>Human Activity Recognition</b> has been researched in thousands of papers so far, with mobile / environmental sensors in ubiquitous / pervasive domains, and with cameras in vision domains. As well, <b>Human Behavior Analysis</b> is also explored for long-term health care, rehabilitation, emotion recognition, human interaction, and so on. However, many research challenges remain for realistic settings, such as complex and ambiguous activities / behavior, optimal sensor combinations, (deep) machine learning, data collection, platform systems, and killer applications."
+  - text: "In this conference, we comprehend such research domains as <b>ABC</b>: <i>Activity and Behavior Computing</i>, and provide an open and a confluent place for discussing various aspects and the future of the ABC."
+
+# accepted papers (temporary)
+accepted:
+  - category: Regular Papers
+    paper: 
+    - title:	Improvement of Human Action Recognition Using 3D Pose Estimation
+      authors:	Kohei Adachi (Kyushu Institute of Technology)*; Paula Lago (Kyushu Institute of Technology ); Tsuyoshi Okita (Kyushu Institute of Technology); Sozo Inoue (Kyushu Institute of Technology)
+    - title:	Reducing Energy Consumption by Behavioural Change – It is possible!
+      authors:	Dietrich Albert (University of Graz & Graz University of Technology)*; Michael Bedek (University of Graz & Graz University of Technology); Wolfgang Horn (Horn Consult, Leibnitz)
+    - title:	"Human Pose Tracking by Fusing Human Joint Positions from Multiple Kinect 3 : New Results"
+      authors:	"Jessica Colombel (Inria)*; David Daney (Inria); Vincent Bonnet (Univ Paris Est Creteil, LISSI); Francois Charpillet (Inria)"
+    - title:	Investigating Correlations Between Usage of Communication Apps and Instant Messengern and a Smartphone User's Extraversion
+      authors:	Anja Exler (Karlsruhe Institute of Technology)*; Tobias Hornberger (Karlsruhe Institute of Technology (KIT)); Michael Beigl (KIT)
+    - title:	Multilabel Classification of Nursing Activities in a Realistic Scenario
+      authors:	Farina Faiz (Kyushu Institute of Technology)*; Yoshinori Ideno (Global business division, CARECOM CO.,LTD ); Hiromichi Iwasaki (Dept of Infection Control and Prevention, University of Fukui Hospital); Yoko  Muroi (Dept of Infection Control and Prevention, University of Fukui Hospital); Sozo Inoue (Kyushu Institute of Technology)
+    - title:	Improving Smartphone based Transport Mode Recognition using Generative Adversarial Networks
+      authors:	Lukas Gunthermann (University of Sussex)*; Daniel Roggen (University of Sussex); Andrew Philippides (University of Sussex)
+    - title:	In-shoe motion sensor for initial contact and toe-off event detection
+      authors:	Chenhui Huang (NEC)*; Kenichiro Fukushi (NEC); Zhenwei Wang (NEC); Hiroshi Kajitani (NEC); Kentaro Nakahara (NEC)
+    - title:	"ExerSense: Real-Time Physical Exercise Segmentation, Classification, and Counting Algorithm Using an IMU Sensor"
+      authors:	Shun Ishii (Aoyama Gakuin University)*; Kizito Nkurikiyeyezu (Aoyama Gakuin University); Mika Luimula (Turku University of Applied Sciences); Anna Yokokubo (Aoyama Gakuin University); Guillaume Lopez (Aoyama Gakuin University)
+    - title:	Exploring Human Activity by Using eSense Earable Device
+      authors:	Md Shafiqul Islam (Kyushu Institute of Technology)*; Tahera Hossain (Kyushu Institute of Technology); M.A.R. Ahad (University of Dhaka); Sozo Inoue (Kyushu Institute of Technology)
+    - title:	Classification Method of Eating Behavior by Dietary Sound Collected in Natural Meal Environment
+      authors:	Haruka Kamachi (Aoyama Gakuin University)*; Anna Yokokubo (Aoyama Gakuin University); Guillaume Lopez (Aoyama Gakuin University); Takumi Kondo (Aoyama Gakuin University)
+    - title:	Estimation of Record Contents for Automatic Generation of Care Records
+      authors:	Haru Kaneko (Kyushu Institute of Technology); Tahera Hossain (Kyushu Institute of Technology); Tahera Hossain (Kyushu Institute of Technology)*; Sozo Inoue (Kyushu Institute of Technology)
+    - title:	"Head-AR: Human Activity Recognition with Head Mounted IMU Using Weighted Ensemble Learning"
+      authors:	Ivana Kiprijanovska (Institute Jozef Stefan); Simon Stankoski (Institute Jozef Stefan); Stefan Kalabakov (Institute Jozef Stefan); Martin Gjoreski (Institute Jozef Stefan); Hristijan Gjoreski (Ss. Cyril and Methodius University)*
+    - title:	Accuracy of Motion Estimation using Sparse Set IMUs in Gait Analysis
+      authors:	"Tsubasa Maruyama (National Institute of Advanced Industrial Science and Technology)*; Haruki Toda (	National Institute of Advanced Industrial Science and Technology); Suguru Kanoga (AIST); Mitsunori Tada (National Institute of Advanced Industrial Science and Technology); Yui Endo (National Institute of Advanced Industrial Science and Technology)"
+    - title:	A Basic study on Ballroom Dance Figure Classification with LSTM Using Multi-modal Sensor
+      authors:	Hitoshi Matsuyama (Nagoya University)*; Kei Hiroi (Nagoya University); Katsuhiko Kaji (Aichi Institute of Technology); Takuro Yonezawa (Nagoya University); Nobuo Kawaguchi (Nagoya University)
+    - title:	3D Pose Estimation Using Multiple Asynchronous Cameras
+      authors:	Takashi Morimoto (Hiroshima City University); Ikuhisa Mitsugami (Hiroshima City University)*
+    - title:	Mapping Vicon Motion Tracking to 6-axis IMU Data for Wearable Activity Recognition
+      authors:	Lloyd Pellatt (University of Sussex)*; Alex Dewar (University of Sussex); Andrew Philippides (University of Sussex); Daniel Roggen (University of Sussex)
+    - title:	New Class Candidate Generation applied to On-Body Smartphone Localization
+      authors:	Mitsuaki Saito (Tokyo University of Agriculture and Technology)*; Kaori Fujinami (Tokyo University of Agriculture and Technology)
+    - title:	Biological and Behavioral Information-based Method of Predicting Listener Emotions toward Speaker Utterances during Group Discussion
+      authors:	Motoki Sakai (Tokyo Denki University)*; Masaki Shuzo (Tokyo Denki University); Masahide Yuasa (Shonan Institute of Technology); Kanae Matsui (Tokyo Denki University); Eisaku Maeda (Tokyo Denki University)
+  - category: "Non-archival Papers"
+    paper:
+    - title:	Exploring the use of accelerometer for assisting weight lifting exercise
+      authors:	Nour Alhuda Al bougha (Kyushu Institute of Technology)*; Sozo Inoue (Kyushu Institute of Technology); brahim benaissa (kyushu institute of technology)
+    - title:	Towards New Performance Metrics for Multi-level Data for Activity Recognition
+      authors:	Sayeda Shamma Alia (Kyushu Institute of Technology)*; Paula Lago (Kyutech); Sozo Inoue (Kyushu Institute of Technology)
+    - title:	Improving Smartphone-Based Activity Recognition Based On A User's Work Context
+      authors:	Anja Exler (Karlsruhe Institute of Technology)*; Benedikt Dahm (Karlsruhe Institute of Technology (KIT)); Michael Beigl (KIT)
+    - title:	Data Driven Analysis of the Behaviour of Elderly People Using k-Means and Home Automation and Power Consumption Sensors
+      authors:	Björn Friedrich (Carl von Ossietzky Universität)*; Enno-Edzard Steen (Carl von Ossietzky Universität); Hirohiko Suwa (Nara Institute of Science and Technology); Andreas Hein (Carl von Ossietzky Universität); Keiichi Yasumoto (Nara Institute of Science and Technology, Japan)
+    - title:	Towards Mapping Activity Classes for Transfer Learning in Human Activity Recognition
+      authors:	Md Shafiqul Islam (Kyushu Institute of Technology)*; Sayeda Shamma Alia (Kyushu Institute of Technology); Sozo Inoue (Kyushu Institute of Technology)
+    - title:	Towards Automatic Waistline Measurement with A Smartwatch
+      authors:	Yuki Matsuda (Nara Institute of Science and Technology)*; Yugo Nakamura (Nara Institute of Science and Technology)
+    - title:	Classification-based Undetected Keypoint Estimation from Detected Keypoints
+      authors:	Takeshi Saitoh (Kyushu Institute of Technology)*; Makoto Kurihara (Kyushu Institute of Technology)
+    - title:	Drone Control for Monitoring a Walking Person from Constant Distance
+      authors:	Hiroto Yamashita (Hiroshima City University); Takashi Morimoto (Hiroshima City University); Ikuhisa Mitsugami (Hiroshima City University)*
+
+# Committee members
+committee:
+  - role: General Chairs
+    member:
+      - name: Sozo Inoue
+        affil: Kyushu Institute of Technology / Riken, Japan
+      - name: Atiqur Rahman Ahad
+        affil: University of Dhaka, Bangladesh / Osaka University, Japan
+  - role: Program Chairs
+    member:
+      - name: Daniel Roggen
+        affil: University of Sussex, UK
+      - name: Kaori Fujinami
+        affil: Tokyo University of Agriculture and Technology, Japan
+  - role: Publicity Chair
+    member:
+      - name: Brahim Benaissa
+        affil: Kyushu Institute of Technology, Japan    
+  - role: Publication Chair
+    member:
+      - name: Paula Lago
+        affil: Kyushu Institute of Technology, Japan
+  - role: Advisory Board
+    member:
+      - name: Paul Lukowicz
+        affil: DFKI, Germany
+      - name: Kristof Van Laerhoven
+        affil: University of Siegen, Germany
+      - name: Daniel Roggen
+        affil: University of Sussex, UK
+      - name: Michael Beigl
+        affil: Karlsruhe Institute of Technology, Germany
+      - name: Jeffry Cohn
+        affil: University of Pittsburgh, USA
+      - name: Anind Dey
+        affil: University of Washinton, USA
+      - name: Nobuo Kawaguchi
+        affil: Nagoya University, Japan
+  - role: Secretaries
+    member:
+      - name: Tahera Hossain
+        affil: Kyushu Institute of Technology, Japan
+      - name: Moe Matsuki
+        affil: Kyushu Institute of Technology, Japan
+      - name: Nattaya Mairittha
+        affil: Kyushu Institute of Technology, Japan
+      - name: Tittaya Mairittha
+        affil: Kyushu Institute of Technology, Japan
+  - role: Program Committee (Tentative)
+    member:
+      - name: Ren Ohmura
+        affil: Toyohashi University of Technology, Japan
+      - name: Kazuya Murao
+        affil: Ritsumeikan University, Japan
+      - name: Kristof Van Laerhoven
+        affil: University of Siegen, Germany
+      - name: Susanna Pirttikangas
+        affil: University of Oulu, Finland
+      - name: Philipp M. Scholl
+        affil: University of Freiburg, Germany
+      - name: Hristijan Gjoreski
+        affil: Ss. Cyril and Methodius University, Macedonia
+      - name: Katsuhiko Kaji
+        affil: Aichi Institute of Technology, Japan
+      - name: Tsuyoshi Okita
+        affil: Kyushu Institute of Technology / Riken, Japan
+      - name: Paula Lago
+        affil: Kyushu Institute of Technology, Japan
+      - name: Stephan Sigg
+        affil: Aalto University, Finland
+      - name: Hiroki Watanabe
+        affil: Hokkaido University, Japan
+      - name: Pascal Hirmer
+        affil: University of Stuttgart, Germany
+      - name: Shigeyuki Miyagi
+        affil: The University of Shiga Prefecture, Japan
+      - name: Yu Enokibori
+        affil: Nagoya University, Japan
+      - name: Anja Exler
+        affil: Karlsruhe Institute of Technology, Germany
+      - name: Kristina Yordanova
+        affil: University of Rostock, Germany
+      - name: Trung Thanh NGO
+        affil: Osaka University, Japan
+      - name: Ricky J Sethi
+        affil: Fitchburg State University, USA
+#      - name: Meng Joo
+#        affil: Nanyang Technological University, Singapore
+      - name: Ikuhisa Mitsugami
+        affil: Hiroshima City University, Japan
+      - name: Mohiuddin Ahmad	
+        affil: Khulna University of Engineering & Technology, Bangladesh
+      - name: Upal Mahbub
+        affil: University of Meryland, College Park, USA
+      - name: Atsushi Shimada
+        affil: Kyushu University, Japan
+      - name: Guillaume Lopez
+        affil: Aoyama Gakuin University, Japan        
+      - name: Atsushi Nakazawa
+        affil: Kyoto University, Japan
+      - name: Liming Chen
+        affil: Ulster University, UK
+      - name: Christopher Nugent
+        affil: Ulster University, UK
+      - name: François Charpillet 
+        affil: INRIA, France
+      - name: Maria Del Pilar Villamil Giraldo
+        affil: University of Los Andes, Colombia
+      - name: Shoji Kobashi
+        affil: University of Hyogo, Japan
+      - name: Phond Phunchongharn
+        affil: KMUTT, Thailand
+
+cfp:
+  text:
+    - text: "We welcome 4 categories of papers: regular  papers, position papers, survey papers, and challenge papers. The submitted papers are <u>peer reviewed</u> by expert researchers, and accepted based on the research quality."
+    - text: "Accepted papers will be included in the <a href='https://www.springer.com/series/8767' style='color:white'>Smart Innovation, Systems and Technologies series</a> of <u>Springer books</u> (Indexed in ISI Proceedings, EI-Compendex, SCOPUS, Google Scholar and Springerlink)."
+    - text: "Selected papers will be invited to submit to the <u>Pattern Recognition Letters</u> journal (5-Year Impact Factor: 2.350) and to <u>International Journal on Computer Vision and Signal Processing</u>."
+#    - text: To accept various research stages, an accepted paper can be either published in IEEE proceedings + USB, Open web + USB, or USB only upon authors' preference."
+  scope:
+    - item: Mobile sensor-based ABC
+    - item: Environmental sensor-based ABC
+    - item: Vision-based ABC
+    - item: Multimodal ABC
+    - item: Physical / semantic analysis of ABC
+    - item: Gait analysis
+    - item: Sleep analysis
+    - item: Emotion recognition / analysis
+    - item: ABC with deep learning
+    - item: ABC data mining
+    - item: Data collection
+    - item: ABC systems
+    - item: Interactive ABC
+    - item: Healthcare applications
+    - item: Sports applications
+    - item: Business applications
+    - item: Tools for industry
+    - item: ABC in the wild
+  category:
+    - item: "<b>Regular papers</b>: full technical contents which describe the accuracy and performance of ABC Systems, real deployment cases or application of new paradigms such as deep learning to ABC. "
+    - item: "<b>Survey papers</b>: new perspective or new challenges in ABC based on literature survey. We do not welcome just compilations of existing research, but do if it provides new research horizons."
+    - item: "<b>Challenge papers</b>: we will provide a dataset and accept results for activity recognition and papers describing the methods and the results. Please see the <a href='https://abc-research.github.io/cook2020/'><b style='color:yellow';>Challenge Site</b></a> for details."
+    - item: "<b>Position papers</b>: describe the challenges and future directions of ABC based on  problems that arise when systems are deployed in real settings."
+  format: 
+     - item: "<b>Regular papers</b>: 8-20 pages in single column"
+     - item: "<b>Survey papers</b>: 10-20 pages in single column"
+     - item: "<b>Challenge papers</b>: 4-10 pages in single column"
+     - item: "<b>Position papers</b>:  4-10 pages in single column"
+#    - item: IEEE conference format (button below).
+#    - item: "4-6 pages: The authors can choose to give copyright to IEEE then the paper will be sent to IEEE Xplore as ICIEV-IVPR 2020 proceedings. "
+#    - item: "2-6 pages: The authors can choose not for IEEE and hence, copyright is not transfered."
+     - item: "Please use Springer Contributed Book format (button below for the LaTeX template)."
+     - item: "Submit from Microsoft CMT for ICIEV2020  (button below) and select the ABC."
+     - item: "Note that the <b>author information should be removed</b> from the paper, for double blind reviews."
+  dates:
+    - name: "[Regular/Survey/Position] Paper submission"
+      date: <strike>Jan. 17th, 2020</strike> <b style="color:pink">Feb. 28th, 2020</b> (Anywhere on Earth)!
+    - name: "[Challenge] Result submission"
+      date: <strike>Mar. 18th, 2020</strike> <b style="color:pink">Apr. 1st, 2020</b> (Anywhere on Earth)!
+    - name: "[Challenge] Paper submission"
+      date: <strike>Mar. 25th, 2020</strike> <b style="color:pink">Apr. 1st, 2020</b> (Anywhere on Earth)!
+    - name: "[Challenge] Review result"
+      date: <strike>Apr. 6th, 2020</strike> Apr. 25th, 2020
+    - name: "Review result"
+      date: <strike>Mar. 13th, 2020</strike> <strike>Apr. 6th, 2020</strike> Apr. 25th, 2020
+    - name: "Resubmission for conditionally accepted paper"
+      date: May 25th, 2020
+    - name: "[Regular/Survey/Position/Challenge] Camera ready and Registration"
+      date: <strike>Apr. 20th, 2020</strike> <strike>June 15th, 2020</strike> June 19th, 2020
+    - name: "Conference"
+      date: <strike>Jun. 22nd - Jun. 25th, 2020</strike> <b style="color:pink">Aug. 26-29, 2020</b>
+  submit_url: https://cmt3.research.microsoft.com/IVPRICIEV2020/Track/3/Submission/Create
+  template_url: https://resource-cms.springernature.com/springer-cms/rest/v1/content/20568/data/v8
+
+venue:
+  - text: ABC2020 will be held in Kitakyushu-city, Fukuoka, Japan. There are many natural and industrial attractions.
+  - text: For more information, please see <a href="http://cennser.org/ICIEV/travel-information.html">here</a>.
+  - text: <div class="movie-wrap"><iframe width="700" height="485" src="https://www.youtube.com/embed/8ZYPX7xI7ZE?list=PLP-mfYAs9cGw5kQfBfNCKbralx3a5xSoi" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/ABC_Conference
+  - title: facebook
+    url: https://fb.me/ActivityBehaviorComputingConference
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/abc-research
+
+series:
+  - text: "ABC2019: International Conference on Activity and Behavior Computing"
+    url: https://abc-research.github.io/2019
+  - text: "Nurse Care Activity Recognition Challenge 2019"
+    url: https://hasc-nurse-challenge.github.io
+  - text: "HASCA2019: International Workshop on Human Activity Sensing Corpus and Applications"
+    url: http://hasca2019.hasc.jp
+  - text: "Cooking Activity Recognition Challenge 2020"
+    url: https://abc-research.github.io/cook2020
+  - text: "Second Nurse Care Activity Recognition Challenge - From Lab to Field -"
+    url: https://abc-research.github.io/nurse2020
+
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Credits content
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty

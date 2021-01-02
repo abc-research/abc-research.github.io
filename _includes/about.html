@@ -1,0 +1,53 @@
+ <!-- About Section -->
+    <section id="about">
+        <div class="container">
+            <div class="row">
+               <div class="row">
+                  <div class="col-lg-12 text-center">
+                     <h2>Best Paper Award!</h2>
+                  </div>
+               </div>
+               <div class="row">
+               <div class="col-lg-12 text-center">
+                  <p>Kohei Adachi, Paula Lago, Tsuyoshi Okita, Sozo Inoue (Kyushu Institute of Technology), </p>
+                <p><b>"Improvement of Human Action Recognition Using 3D Pose Estimation"</b></p>
+               </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h3>Excellent Paper Awards!</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                 <p>Shun Ishii, Kizito Nkurikiyeyezu (Aoyama Gakuin University), Mika Luimula (Turku University of Applied Sciences), Anna Yokokubo, Guillaume Lopez (Aoyama Gakuin University)
+,</p>
+                  <p><b>"ExerSense: Real-Time Physical Exercise Segmentation, Classification, and Counting Algorithm Using an IMU Sensor"</b></p>
+             </div>
+             <br/>
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                  <p>Lloyd Pellatt, Alex Dewar, Andrew Philippides, Daniel Roggen (University of Sussex),</p>
+                  <p><b>"Mapping Vicon Motion Tracking to 6-axis IMU Data for Wearable Activity Recognition"</b></p>
+             </div>
+             <br/>
+            </div>
+                <div class="col-lg-12 text-center">
+                    <h2>Welcome to ABC2020!</h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                  {% for text in site.about %}
+                  <p>{{text.text}}</p>
+                  {% endfor %}
+                </div>
+                <!--div class="col-lg-8 col-lg-offset-2 text-center">
+                    <a href="https://github.com/jeromelachaud/freelancer-theme" class="btn btn-lg btn-outline">
+                        <i class="fa fa-download"></i> Download Theme
+                    </a>
+                </div-->
+            </div>
+        </div>
+    </section>

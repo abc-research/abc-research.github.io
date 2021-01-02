@@ -1,0 +1,21 @@
+ <!-- About Section -->
+    <section class="success" id="program">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Program</h2>
+                    <hr class="star-light">
+                </div>
+             You can see the full program from <a href="http://cennser.org/ICIEV/program.pdf"><b style="color:pink">HERE</b></a>.
+
+             The titles may change in the final version.
+                {% for accepted in site.accepted %}
+                    <h3>{{ accepted.category }}</h3>
+                    {% for paper in accepted.paper %}
+                        <b>{{ paper.title }}</b><br/>
+                        <i>{{paper.authors}}</i><br/>
+                    {% endfor %}
+                {% endfor %}
+            </div>
+        </div>
+    </section>
