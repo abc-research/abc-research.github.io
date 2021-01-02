@@ -287,22 +287,18 @@ social:
 #    url: http://github.com/abc-research
 
 series:
-  - text: "Nurse2020: Second Nursecare Activity Recognition Challenge in HASCA2020"
-    url: https://abc-research.github.io/nurse2020
-  - text: "ABC2020: International Conference on Activity and Behavior Computing"
+  - text: "ABC2020: International Conference on Activity and Behavior Computing @Kitakyushu, Japan"
     url: https://abc-research.github.io/2020
-  - text: "Cook2020: Cooking Activity Recognition Challenge in ABC2020"
-    url: https://abc-research.github.io/cook2020
-  - text: "ABC2019: International Conference on Activity and Behavior Computing"
+  - text: "ABC2019: International Conference on Activity and Behavior Computing @Spokane, US"
     url: https://abc-research.github.io/2019
+  - text: "Cooking Activity Recognition Challenge at ABC2020"
+    url: https://abc-research.github.io/cook2020
+  - text: "Second Nurse Care Activity Recognition Challenge - From Lab to Field - at HASCA2020"
+    url: https://abc-research.github.io/nurse2020
   - text: "Nurse Care Activity Recognition Challenge 2019"
     url: https://hasc-nurse-challenge.github.io
   - text: "HASCA2019: International Workshop on Human Activity Sensing Corpus and Applications"
     url: http://hasca2019.hasc.jp
-  - text: "Cooking Activity Recognition Challenge 2020"
-    url: https://abc-research.github.io/cook2020
-  - text: "Second Nurse Care Activity Recognition Challenge - From Lab to Field -"
-    url: https://abc-research.github.io/nurse2020
 
 
 # Postal address (add as many lines as necessary)
