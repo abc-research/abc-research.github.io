@@ -269,7 +269,7 @@ cfp:
   template_url: https://resource-cms.springernature.com/springer-cms/rest/v1/content/20568/data/v8
 
 venue:
-  - text: {{title}} will be held at Knowledge Exchange Center (KX), Bangkok, Thailand, Japan. KX is the exchange center for academia and start-up.
+  - text: ABC2021 will be held at Knowledge Exchange Center (KX), Bangkok, Thailand, Japan. KX is the exchange center for academia and start-up.
 #  - text: For more information, please see <a href="http://cennser.org/ICIEV/travel-information.html">here</a>.
 #  - text: <div class="movie-wrap"><iframe width="700" height="485" src="https://www.youtube.com/embed/8ZYPX7xI7ZE?list=PLP-mfYAs9cGw5kQfBfNCKbralx3a5xSoi" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   
