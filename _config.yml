@@ -33,7 +33,7 @@ navitem:
     
 includes:
   - file: header.html
-  - file: sponsors.html
+#  - file: sponsors.html
   - file: about.html
   - file: program.html
   - file: cfp.html
