@@ -35,7 +35,7 @@ includes:
   - file: header.html
 #  - file: sponsors.html
   - file: about.html
-  - file: program.html
+#  - file: program.html
   - file: cfp.html
   - file: venue.html
   - file: committee.html
