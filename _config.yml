@@ -108,14 +108,14 @@ tmp:
         affil: University of Sussex, UK
       - name: Kaori Fujinami
         affil: Tokyo University of Agriculture and Technology, Japan
-  - role: Publicity Chair
-    member:
-      - name: Brahim Benaissa
-        affil: Kyushu Institute of Technology, Japan    
-  - role: Publication Chair
-    member:
-      - name: Paula Lago
-        affil: Kyushu Institute of Technology, Japan
+#  - role: Publicity Chair
+#    member:
+#      - name: Brahim Benaissa
+#        affil: Kyushu Institute of Technology, Japan    
+#  - role: Publication Chair
+#    member:
+#      - name: Paula Lago
+#        affil: Kyushu Institute of Technology, Japan
   - role: Advisory Board
     member:
       - name: Paul Lukowicz
@@ -136,8 +136,8 @@ tmp:
     member:
       - name: Tahera Hossain
         affil: Kyushu Institute of Technology, Japan
-      - name: Moe Matsuki
-        affil: Kyushu Institute of Technology, Japan
+#      - name: Moe Matsuki
+#        affil: Kyushu Institute of Technology, Japan
       - name: Nattaya Mairittha
         affil: Kyushu Institute of Technology, Japan
       - name: Tittaya Mairittha
@@ -250,22 +250,24 @@ cfp:
      - item: "Note that the <b>author information should be removed</b> from the paper, for double blind reviews."
   dates:
     - name: "[Regular/Survey/Position] Paper submission"
-      date: <strike>Jan. 17th, 2020</strike> <b style="color:pink">Feb. 28th, 2020</b> (Anywhere on Earth)!
+      date: Jun. 2nd, 2021 (Anywhere on Earth)!
     - name: "[Challenge] Result submission"
-      date: <strike>Mar. 18th, 2020</strike> <b style="color:pink">Apr. 1st, 2020</b> (Anywhere on Earth)!
+      date: TBA (Anywhere on Earth)!
+# Aug. 9th: review deadline
     - name: "[Challenge] Paper submission"
-      date: <strike>Mar. 25th, 2020</strike> <b style="color:pink">Apr. 1st, 2020</b> (Anywhere on Earth)!
+      date: TBA (Anywhere on Earth)!
     - name: "[Challenge] Review result"
-      date: <strike>Apr. 6th, 2020</strike> Apr. 25th, 2020
+      date: TBA
     - name: "Review result"
-      date: <strike>Mar. 13th, 2020</strike> <strike>Apr. 6th, 2020</strike> Apr. 25th, 2020
+      date: Aug. 23rd, 2021
     - name: "Resubmission for conditionally accepted paper"
-      date: May 25th, 2020
+      date: Sep. 1st, 2021
     - name: "[Regular/Survey/Position/Challenge] Camera ready and Registration"
-      date: <strike>Apr. 20th, 2020</strike> <strike>June 15th, 2020</strike> June 19th, 2020
+      date: Sep. 7th, 2021
+# Sep. 15th: submit to the publisher
     - name: "Conference"
-      date: <strike>Jun. 22nd - Jun. 25th, 2020</strike> <b style="color:pink">Aug. 26-29, 2020</b>
-  submit_url: https://cmt3.research.microsoft.com/IVPRICIEV2020/Track/3/Submission/Create
+      date: Oct. 20th - 23rd, 2021
+#  submit_url: https://cmt3.research.microsoft.com/IVPRICIEV2020/Track/3/Submission/Create
   template_url: https://resource-cms.springernature.com/springer-cms/rest/v1/content/20568/data/v8
 
 venue:
