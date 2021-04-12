@@ -250,7 +250,7 @@ cfp:
      - item: "Note that the <b>author information should be removed</b> from the paper, for double blind reviews."
   dates:
     - name: "[Regular/Survey/Position] Paper submission"
-      date: Jun. 2nd, 2021 (Anywhere on Earth)!
+      date: <b>Jun. 2nd, 2021</b> (Anywhere on Earth)!
     - name: "[Challenge] Result submission"
       date: TBA (Anywhere on Earth)!
 # Aug. 9th: review deadline
