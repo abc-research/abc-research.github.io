@@ -249,15 +249,17 @@ cfp:
      - item: "<strike>Submit from Microsoft CMT for ICIEV2020  (button below) and select the ABC. </strike> TBA."
      - item: "Note that the <b>author information should be removed</b> from the paper, for double blind reviews."
   dates:
+    - name: "[Challenge] Registration"
+      date: Jul. 1st, 2021 (Anywhere on Earth)!
     - name: "[Regular/Survey/Position] Paper submission"
-      date: <b>Jun. 2nd, 2021</b> (Anywhere on Earth)!
+      date: <b>Jul. 2nd, 2021</b> (Anywhere on Earth)!
     - name: "[Challenge] Result submission"
-      date: TBA (Anywhere on Earth)!
+      date: Aug. 1st, 2021 (Anywhere on Earth)!
 # Aug. 9th: review deadline
     - name: "[Challenge] Paper submission"
-      date: TBA (Anywhere on Earth)!
+      date: Aug. 1st, 2021 (Anywhere on Earth)!
     - name: "[Challenge] Review result"
-      date: TBA
+      date: Aug. 23rd, 2021
     - name: "Review result"
       date: Aug. 23rd, 2021
     - name: "Resubmission for conditionally accepted paper"
