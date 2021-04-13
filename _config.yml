@@ -100,14 +100,14 @@ committee:
         affil: Kyushu Institute of Technology / AUTOCARE LLC, Japan
       - name: Atiqur Rahman Ahad
         affil: University of Dhaka, Bangladesh / Osaka University, Japan
-
-tmp: 
   - role: Program Chairs
     member:
       - name: Daniel Roggen
         affil: University of Sussex, UK
       - name: Kaori Fujinami
         affil: Tokyo University of Agriculture and Technology, Japan
+
+tmp: 
 #  - role: Publicity Chair
 #    member:
 #      - name: Brahim Benaissa
