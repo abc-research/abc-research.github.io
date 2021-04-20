@@ -115,6 +115,7 @@ committee:
       - name: Tahera Hossain
         affil: Kyushu Institute of Technology, Japan
   - role: Local Organization Chair
+    member:
       - name: Phond Phunchongharn
         affil: KMUTT, Thailand
   - role: Advisory Board
