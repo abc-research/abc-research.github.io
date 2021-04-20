@@ -106,16 +106,17 @@ committee:
         affil: University of Sussex, UK
       - name: Kaori Fujinami
         affil: Tokyo University of Agriculture and Technology, Japan
-
-tmp: 
-#  - role: Publicity Chair
-#    member:
-#      - name: Brahim Benaissa
-#        affil: Kyushu Institute of Technology, Japan    
-#  - role: Publication Chair
+#  - role: Publicity Chairs
 #    member:
 #      - name: Paula Lago
 #        affil: Kyushu Institute of Technology, Japan
+  - role: Publication Chair
+    member:
+      - name: Tahera Hossain
+        affil: Kyushu Institute of Technology, Japan
+  - role: Local Organization Chair
+      - name: Phond Phunchongharn
+        affil: KMUTT, Thailand
   - role: Advisory Board
     member:
       - name: Paul Lukowicz
@@ -134,8 +135,6 @@ tmp:
         affil: Nagoya University, Japan
   - role: Secretaries
     member:
-      - name: Tahera Hossain
-        affil: Kyushu Institute of Technology, Japan
 #      - name: Moe Matsuki
 #        affil: Kyushu Institute of Technology, Japan
       - name: Nattaya Mairittha
@@ -156,36 +155,34 @@ tmp:
         affil: University of Freiburg, Germany
       - name: Hristijan Gjoreski
         affil: Ss. Cyril and Methodius University, Macedonia
-      - name: Katsuhiko Kaji
-        affil: Aichi Institute of Technology, Japan
-      - name: Tsuyoshi Okita
-        affil: Kyushu Institute of Technology / Riken, Japan
-      - name: Paula Lago
-        affil: Kyushu Institute of Technology, Japan
+#      - name: Katsuhiko Kaji
+#        affil: Aichi Institute of Technology, Japan
+#      - name: Tsuyoshi Okita
+#        affil: Kyushu Institute of Technology / Riken, Japan
+#      - name: Paula Lago
+#        affil: Kyushu Institute of Technology, Japan
       - name: Stephan Sigg
         affil: Aalto University, Finland
-      - name: Hiroki Watanabe
-        affil: Hokkaido University, Japan
+#      - name: Hiroki Watanabe
+#        affil: Hokkaido University, Japan
       - name: Pascal Hirmer
         affil: University of Stuttgart, Germany
-      - name: Shigeyuki Miyagi
-        affil: The University of Shiga Prefecture, Japan
+#      - name: Shigeyuki Miyagi
+#        affil: The University of Shiga Prefecture, Japan
       - name: Yu Enokibori
         affil: Nagoya University, Japan
-      - name: Anja Exler
-        affil: Karlsruhe Institute of Technology, Germany
+#      - name: Anja Exler
+#        affil: Karlsruhe Institute of Technology, Germany
       - name: Kristina Yordanova
         affil: University of Rostock, Germany
-      - name: Trung Thanh NGO
-        affil: Osaka University, Japan
-      - name: Ricky J Sethi
-        affil: Fitchburg State University, USA
-#      - name: Meng Joo
-#        affil: Nanyang Technological University, Singapore
-      - name: Ikuhisa Mitsugami
-        affil: Hiroshima City University, Japan
-      - name: Mohiuddin Ahmad	
-        affil: Khulna University of Engineering & Technology, Bangladesh
+#      - name: Trung Thanh NGO
+#        affil: Osaka University, Japan
+#      - name: Ricky J Sethi
+#        affil: Fitchburg State University, USA
+#      - name: Ikuhisa Mitsugami
+#        affil: Hiroshima City University, Japan
+#      - name: Mohiuddin Ahmad	
+#        affil: Khulna University of Engineering & Technology, Bangladesh
       - name: Upal Mahbub
         affil: University of Meryland, College Park, USA
       - name: Atsushi Shimada
@@ -194,19 +191,16 @@ tmp:
         affil: Aoyama Gakuin University, Japan        
       - name: Atsushi Nakazawa
         affil: Kyoto University, Japan
-      - name: Liming Chen
-        affil: Ulster University, UK
+#      - name: Liming Chen
+#        affil: Ulster University, UK
       - name: Christopher Nugent
         affil: Ulster University, UK
-      - name: François Charpillet 
-        affil: INRIA, France
+#      - name: François Charpillet 
+#        affil: INRIA, France
       - name: Maria Del Pilar Villamil Giraldo
         affil: University of Los Andes, Colombia
-      - name: Shoji Kobashi
-        affil: University of Hyogo, Japan
-      - name: Phond Phunchongharn
-        affil: KMUTT, Thailand
-
+#      - name: Shoji Kobashi
+#        affil: University of Hyogo, Japan
 cfp:
   text:
     - text: "We welcome 4 categories of papers: regular  papers, position papers, survey papers, and challenge papers. The submitted papers are <u>peer reviewed</u> by expert researchers, and accepted based on the research quality."
