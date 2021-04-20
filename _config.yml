@@ -240,7 +240,7 @@ cfp:
 #    - item: "4-6 pages: The authors can choose to give copyright to IEEE then the paper will be sent to IEEE Xplore as ICIEV-IVPR 2020 proceedings. "
 #    - item: "2-6 pages: The authors can choose not for IEEE and hence, copyright is not transfered."
      - item: "Please use Springer Contributed Book format (button below for the LaTeX template)."
-     - item: "<strike>Submit from Microsoft CMT for ICIEV2020  (button below) and select the ABC. </strike> TBA."
+     - item: "<strike>Submit from Microsoft CMT service (button below) and select the ABC. </strike> TBA."
      - item: "Note that the <b>author information should be removed</b> from the paper, for double blind reviews."
   dates:
     - name: "[Challenge] Registration"
