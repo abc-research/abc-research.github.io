@@ -176,8 +176,8 @@ committee:
 #        affil: Karlsruhe Institute of Technology, Germany
       - name: Kristina Yordanova
         affil: University of Rostock, Germany
-#      - name: Trung Thanh NGO
-#        affil: Osaka University, Japan
+      - name: Trung Thanh NGO
+        affil: Osaka University, Japan
 #      - name: Ricky J Sethi
 #        affil: Fitchburg State University, USA
 #      - name: Ikuhisa Mitsugami
@@ -196,8 +196,8 @@ committee:
 #        affil: Ulster University, UK
       - name: Christopher Nugent
         affil: Ulster University, UK
-#      - name: François Charpillet 
-#        affil: INRIA, France
+      - name: François Charpillet 
+        affil: INRIA, France
       - name: Maria Del Pilar Villamil Giraldo
         affil: University of Los Andes, Colombia
 #      - name: Shoji Kobashi
