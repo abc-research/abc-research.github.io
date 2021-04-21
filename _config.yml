@@ -156,16 +156,16 @@ committee:
         affil: University of Freiburg, Germany
       - name: Hristijan Gjoreski
         affil: Ss. Cyril and Methodius University, Macedonia
-#      - name: Katsuhiko Kaji
-#        affil: Aichi Institute of Technology, Japan
-#      - name: Tsuyoshi Okita
-#        affil: Kyushu Institute of Technology / Riken, Japan
-#      - name: Paula Lago
-#        affil: Kyushu Institute of Technology, Japan
+      - name: Katsuhiko Kaji
+        affil: Aichi Institute of Technology, Japan
+      - name: Tsuyoshi Okita
+        affil: Kyushu Institute of Technology / Riken, Japan
+      - name: Paula Lago
+        affil: Kyushu Institute of Technology, Japan
       - name: Stephan Sigg
         affil: Aalto University, Finland
-#      - name: Hiroki Watanabe
-#        affil: Hokkaido University, Japan
+      - name: Hiroki Watanabe
+        affil: Hokkaido University, Japan
       - name: Pascal Hirmer
         affil: University of Stuttgart, Germany
 #      - name: Shigeyuki Miyagi
