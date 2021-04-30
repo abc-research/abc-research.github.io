@@ -106,10 +106,14 @@ committee:
         affil: University of Sussex, UK
       - name: Kaori Fujinami
         affil: Tokyo University of Agriculture and Technology, Japan
-#  - role: Publicity Chairs
-#    member:
-#      - name: Paula Lago
-#        affil: Kyushu Institute of Technology, Japan
+  - role: Publicity Chairs
+    member:
+      - name: Paula Lago
+        affil: Kyushu Institute of Technology, Japan
+      - name: Anja Exler
+        affil: Karlsruhe Institute of Technology, Germany
+      - name: Hiroki Watanabe
+        affil: Hokkaido University, Japan
   - role: Publication Chair
     member:
       - name: Tahera Hossain
@@ -168,8 +172,8 @@ committee:
         affil: Hokkaido University, Japan
       - name: Pascal Hirmer
         affil: University of Stuttgart, Germany
-#      - name: Shigeyuki Miyagi
-#        affil: The University of Shiga Prefecture, Japan
+      - name: Shigeyuki Miyagi
+        affil: The University of Shiga Prefecture, Japan
       - name: Yu Enokibori
         affil: Nagoya University, Japan
 #      - name: Anja Exler
