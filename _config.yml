@@ -268,7 +268,7 @@ cfp:
 # Sep. 15th: submit to the publisher
     - name: "Conference"
       date: Oct. 20th - 23rd, 2021
-#  submit_url: https://cmt3.research.microsoft.com/IVPRICIEV2020/Track/3/Submission/Create
+  submit_url: https://cmt3.research.microsoft.com/ABC2021/Submission/Index
   template_url: https://resource-cms.springernature.com/springer-cms/rest/v1/content/20568/data/v8
 
 venue:
