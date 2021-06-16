@@ -234,7 +234,7 @@ cfp:
   category:
     - item: "<b>Regular papers</b>: full technical contents which describe the accuracy and performance of ABC Systems, real deployment cases or application of new paradigms such as deep learning to ABC. "
     - item: "<b>Survey papers</b>: new perspective or new challenges in ABC based on literature survey. We do not welcome just compilations of existing research, but do if it provides new research horizons."
-    - item: "<b>Challenge papers</b>: we will provide a dataset and accept results for activity recognition and papers describing the methods and the results. Please see the <a href='https://abc-research.github.io/???'><b style='color:yellow';>Challenge Site (TBA)</b></a> for details."
+    - item: "<b>Challenge papers</b>: we will provide a dataset and accept results for activity recognition and papers describing the methods and the results. Please see the <a href='https://abc-research.github.io/bento2021'><b style='color:yellow';>Challenge Site)</b></a> for details."
     - item: "<b>Position papers</b>: describe the challenges and future directions of ABC based on  problems that arise when systems are deployed in real settings."
   format: 
      - item: "<b>Regular papers</b>: 8-20 pages in single column"
@@ -290,15 +290,19 @@ social:
 #    url: http://github.com/abc-research
 
 series:
+  - text: "Bento2021: Bento Packaging Activity Recognition Challenge at ABC2021"
+    url: https://abc-research.github.io/bento2021
+  - text: "Nurse2021: Third Nurse Care Activity Recognition Challenge - Can we do from bigdata? - at HASCA2021"
+    url: https://abc-research.github.io/nurse2021
   - text: "ABC2020: International Conference on Activity and Behavior Computing @Kitakyushu, Japan"
     url: https://abc-research.github.io/2020
   - text: "ABC2019: International Conference on Activity and Behavior Computing @Spokane, US"
     url: https://abc-research.github.io/2019
-  - text: "Cooking Activity Recognition Challenge at ABC2020"
+  - text: "Cook2020: Cooking Activity Recognition Challenge at ABC2020"
     url: https://abc-research.github.io/cook2020
-  - text: "Second Nurse Care Activity Recognition Challenge - From Lab to Field - at HASCA2020"
+  - text: "Nurse2020: Second Nurse Care Activity Recognition Challenge - From Lab to Field - at HASCA2020"
     url: https://abc-research.github.io/nurse2020
-  - text: "Nurse Care Activity Recognition Challenge 2019"
+  - text: "Nurse2019: Nurse Care Activity Recognition Challenge 2019"
     url: https://hasc-nurse-challenge.github.io
   - text: "HASCA2019: International Workshop on Human Activity Sensing Corpus and Applications"
     url: http://hasca2019.hasc.jp
