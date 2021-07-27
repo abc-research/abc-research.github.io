@@ -246,11 +246,11 @@ cfp:
      - item: "Note that the <b>author information should be removed</b> from the paper, for double blind reviews."
   dates:
     - name: "[Regular/Survey/Position] Paper submission"
-      date: <b><span style="color:yellow"> Jul. 26th, 2021 (Extended!)</span></b><strike style="color:gray">Jul. 2nd</strike>(Anywhere on Earth)!
+      date: <b><span style="color:yellow"> Aug. 20th, 2021 (Extended!)</span></b><strike style="color:gray">Jul. 2nd</strike>(Anywhere on Earth)!
     - name: "Review result"
-      date: Jul. 27th, 2021 <strike style="color:gray">Aug. 23rd</strike> 
+      date: Sep. 10th, 2021 <strike style="color:gray">Aug. 23rd</strike> 
     - name: "Resubmission for conditionally accepted paper"
-      date: Sep. 10th, 2021 <strike style="color:gray">Sep. 1st</strike> 
+      date: Sep. 24th, 2021 <strike style="color:gray">Sep. 1st</strike> 
     - name: <span style="color:#CCCCCC">[Challenge] Application</span>
       date: <span style="color:#CCCCCC">Aug. 17th, 2021 (Extended!)</b><strike style="color:gray">Jul. 1st</strike> <b>  (Anywhere on Earth)!</span>
     - name: <span style="color:#CCCCCC">[Challenge] Result submission</span>
@@ -261,7 +261,7 @@ cfp:
     - name: <span style="color:#CCCCCC">(Challenge) Review result</span>
       date: <span style="color:#CCCCCC">Sep. 2nd, 2021 <strike style="color:gray">Aug. 23rd</strike></span>
     - name: '[Regular/Survey/Position/Challenge] Camera ready and Registration'
-      date: Sep. 17th, 2021 <strike style="color:gray">Sep. 7th</strike> 
+      date: Oct. 1st, 2021 <strike style="color:gray">Sep. 7th</strike> 
 # Sep. 15th: submit to the publisher
     - name: "Conference"
       date: Oct. 20th - 23rd, 2021
