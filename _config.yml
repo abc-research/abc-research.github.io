@@ -246,7 +246,7 @@ cfp:
      - item: "Note that the <b>author information should be removed</b> from the paper, for double blind reviews."
   dates:
     - name: "[Regular/Survey/Position] Paper submission"
-      date: <b><span style="color:yellow"> Aug. 20th, 2021 (Extended!)</span></b>(Anywhere on Earth)!
+      date: <b><span style="color:yellow"> Aug. 20th, 2021 (Extended!)</span></b> (Anywhere on Earth)!
 # <strike style="color:gray">Jul. 2nd</strike>      
     - name: "Review result"
       date: Sep. 10th, 2021
@@ -255,7 +255,7 @@ cfp:
       date: Sep. 24th, 2021
       #<strike style="color:gray">Sep. 1st</strike> 
     - name: <span style="color:#CEF9DC">[Challenge] Application</span>
-      date: <span style="color:#CEF9DC">Aug. 17th, 2021 <b>(Extended!)</b>(Anywhere on Earth)!</span>
+      date: <span style="color:#CEF9DC">Aug. 17th, 2021 <b>(Extended!)</b> (Anywhere on Earth)!</span>
 #    <strike style="color:gray">Jul. 1st</strike> 
     - name: <span style="color:#CEF9DC">[Challenge] Result submission</span>
       date: <span style="color:#CEF9DC">Aug. 17th, 2021 (Anywhere on Earth)!</span>
