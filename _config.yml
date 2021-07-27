@@ -246,22 +246,30 @@ cfp:
      - item: "Note that the <b>author information should be removed</b> from the paper, for double blind reviews."
   dates:
     - name: "[Regular/Survey/Position] Paper submission"
-      date: <b><span style="color:yellow"> Aug. 20th, 2021 (Extended!)</span></b><strike style="color:gray">Jul. 2nd</strike>(Anywhere on Earth)!
+      date: <b><span style="color:yellow"> Aug. 20th, 2021 (Extended!)</span></b>(Anywhere on Earth)!
+# <strike style="color:gray">Jul. 2nd</strike>      
     - name: "Review result"
-      date: Sep. 10th, 2021 <strike style="color:gray">Aug. 23rd</strike> 
+      date: Sep. 10th, 2021
+#<strike style="color:gray">Aug. 23rd</strike> 
     - name: "Resubmission for conditionally accepted paper"
-      date: Sep. 24th, 2021 <strike style="color:gray">Sep. 1st</strike> 
+      date: Sep. 24th, 2021
+      #<strike style="color:gray">Sep. 1st</strike> 
     - name: <span style="color:#CEF9DC">[Challenge] Application</span>
-      date: <span style="color:#CEF9DC">Aug. 17th, 2021 (Extended!)</b><strike style="color:gray">Jul. 1st</strike> <b>  (Anywhere on Earth)!</span>
+      date: <span style="color:#CEF9DC">Aug. 17th, 2021 <b>(Extended!)</b>(Anywhere on Earth)!</span>
+#    <strike style="color:gray">Jul. 1st</strike> 
     - name: <span style="color:#CEF9DC">[Challenge] Result submission</span>
-      date: <span style="color:#CEF9DC">Aug. 17th, 2021 <strike style="color:gray">Aug. 1st</strike> (Anywhere on Earth)!</span>
+      date: <span style="color:#CEF9DC">Aug. 17th, 2021 (Anywhere on Earth)!</span>
+#       <strike style="color:gray">Aug. 1st</strike>
 # Aug. 9th: review deadline
     - name: <span style="color:#CEF9DC">(Challenge) Paper submission</span>
-      date: <span style="color:#CEF9DC">Aug. 20th, 2021 <strike style="color:gray">Aug. 1st</strike> (Anywhere on Earth)!</span>
+      date: <span style="color:#CEF9DC">Aug. 20th, 2021  (Anywhere on Earth)!</span>
+#      <strike style="color:gray">Aug. 1st</strike>
     - name: <span style="color:#CEF9DC">(Challenge) Review result</span>
-      date: <span style="color:#CEF9DC">Sep. 2nd, 2021 <strike style="color:gray">Aug. 23rd</strike></span>
+      date: <span style="color:#CEF9DC">Sep. 2nd, 2021</span>
+# <strike style="color:gray">Aug. 23rd</strike>      
     - name: '[Regular/Survey/Position/Challenge] Camera ready and Registration'
-      date: Oct. 1st, 2021 <strike style="color:gray">Sep. 7th</strike> 
+      date: Oct. 1st, 2021
+      #<strike style="color:gray">Sep. 7th</strike> 
 # Sep. 15th: submit to the publisher
     - name: "Conference"
       date: Oct. 20th - 23rd, 2021
