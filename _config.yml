@@ -248,17 +248,17 @@ cfp:
     - name: "[Regular/Survey/Position] Paper submission"
       date: <strike style="color:gray">Jul. 2nd</strike><b> Jul. 26th, 2021 (Extended!)</b> Jul. 26th (Anywhere on Earth)!
     - name: "Review result"
-      date: <strike style="color:#FFFFCC">Aug. 23rd</strike> Jul. 27th, 2021
+      date: <strike style="color:gray">Aug. 23rd</strike> Jul. 27th, 2021
     - name: "Resubmission for conditionally accepted paper"
       date: <strike style="color:gray">Sep. 1st</strike> Sep. 10th, 2021
-    - name: "[Challenge] Application"
+    - name: <span style="color:#FFFFCC">[Challenge] Application</span>
       date: <strike style="color:gray">Jul. 1st</strike> <b> Jul. 15th, 2021 (Extended!)</b> (Anywhere on Earth)!
-    - name: "[Challenge] Result submission"
+    - name: <span style="color:#FFFFCC">[Challenge] Result submission</span>
       date: Aug. 1st, 2021 (Anywhere on Earth)!
 # Aug. 9th: review deadline
-    - name: "(Challenge) Paper submission"
+    - name: <span style="color:#FFFFCC">(Challenge) Paper submission</span>
       date: Aug. 1st, 2021 (Anywhere on Earth)!
-    - name: <span style="color:cyan">(Challenge) Review result</span>
+    - name: <span style="color:#FFFFCC">(Challenge) Review result</span>
       date: Aug. 23rd, 2021
     - name: "[Regular/Survey/Position/Challenge] Camera ready and Registration"
       date: <strike style="color:gray">Sep. 7th</strike> Sep. 17th, 2021
