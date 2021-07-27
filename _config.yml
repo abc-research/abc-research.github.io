@@ -258,7 +258,7 @@ cfp:
 # Aug. 9th: review deadline
     - name: "(Challenge) Paper submission"
       date: Aug. 1st, 2021 (Anywhere on Earth)!
-    - name: "<span style="color:cyan">(Challenge) Review result"</span>
+    - name: <span style="color:cyan">(Challenge) Review result</span>
       date: Aug. 23rd, 2021
     - name: "[Regular/Survey/Position/Challenge] Camera ready and Registration"
       date: <strike style="color:gray">Sep. 7th</strike> Sep. 17th, 2021
