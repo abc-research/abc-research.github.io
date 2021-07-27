@@ -252,14 +252,14 @@ cfp:
     - name: "Resubmission for conditionally accepted paper"
       date: Sep. 10th, 2021 <strike style="color:gray">Sep. 1st</strike> 
     - name: <span style="color:#CCCCCC">[Challenge] Application</span>
-      date: Jul. 15th, 2021 (Extended!)</b><strike style="color:gray">Jul. 1st</strike> <b>  (Anywhere on Earth)!
+      date: <span style="color:#CCCCCC">Jul. 15th, 2021 (Extended!)</b><strike style="color:gray">Jul. 1st</strike> <b>  (Anywhere on Earth)!</span>
     - name: <span style="color:#CCCCCC">[Challenge] Result submission</span>
-      date: Aug. 1st, 2021 (Anywhere on Earth)!
+      date: <span style="color:#CCCCCC">Aug. 1st, 2021 (Anywhere on Earth)!</span>
 # Aug. 9th: review deadline
     - name: <span style="color:#CCCCCC">(Challenge) Paper submission</span>
-      date: Aug. 1st, 2021 (Anywhere on Earth)!
+      date: <span style="color:#CCCCCC">Aug. 1st, 2021 (Anywhere on Earth)!</span>
     - name: <span style="color:#CCCCCC">(Challenge) Review result</span>
-      date: Aug. 23rd, 2021
+      date: <span style="color:#CCCCCC">Aug. 23rd, 2021</span>
     - name: '[Regular/Survey/Position/Challenge] Camera ready and Registration'
       date: Sep. 17th, 2021 <strike style="color:gray">Sep. 7th</strike> 
 # Sep. 15th: submit to the publisher
@@ -293,7 +293,7 @@ series:
   - text: "<b>ABC2019</b>: International Conference on Activity and Behavior Computing @Spokane, US"
     url: https://abc-research.github.io/2019
   - text: "<b>Bento2021</b>: Bento Packaging Activity Recognition Challenge in ABC2021"
-    url: https://abc-research.github.io/bento2021
+    url: https://abc-research.github.io/bento2021a
   - text: "<b>Cook2020</b>: Cooking Activity Recognition Challenge in ABC2020 @Kitakyushu, Japan"
     url: https://abc-research.github.io/cook2020
   - text: "<b>Nurse2021</b>: Third Nurse Care Activity Recognition Challenge - Can we Do from Bigdata? - in HASCA2021"
