@@ -248,7 +248,7 @@ cfp:
     - name: "[Regular/Survey/Position] Paper submission"
       date: <strike style="color:gray">Jul. 2nd</strike><b> Jul. 26th, 2021 (Extended!)</b> Jul. 26th (Anywhere on Earth)!
     - name: "Review result"
-      date: <strike style="color:gray">Aug. 23rd</strike> Jul. 27th, 2021
+      date: <strike style="color:#FFFFCC">Aug. 23rd</strike> Jul. 27th, 2021
     - name: "Resubmission for conditionally accepted paper"
       date: <strike style="color:gray">Sep. 1st</strike> Sep. 10th, 2021
     - name: "[Challenge] Application"
