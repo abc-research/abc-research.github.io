@@ -4,7 +4,7 @@ email: abc@sozolab.jp
 url: https://abc-research.github.io
 description: "International Conference on Activity and Behavior Computing (ABC), which includes Human Activity Recognition with mobile / environmental sensors in ubiquitous / pervasive domains and with cameras in vision domains, and Human Behavior Analysis for long-term health care, rehabilitation, emotion recognition, human interaction, and so on."
 keywords: "activity recognition, behavior analysis, international conference, activity and behavior computing"
-conf_title1: "International Conference on"
+conf_title1: "The 3rd International Conference on"
 conf_title2: "Activity and Behavior Computing"
 meta_author: Sozo Inoue
 location: Knowledge Exchange Center (KX), Bangkok, Thailand (and Online Participation)
@@ -210,7 +210,7 @@ cfp:
   text:
     - text: "We welcome 4 categories of papers: regular  papers, position papers, survey papers, and challenge papers. The submitted papers are <u>peer reviewed</u> by expert researchers, and accepted based on the research quality."
     - text: "Accepted papers will be included in the <a href='https://www.springer.com/series/8767' style='color:white'>Smart Innovation, Systems and Technologies series</a> of <u>Springer books</u> (Indexed in ISI Proceedings, EI-Compendex, SCOPUS, Google Scholar and Springerlink)."
-    - text: "Selected papers will be invited to submit to the <u>Pattern Recognition Letters</u> journal (5-Year Impact Factor: 2.350) and to <u>International Journal on Computer Vision and Signal Processing</u>."
+#    - text: "Selected papers will be invited to submit to the <u>Pattern Recognition Letters</u> journal (5-Year Impact Factor: 2.350) and to <u>International Journal on Computer Vision and Signal Processing</u>."
 #    - text: To accept various research stages, an accepted paper can be either published in IEEE proceedings + USB, Open web + USB, or USB only upon authors' preference."
   scope:
     - item: Mobile sensor-based ABC
@@ -245,21 +245,21 @@ cfp:
      - item: "Submit from Microsoft CMT service (button below) and select the ABC."
      - item: "Note that the <b>author information should be removed</b> from the paper, for double blind reviews."
   dates:
-    - name: "[Challenge] Registration"
-      date: <strike style="color:gray">Jul. 1st</strike> <b> Jul. 15th, 2021 (Extended!)</b> (Anywhere on Earth)!
-    - name: "[Challenge] Result submission"
-      date: Aug. 1st, 2021 (Anywhere on Earth)!
-# Aug. 9th: review deadline
-    - name: "[Challenge] Paper submission"
-      date: Aug. 1st, 2021 (Anywhere on Earth)!
-    - name: "[Challenge] Review result"
-      date: Aug. 23rd, 2021
     - name: "[Regular/Survey/Position] Paper submission"
       date: <strike style="color:gray">Jul. 2nd</strike><b> Jul. 26th, 2021 (Extended!)</b> Jul. 26th (Anywhere on Earth)!
     - name: "Review result"
       date: <strike style="color:gray">Aug. 23rd</strike> Jul. 27th, 2021
     - name: "Resubmission for conditionally accepted paper"
       date: <strike style="color:gray">Sep. 1st</strike> Sep. 10th, 2021
+    - name: "[Challenge] Application"
+      date: <strike style="color:gray">Jul. 1st</strike> <b> Jul. 15th, 2021 (Extended!)</b> (Anywhere on Earth)!
+    - name: "[Challenge] Result submission"
+      date: Aug. 1st, 2021 (Anywhere on Earth)!
+# Aug. 9th: review deadline
+    - name: "(Challenge) Paper submission"
+      date: Aug. 1st, 2021 (Anywhere on Earth)!
+    - name: "<span style="color:cyan">(Challenge) Review result"</span>
+      date: Aug. 23rd, 2021
     - name: "[Regular/Survey/Position/Challenge] Camera ready and Registration"
       date: <strike style="color:gray">Sep. 7th</strike> Sep. 17th, 2021
 # Sep. 15th: submit to the publisher
