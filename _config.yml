@@ -271,7 +271,7 @@ cfp:
 venue:
   - text: ABC2021 will be held at Knowledge Exchange Center (KX), Bangkok, Thailand, Japan. KX is the exchange center for academia and start-ups.
   - text: For more information, please see <a href="https://www.kxinnovation.com/en">here</a>.
-  - text: We are considering to do it either of hybrid or online style. Anyway we provide online participation at least.
+  - text: We are considering to do it <b>either of hybrid or online style</b>. Anyway we provide online participation at least.
 #  - text: <div class="movie-wrap"><iframe width="700" height="485" src="https://www.youtube.com/embed/8ZYPX7xI7ZE?list=PLP-mfYAs9cGw5kQfBfNCKbralx3a5xSoi" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -292,17 +292,17 @@ series:
     url: https://abc-research.github.io/2020
   - text: "ABC2019: International Conference on Activity and Behavior Computing @Spokane, US"
     url: https://abc-research.github.io/2019
-  - text: "Bento2021: Bento Packaging Activity Recognition Challenge at ABC2021"
+  - text: "Bento2021: Bento Packaging Activity Recognition Challenge in ABC2021 @Thailand"
     url: https://abc-research.github.io/bento2021
-  - text: "Cook2020: Cooking Activity Recognition Challenge at ABC2020"
+  - text: "Cook2020: Cooking Activity Recognition Challenge in ABC2020 @Kitakyushu, Japan"
     url: https://abc-research.github.io/cook2020
-  - text: "Nurse2020: Second Nurse Care Activity Recognition Challenge - From Lab to Field - at HASCA2020"
-    url: https://abc-research.github.io/nurse2020
-  - text: "Nurse2021: Third Nurse Care Activity Recognition Challenge - Can we Do from Bigdata? - at HASCA2021"
+  - text: "Nurse2021: Third Nurse Care Activity Recognition Challenge - Can we Do from Bigdata? - in HASCA2021 @Thailand"
     url: https://abc-research.github.io/nurse2021
-  - text: "Nurse2019: Nurse Care Activity Recognition Challenge 2019"
+  - text: "Nurse2020: Second Nurse Care Activity Recognition Challenge - From Lab to Field - in HASCA2020 @Mexico"
+    url: https://abc-research.github.io/nurse2020
+  - text: "Nurse2019: Nurse Care Activity Recognition Challenge 2019 in HASCA2019 @London"
     url: https://hasc-nurse-challenge.github.io
-  - text: "HASCA2019: International Workshop on Human Activity Sensing Corpus and Applications"
+  - text: "HASCA2019: International Workshop on Human Activity Sensing Corpus and Applications @London"
     url: http://hasca2019.hasc.jp
 
 
