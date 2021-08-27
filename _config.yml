@@ -206,6 +206,12 @@ committee:
         affil: University of Los Andes, Colombia
 #      - name: Shoji Kobashi
 #        affil: University of Hyogo, Japan
+      - name: Takuro Yonezawa
+        affil: Nagoya University, Japan
+      - name: Anna Yokokubo
+        affil: Aoyama Gakuin University, Japan
+
+    
 cfp:
   text:
     - text: "We welcome 4 categories of papers: regular  papers, position papers, survey papers, and challenge papers. The submitted papers are <u>peer reviewed</u> by expert researchers, and accepted based on the research quality."
