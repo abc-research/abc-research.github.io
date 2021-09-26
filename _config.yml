@@ -292,7 +292,8 @@ cfp:
   template_url: https://ja.overleaf.com/latex/templates/template-for-authors-to-a-springer-contributed-volume/bbfkkmdbdtcy
 
 venue:
-  - text: ABC2021 will be held <strike>at Knowledge Exchange Center (KX), Bangkok, Thailand</strike> (<b style="color:orange">Changed to Online</b>). KX is the exchange center for academia and start-ups.
+  - text: ABC2021 will be held <strike>at Knowledge Exchange Center (KX), Bangkok, Thailand</strike> (<b style="color:orange">Changed to Online</b>). 
+#  KX is the exchange center for academia and start-ups.
 #  - text: For more information, please see <a href="https://www.kxinnovation.com/en">here</a>.
 #  - text: We are considering to do it <b>either of hybrid or online style</b>. Anyway we provide online participation at least.
 #  - text: <div class="movie-wrap"><iframe width="700" height="485" src="https://www.youtube.com/embed/8ZYPX7xI7ZE?list=PLP-mfYAs9cGw5kQfBfNCKbralx3a5xSoi" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
