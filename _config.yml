@@ -16,8 +16,8 @@ conjunction:
 navitem:
   - name: About
     url: "#about"
-#  - name: Registration
-#    url: "https://sites.google.com/view/iciev-abc-2020-payment"
+  - name: Registration
+    url: "#registration"
 #  - name: Program
 #    url: "#program"
   - name: CFP
@@ -35,9 +35,10 @@ includes:
   - file: header.html
 #  - file: sponsors.html
   - file: about.html
-  - file: keynote.html
+#  - file: keynote.html
 #  - file: program.html
   - file: cfp.html
+  - file: registration.html
   - file: venue.html
   - file: committee.html
   - file: series.html
