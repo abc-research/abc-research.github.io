@@ -1,0 +1,24 @@
+<!-- About Section -->
+    <section id="keynote">
+        <div class="container">
+            <div>
+                <div class="col-lg-12 text-center">
+                    <h2>Keynote</h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                  {% for keynote in site.keynotes %}
+                    <img src="{{keynote.photo}}"/>
+                    <h3>{{keynote.name}}</h3>
+                    <p>{{keynote.affiliation}}</p>
+                    <h4>{{keynote.title}}</h4>
+                    <p>{{keynote.abst}}</p>
+                    <h5>{{keynote.name}}</h5>
+                    <p>{{keynote.bio}}</h5>
+                  {% endfor %}
+                </div>
+            </div>
+        </div>
+    </section>
