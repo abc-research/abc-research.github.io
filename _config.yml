@@ -79,23 +79,32 @@ about:
   - text: "<b>Human Activity Recognition</b> has been researched in thousands of papers so far, with mobile / environmental sensors in ubiquitous / pervasive domains, and with cameras in vision domains. As well, <b>Human Behavior Analysis</b> is also explored for long-term health care, rehabilitation, emotion recognition, human interaction, and so on. However, many research challenges remain for realistic settings, such as complex and ambiguous activities / behavior, optimal sensor combinations, (deep) machine learning, data collection, platform systems, and killer applications."
   - text: "In this conference, we comprehend such research domains as <b>ABC</b>: <i>Activity and Behavior Computing</i>, and provide an open and a confluent place for discussing various aspects and the future of the ABC."
 
+program:
+  - date: "Jun. 1st, 2019"
+    session: 
+      - name: Session 1
+        time: "8:50-10:10"
+        paper: 
+          - title: "TBA"
+            authors: "TBA (Univ); TBA (Univ)"
+      - name: Session 2
+        time: "10:20-11:40"
+        paper: 
+          - title: "TBA"
+            authors: "TBA"
+      - name: Session 3
+        time: "13:30-14:50"
+        paper: 
+          - title: "TBA"
+            authors: "TBA"
+      - name: Session 4
+        time: "15:20-17:00"
+        paper: 
+          - title: "TBA"
+          - title: "TBA"
+            authors: "TBA"
 
-
-# accepted papers (temporary)
-accepted:
-  - category: Regular Papers
-    paper: 
-    - title:	Improvement of Human Action Recognition Using 3D Pose Estimation
-      authors:	Kohei Adachi (Kyushu Institute of Technology)*; Paula Lago (Kyushu Institute of Technology ); Tsuyoshi Okita (Kyushu Institute of Technology); Sozo Inoue (Kyushu Institute of Technology)
-    - title:	Reducing Energy Consumption by Behavioural Change – It is possible!
-      authors:	Dietrich Albert (University of Graz & Graz University of Technology)*; Michael Bedek (University of Graz & Graz University of Technology); Wolfgang Horn (Horn Consult, Leibnitz)
-  - category: "Non-archival Papers"
-    paper:
-    - title:	Exploring the use of accelerometer for assisting weight lifting exercise
-      authors:	Nour Alhuda Al bougha (Kyushu Institute of Technology)*; Sozo Inoue (Kyushu Institute of Technology); brahim benaissa (kyushu institute of technology)
-    - title:	Towards New Performance Metrics for Multi-level Data for Activity Recognition
-      authors:	Sayeda Shamma Alia (Kyushu Institute of Technology)*; Paula Lago (Kyutech); Sozo Inoue (Kyushu Institute of Technology)
-
+  
 # Committee members
 committee:
   - role: General Chairs
