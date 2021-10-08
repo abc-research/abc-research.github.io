@@ -80,30 +80,35 @@ about:
   - text: "In this conference, we comprehend such research domains as <b>ABC</b>: <i>Activity and Behavior Computing</i>, and provide an open and a confluent place for discussing various aspects and the future of the ABC."
 
 program:
-  - date: "Jun. 1st, 2019"
+  - date: "Oct. 22nd (Fri.), 2021"
+    session: 
+      - name: Opening
+        time: "13:00-13:10"
+        paper: 
+          - title: "TBA"
+            authors: "TBA (Univ); TBA (Univ)"
+      - name: Session 1
+        time: "13:10-14:10"
+        paper: 
+          - title: "TBA"
+            authors: "TBA (Univ); TBA (Univ)"
+      - name: Session 2
+        time: "14:20-15:50"
+        paper: 
+          - title: "TBA"
+            authors: "TBA (Univ); TBA (Univ)"
+      - name: Session 3
+        time: "16:00-17:00"
+        paper: 
+          - title: "TBA"
+            authors: "TBA (Univ); TBA (Univ)"
+  - date: "Oct. 23rd (Sat.), 2021"
     session: 
       - name: Session 1
         time: "8:50-10:10"
         paper: 
           - title: "TBA"
             authors: "TBA (Univ); TBA (Univ)"
-      - name: Session 2
-        time: "10:20-11:40"
-        paper: 
-          - title: "TBA"
-            authors: "TBA"
-      - name: Session 3
-        time: "13:30-14:50"
-        paper: 
-          - title: "TBA"
-            authors: "TBA"
-      - name: Session 4
-        time: "15:20-17:00"
-        paper: 
-          - title: "TBA"
-          - title: "TBA"
-            authors: "TBA"
-
   
 # Committee members
 committee:
