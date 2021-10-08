@@ -16,10 +16,10 @@ conjunction:
 navitem:
   - name: About
     url: "#about"
-  - name: Registration
-    url: "#registration"
   - name: Program
     url: "#program"
+  - name: Registration
+    url: "#registration"
 #  - name: CFP
 #    url: "#cfp" 
   - name: Challenge
@@ -36,10 +36,10 @@ includes:
 #  - file: sponsors.html
   - file: about.html
   - file: keynote.html
-#  - file: venue.html
   - file: program.html
   - file: registration.html
   - file: cfp.html
+  - file: venue.html
   - file: committee.html
   - file: series.html
   
