@@ -89,10 +89,8 @@ program:
         paper: 
           - title: "3"
             authors: "TBA"
-        paper: 
           - title: "5"
             authors: "TBA"
-        paper: 
           - title: "9"
             authors: "TBA"
       - name: "Session 2: Challenge"
@@ -102,10 +100,8 @@ program:
         paper: 
           - title: "TBA2"
             authors: "TBA"
-        paper: 
           - title: "TBA10"
             authors: "TBA"
-        paper: 
           - title: "TBA27"
             authors: "TBA"
       - name: "Keynote 1"
@@ -122,7 +118,6 @@ program:
         paper: 
           - title: "TBA4"
             authors: "TBA"
-        paper: 
           - title: "TBA14"
             authors: "TBA"
         paper: 
@@ -133,16 +128,12 @@ program:
         paper: 
           - title: "TBA11"
             authors: "TBA"
-        paper: 
           - title: "TBA12"
             authors: "TBA"
-        paper: 
           - title: "TBA15"
             authors: "TBA"
-        paper: 
           - title: "TBA23"
             authors: "TBA"
-        paper: 
           - title: "TBA25"
             authors: "TBA"
       - name: "Session 7: Panel"
