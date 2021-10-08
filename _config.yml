@@ -8,7 +8,7 @@ conf_title1: "The 3rd International Conference on"
 conf_title2: "Activity and Behavior Computing"
 meta_author: Sozo Inoue
 location: Knowledge Exchange Center (KX), Bangkok, Thailand (<b style="color:yellow">Changed to Online</b>)
-date: Oct. 20th - 23rd, 2021
+date: Oct. 22nd - 23rd, 2021
 conjunction:
   name: ICIEV&IVPR2021
   url: http://cennser.org/ICIEV/
@@ -350,7 +350,7 @@ cfp:
       #<strike style="color:gray">Sep. 7th</strike> 
 # Sep. 15th: submit to the publisher
     - name: "Conference"
-      date: Oct. 20th - 23rd, 2021
+      date: Oct. 22nd - 23rd, 2021
   submit_url: https://cmt3.research.microsoft.com/ABC2021/Submission/Index
   template_url: https://ja.overleaf.com/latex/templates/template-for-authors-to-a-springer-contributed-volume/bbfkkmdbdtcy
 
