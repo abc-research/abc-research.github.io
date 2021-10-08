@@ -109,7 +109,8 @@ program:
           - title: "Bento Packaging Activity Recognition from Motion Capture Data"
             authors: "Jahir Ibna Rafiq (University of Asia Pacific)*; Shamaun Nabi (University of Asia Pacific); Al Amin (University of Asia Pacific); Shahera Hossain (University of Asia Pacific)"
           - title: "Bento Packaging Activity Recognition with Convolutional LSTM using Autocorrelation Function and Majority Vote"
-            authors: "Atsuhiro Fujii (Ritsumeikan University)*; Kazuki Yoshida (Ritsumeikan University); Kiichi Shirai (Ritsumeikan University); Kazuya Murao (Ritsumeikan University)"      - name: "Session 3: Regular papers"
+            authors: "Atsuhiro Fujii (Ritsumeikan University)*; Kazuki Yoshida (Ritsumeikan University); Kiichi Shirai (Ritsumeikan University); Kazuya Murao (Ritsumeikan University)"
+      - name: "Session 3: Regular papers"
         time: "16:00-17:00"
         paper: 
           - title: "Using Human Body Capacitance Sensing to Monitor Leg Motion Dominated Activities with a Wrist Worn Device"
