@@ -93,7 +93,7 @@ program:
             authors: "Kohei Adachi (Kyushu Institute of Technology)*; Paula Lago (Universidad Nacional Abierta y a Distancia); Yuichi Hattori (Kyushu Institute of Technology); Sozo Inoue (Kyushu Institute of Technology)"
           - title: "A data-driven approach for online pre-impact fall detection with wearable devices"
             authors: "Takuto Yoshida (Nagoya University)*"
-      - name: "Session 2: Challenge"
+      - name: "Session 2: Challenge + Awards"
         time: "14:20-15:50"
       - name: "Session 3: Regular papers"
         time: "16:00-17:00"
@@ -137,6 +137,8 @@ program:
             authors: "Anindya Das Antar (University of Dhaka); Masud Ahmed (University of Dhaka); Md Atiqur Rahman Ahad (University of Dhaka)*"
       - name: "Session 7: Panel"
         time: "15:10-17:10"
+        paper: 
+          - title: "The Future of Activity and Behavior Computing"
       - name: "Keynote 2"
         time: "17:10-18:10"
         paper: 
