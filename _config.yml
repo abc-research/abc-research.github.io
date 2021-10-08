@@ -18,8 +18,8 @@ navitem:
     url: "#about"
   - name: Registration
     url: "#registration"
-#  - name: Program
-#    url: "#program"
+  - name: Program
+    url: "#program"
   - name: CFP
     url: "#cfp" 
   - name: Challenge
@@ -84,31 +84,33 @@ program:
     session: 
       - name: Opening
         time: "13:00-13:10"
-        paper: 
-          - title: "TBA"
-            authors: "TBA (Univ); TBA (Univ)"
-      - name: Session 1
+      - name: Session 1: Regular papers
         time: "13:10-14:10"
-        paper: 
-          - title: "TBA"
-            authors: "TBA (Univ); TBA (Univ)"
-      - name: Session 2
+      - name: Session 2: Challenge
         time: "14:20-15:50"
-        paper: 
-          - title: "TBA"
-            authors: "TBA (Univ); TBA (Univ)"
-      - name: Session 3
+      - name: Session 3: Regular papers
         time: "16:00-17:00"
-        paper: 
-          - title: "TBA"
-            authors: "TBA (Univ); TBA (Univ)"
+      - name: Keynote 1
+        time: "17:00-18:00"
+      - name: Networking
+        time: "18:00-18:20"
   - date: "Oct. 23rd (Sat.), 2021"
     session: 
-      - name: Session 1
-        time: "8:50-10:10"
+      - name: Session 5
+        time: "13:00-14:00"
+      - name: Session 6
+        time: "14:10-15:00"
+      - name: Session 7
+        time: "15:10-17:10"
+      - name: Keynote 2 
+        time: "17:10-18:10"
         paper: 
           - title: "TBA"
-            authors: "TBA (Univ); TBA (Univ)"
+            authors: "TBA"
+      - name: Awards + Closing
+        time: "18:40-19:00"
+      - name: Networking
+        time: "19:00-19:20"
   
 # Committee members
 committee:
