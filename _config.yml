@@ -98,12 +98,12 @@ program:
       - name: "Session 3: Regular papers"
         time: "16:00-17:00"
         paper: 
-          - title: "TBA2"
-            authors: "TBA"
-          - title: "TBA10"
-            authors: "TBA"
-          - title: "TBA27"
-            authors: "TBA"
+          - title: "Using Human Body Capacitance Sensing to Monitor Leg Motion Dominated Activities with a Wrist Worn Device"
+            authors: "Sizhen Bian (DFKI)*; Siyu Yuan (TU Kaiserslautern); Vitor Fortes Rey (DFKI); Paul Lukowicz (DFKI GmbH, Germany)"
+          - title: "Open-Source Data Collection for Activity Studies at Scale"
+            authors: "Alexander Hoelzemann (University of Siegen)*; Kristof Van Laerhoven (University of Siegen); Jana Sabrina Pithan (University Of Vechta)"
+          - title: "Toward the Analysis of Office Worker’s Mental Indicators Based on Activity Data"
+            authors: "Yusuke Nishimura (Kyushu Institute of Technology)*; Tahera Hossain (Kyushu Institute of Technology); Akane Sano (Rice University); Shota Isomura (NTT Data Institute of Management Consulting); Yutaka Arakawa (Kyushu University); Sozo Inoue (Kyushu Institute of Technology)"
       - name: "Keynote 1"
         time: "17:00-18:00"
         paper: 
