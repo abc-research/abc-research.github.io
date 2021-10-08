@@ -82,34 +82,34 @@ about:
 program:
   - date: "Oct. 22nd (Fri.), 2021"
     session: 
-      - name: Opening
+      - name: "Opening"
         time: "13:00-13:10"
-      - name: Session 1: Regular papers
+      - name: "Session 1: Regular papers"
         time: "13:10-14:10"
-      - name: Session 2: Challenge
+      - name: "Session 2: Challenge"
         time: "14:20-15:50"
-      - name: Session 3: Regular papers
+      - name: "Session 3: Regular papers"
         time: "16:00-17:00"
-      - name: Keynote 1
+      - name: "Keynote 1"
         time: "17:00-18:00"
-      - name: Networking
+      - name: "Networking"
         time: "18:00-18:20"
   - date: "Oct. 23rd (Sat.), 2021"
     session: 
-      - name: Session 5
+      - name: "Session 5: Regular papers"
         time: "13:00-14:00"
-      - name: Session 6
+      - name: "Session 6: WiP"
         time: "14:10-15:00"
-      - name: Session 7
+      - name: "Session 7: Panel"
         time: "15:10-17:10"
-      - name: Keynote 2 
+      - name: "Keynote 2"
         time: "17:10-18:10"
         paper: 
           - title: "TBA"
             authors: "TBA"
-      - name: Awards + Closing
+      - name: "Awards + Closing"
         time: "18:40-19:00"
-      - name: Networking
+      - name: "Networking"
         time: "19:00-19:20"
   
 # Committee members
