@@ -122,7 +122,7 @@ program:
             authors: "Muhammad Fikry (Kyushu Institute of Technology)*; Nattaya Mairittha (Kyushu Institute of Technology); Sozo Inoue (Kyushu Institute of Technology)"
           - title: "Attempts toward Behavior Recognition of the Asian Black Bears using an Accelerometer"
             authors: "Kaori Fujinami (Tokyo University of Agriculture and Technology)*; Tomoko Naganuma (Tokyo University of Agriculture and Technology); Yushin Shinoda (Tokyo University of Agriculture and Technology); Koji Yamazaki (Tokyo University of Agriculture); Shinsuke Koike (Tokyo University of Agriculture and Technology)	"
-      - name: "Session 6: WiP"
+      - name: "Session 6: Work in Progress"
         time: "14:10-15:00"
         paper: 
           - title: "A Method for Action Quality Analysis from Skeleton Data of Rehabilitation Exercises"
