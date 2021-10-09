@@ -150,10 +150,13 @@ program:
             authors: "Mahmudul Hasan Abid (Khulna University); Abdullah-Al Nahid (Khulna University, Khulna-9208, Bangladesh)*"
           - title: "Recognizing Human Actions Utilizing Relative Velocity of Skeleton Joints through Statistical Features"
             authors: "Anindya Das Antar (University of Dhaka); Masud Ahmed (University of Dhaka); Md Atiqur Rahman Ahad (University of Dhaka)*"
-      - name: "Session 7: Panel"
+      - name: "Session 7: Panel: The Future of Activity and Behavior Computing"
         time: "15:10-17:10"
         paper: 
-          - title: "The Future of Activity and Behavior Computing"
+          - title: "Stephan Sigg"
+          - title: "Takuro Yonezawa"
+          - title: "Paula Lago"
+          - title: "Yu Enokibori"
       - name: "Keynote 2"
         time: "17:10-18:10"
         paper: 
