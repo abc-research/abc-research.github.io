@@ -122,8 +122,8 @@ program:
       - name: "Keynote 1"
         time: "17:00-18:00"
         paper: 
-          - title: "Multimodal Sentiment Analysis: Explore the No Pain, Big Gain Shortcut"
-            authors: "Björn W. Schuller, Fellow IEEE (Imperial College London/UK and University of Augsburg/Germany)"
+          - title: "<b style="color:yellow">Björn W. Schuller, Fellow IEEE (Imperial College London/UK and University of Augsburg/Germany)</b>"
+            authors: "<b style="color:yellow">Multimodal Sentiment Analysis: Explore the No Pain, Big Gain Shortcut</b>"
       - name: "Networking"
         time: "18:00-18:20"
   - date: "Oct. 23rd (Sat.), 2021"
@@ -157,6 +157,8 @@ program:
           - title: "Takuro Yonezawa"
           - title: "Paula Lago"
           - title: "Yu Enokibori"
+          - title: "Kristof Van Laerhoven"
+          - title: "Atsushi Nakazawa"
       - name: "Keynote 2"
         time: "17:10-18:10"
         paper: 
