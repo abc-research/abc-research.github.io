@@ -177,8 +177,8 @@ program:
       - name: "Keynote 2"
         time: "17:10-18:10"
         paper: 
-          - title: "TBA"
-            authors: "TBA"
+          - title: '<b style="color:yellow">Koichi Kise (Osaka Prefecture University/Japan)</b>'
+            authors: '<b style="color:yellow">Reading of Reading for Actuating: Augmenting Human Learning by Experiential Supplements</b>'
       - name: "Awards + Closing"
         time: "18:40-19:00"
       - name: "Networking"
