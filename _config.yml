@@ -154,17 +154,26 @@ program:
         time: "15:10-17:10"
         paper: 
           - title: "Stephan Sigg"
+            authors: Aalto University, Finland
           - title: "Takuro Yonezawa"
+            authors: Nagoya University, Japan
           - title: "Paula Lago"
+            authors: Universidad Nacional Abierta y a Distancia, Colombia
           - title: "Yu Enokibori"
+            authors: Nagoya University, Japan
           - title: "Kristof Van Laerhoven"
+            authors: University of Siegen, Germany
           - title: "Atsushi Nakazawa"
+            authors: Kyoto University, Japan
           - title: "Phond Phunchongharn"
+            authors: KMUTT, Thailand
           - title: "Christopher Nugent"
           - title: "Upal Mahbub"
-          - title: "Phond Phunchongharn"
+            authors: University of Meryland, College Park, USA
           - title: "Guillaume Lopez"
+            authors: Aoyama Gakuin University, Japan        
           - title: "Philipp Scholl"
+            authors: University of Freiburg, Germany
       - name: "Keynote 2"
         time: "17:10-18:10"
         paper: 
@@ -248,7 +257,7 @@ committee:
       - name: Tsuyoshi Okita
         affil: Kyushu Institute of Technology / Riken, Japan
       - name: Paula Lago
-        affil: Kyushu Institute of Technology, Japan
+        affil: Universidad Nacional Abierta y a Distancia, Colombia
       - name: Stephan Sigg
         affil: Aalto University, Finland
       - name: Hiroki Watanabe
