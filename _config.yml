@@ -102,6 +102,8 @@ program:
             authors: "Adrita Anwar (University of Dhaka); Malisha Islam Tapotee (University of Dhaka); Purnata Saha (University of Dhaka)*; Md Atiqur Rahman Ahad (University of Dhaka)"
           - title: "Can Ensemble of Classifiers Provide Better Recognition Results in Packaging Activity?"
             authors: "Promit Basak (University of Dhaka)*; A.H.M Nazmus Sakib (University of Dhaka); Shahamat Mustavi Tasin (University of Dhaka); Syed Doha Uddin (University of Dhaka); Md Atiqur Rahman Ahad (University of Dhaka)"
+          - title: "Summary of the Bento Packaging Activity Recognition Challenge"
+            authors: Kohei Adachi (Kyushu Institute of Technology)*; Shamma Alia (Kyutech); Nazmun Nahid (Kyushu Institute of Technology); Haru Kaneko (Kyushu Institute of Technology); Paula Lago (Universidad Nacional Abierta y a Distancia); Sozo Inoue (Kyushu Institute of Technology)
           - title: "Bento Packaging Activity Recognition Based on Statistical Features"
             authors: "Faizul Rakib Sayem (University of Dhaka)*; Md. Mamun Sheikh (University of Dhaka); Md Atiqur Rahman Ahad (University of Dhaka)"
           - title: "Using k-Nearest-Neighbours Feature Selection for Activity Recognition"
