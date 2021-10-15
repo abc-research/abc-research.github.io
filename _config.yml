@@ -130,7 +130,7 @@ program:
         time: "18:00-18:20"
   - date: "Oct. 23rd (Sat.), 2021"
     session: 
-      - name: "Session 5: Regular papers"
+      - name: "Session 4: Regular papers"
         time: "13:00-14:00"
         paper: 
           - title: "FootbSense: Soccer Moves Identification Using a Single IMU"
@@ -139,7 +139,7 @@ program:
             authors: "Muhammad Fikry (Kyushu Institute of Technology)*; Nattaya Mairittha (Kyushu Institute of Technology); Sozo Inoue (Kyushu Institute of Technology)"
           - title: "Attempts toward Behavior Recognition of the Asian Black Bears using an Accelerometer"
             authors: "Kaori Fujinami (Tokyo University of Agriculture and Technology)*; Tomoko Naganuma (Tokyo University of Agriculture and Technology); Yushin Shinoda (Tokyo University of Agriculture and Technology); Koji Yamazaki (Tokyo University of Agriculture); Shinsuke Koike (Tokyo University of Agriculture and Technology)	"
-      - name: "Session 6: Work in Progress"
+      - name: "Session 5: Work in Progress"
         time: "14:10-15:00"
         paper: 
           - title: "A Method for Action Quality Analysis from Skeleton Data of Rehabilitation Exercises"
@@ -152,7 +152,7 @@ program:
             authors: "Mahmudul Hasan Abid (Khulna University); Abdullah-Al Nahid (Khulna University, Khulna-9208, Bangladesh)*"
           - title: "Recognizing Human Actions Utilizing Relative Velocity of Skeleton Joints through Statistical Features"
             authors: "Anindya Das Antar (University of Dhaka); Masud Ahmed (University of Dhaka); Md Atiqur Rahman Ahad (University of Dhaka)*"
-      - name: "Session 7: Panel: The Future of Activity and Behavior Computing"
+      - name: "Session 6: Panel: The Future of Activity and Behavior Computing"
         time: "15:10-17:10"
         paper: 
           - title: "Stephan Sigg"
@@ -182,9 +182,9 @@ program:
           - title: '<b style="color:yellow">Koichi Kise (Osaka Prefecture University/Japan)</b>'
             authors: '<b style="color:yellow">Reading of Reading for Actuating: Augmenting Human Learning by Experiential Supplements</b>'
       - name: "Awards + Closing"
-        time: "18:40-19:00"
+        time: "18:10-18:30"
       - name: "Networking"
-        time: "19:00-19:20"
+        time: "18:30-18:50"
   
 # Committee members
 committee:
