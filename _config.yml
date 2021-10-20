@@ -120,6 +120,8 @@ program:
       - name: "Session 3: Regular papers"
         time: "16:00-17:00"
         paper: 
+          - title: "Chair: Michael Beigl"
+            authors: "Karlsruhe Institute of Technology, Germany"
           - title: "Using Human Body Capacitance Sensing to Monitor Leg Motion Dominated Activities with a Wrist Worn Device"
             authors: "Sizhen Bian (DFKI)*; Siyu Yuan (TU Kaiserslautern); Vitor Fortes Rey (DFKI); Paul Lukowicz (DFKI GmbH, Germany)"
           - title: "Open-Source Data Collection for Activity Studies at Scale"
