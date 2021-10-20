@@ -88,6 +88,8 @@ program:
       - name: "Session 1: Regular papers"
         time: "13:10-14:10"
         paper: 
+          - title: "Chair: Kazuya Murao"
+            authors: "Ritsumeikan University, Japan"
           - title: "BoxerSense: Punch Detection and Classification Using IMUs"
             authors: "Yoshinori Hanada (Aoyama Gakuin University)*"
           - title: "Using LUPI to Improve Complex Activity Recognition"
@@ -138,6 +140,8 @@ program:
       - name: "Session 4: Regular papers"
         time: "13:00-14:00"
         paper: 
+          - title: "Chair: Takuro Yonezawa"
+            authors: "Nagoya University, Japan"
           - title: "FootbSense: Soccer Moves Identification Using a Single IMU"
             authors: "Yuki Kondo (Aoyama Gakuin University); Shun Ishii (Aoyama Gakuin University)*; Hikari Aoyagi (Aoyama Gakuin University); Tahera Hossain (Aoyama Gakuin University); Anna Yokokubo (Aoyama Gakuin University); Guillaume Lopez (Aoyama Gakuin University)"
           - title: "Modeling Reminder System for Dementia by Reinforcement Learning"
