@@ -95,8 +95,10 @@ program:
           - title: "A data-driven approach for online pre-impact fall detection with wearable devices"
             authors: "Takuto Yoshida (Nagoya University)*"
       - name: "Session 2: Challenge + Awards"
-        time: "14:20-15:50, Chair: Sozo Inoue (Kyushu Institute of Technology)"
+        time: "14:20-15:50"
         paper: 
+          - title: "Chair: Sozo Inoue"
+            authors: "Kyushu Institute of Technology"
           - title: "Lunch-Box Preparation Activity Understanding from MoCap Data Using Handcrafted Features"
             authors: "Yeasin Arafat (University of Dhaka); Md. Sohanur Rahman (University of Dhaka); Hasib Ryan Rahman (University of Dhaka); M. Ashikuzzaman Kowshik (University of Dhaka)*; Md Atiqur Rahman Ahad (University of Dhaka)"
           - title: "Identification of Food Packaging Activity Using MoCap Sensor Data"
@@ -125,6 +127,8 @@ program:
       - name: "Keynote 1"
         time: "17:00-18:00"
         paper: 
+          - title: "Chair: Sozo Inoue"
+            authors: "Kyushu Institute of Technology"
           - title: '<b style="color:yellow">Björn W. Schuller, Fellow IEEE (Imperial College London/UK and University of Augsburg/Germany)</b>'
             authors: '<b style="color:yellow">Multimodal Sentiment Analysis: Explore the No Pain, Big Gain Shortcut</b>'
       - name: "Networking"
@@ -156,6 +160,8 @@ program:
       - name: "Session 6: Panel: The Future of Activity and Behavior Computing"
         time: "15:10-17:10"
         paper: 
+          - title: "Chair: Md Atiqur Rahman Ahad"
+            authors: "University of Dhaka"
           - title: "Stephan Sigg"
             authors: Aalto University, Finland
           - title: "Takuro Yonezawa"
@@ -179,6 +185,8 @@ program:
       - name: "Keynote 2"
         time: "17:10-18:10"
         paper: 
+          - title: "Chair: Kaori Fujinami"
+            authors: "Tokyo University of Agriculture and Technology"
           - title: '<b style="color:yellow">Koichi Kise (Osaka Prefecture University/Japan)</b>'
             authors: '<b style="color:yellow">Reading of Reading for Actuating: Augmenting Human Learning by Experiential Supplements</b>'
       - name: "Awards + Closing"
