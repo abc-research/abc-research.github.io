@@ -127,8 +127,8 @@ program:
       - name: "Keynote 1"
         time: "17:00-18:00"
         paper: 
-          - title: "Chair: Sozo Inoue"
-            authors: "Kyushu Institute of Technology"
+          - title: "Chair: Anton Nijholt"
+            authors: "University of Twente, The Netherlands"
           - title: '<b style="color:yellow">Björn W. Schuller, Fellow IEEE (Imperial College London/UK and University of Augsburg/Germany)</b>'
             authors: '<b style="color:yellow">Multimodal Sentiment Analysis: Explore the No Pain, Big Gain Shortcut</b>'
       - name: "Networking"
