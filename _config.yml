@@ -147,6 +147,8 @@ program:
       - name: "Session 5: Work in Progress"
         time: "14:10-15:00"
         paper: 
+          - title: "Guillaume Lopez"
+            authors: "Aoyama Gakuin University, Japan"
           - title: "A Method for Action Quality Analysis from Skeleton Data of Rehabilitation Exercises"
             authors: "Faizul Rakib Sayem (University of Dhaka)*; Md. Mamun Sheikh (University of Dhaka); Md Atiqur Rahman Ahad (University of Dhaka)"
           - title: "Examination of analogy method of degree of interest in news articles by gaze information"
