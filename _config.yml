@@ -66,13 +66,12 @@ disqus_shortname: myshortname
 color:
   primary: 025eb0
   primary-rgb: 2,94,176
-  secondary: 063163
-  secondary-rgb:: 6,49,99
-  secondary-dark: 063163
+#  secondary: 063163
+#  secondary-dark: 063163
 #  primary: ee6128 
 #  primary-rgb: 238,97,40 
-#  secondary: 444648 
-#  secondary-dark: 444648
+  secondary: 444648 
+  secondary-dark: 444648
 
 
 # Footer settings
@@ -434,8 +433,6 @@ social:
 #    url: http://github.com/abc-research
 
 series:
-  - text: "<b>Bento2021</b>: Bento Packaging Activity Recognition Challenge in ABC2021"
-    url: https://abc-research.github.io/bento2021
   - text: "<b>ABC2021</b>: 3rd International Conference on Activity and Behavior Computing @Bangkok, Thailand"
     url: https://abc-research.github.io/2021
   - text: "<b>ABC2020</b>: 2nd International Conference on Activity and Behavior Computing @Kitakyushu, Japan"
@@ -448,6 +445,8 @@ series:
     url: https://abc-research.github.io/nurse2020
   - text: "<b>Nurse2019</b>: Nurse Care Activity Recognition Challenge 2019 in HASCA2019 @London"
     url: https://hasc-nurse-challenge.github.io
+  - text: "<b>Bento2021</b>: Bento Packaging Activity Recognition Challenge in ABC2021"
+    url: https://abc-research.github.io/bento2021
   - text: "<b>Cook2020</b>: Cooking Activity Recognition Challenge in ABC2020 @Kitakyushu, Japan"
     url: https://abc-research.github.io/cook2020
   - text: "<b>HASCA2019</b>: International Workshop on Human Activity Sensing Corpus and Applications @London"
