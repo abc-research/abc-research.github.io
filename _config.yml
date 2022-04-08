@@ -67,11 +67,11 @@ color:
   primary: 025eb0
   primary-rgb: 2,94,176
 #  secondary: 063163
-#  secondary-dark: 063163 E69138 444648 
+#  secondary-dark: 063163 E69138  
 #  primary: ee6128 
 #  primary-rgb: 238,97,40 
-  secondary: 063163 
-  secondary-dark: 063163
+  secondary: 444648 
+  secondary-dark: 444648
 
 
 # Footer settings
