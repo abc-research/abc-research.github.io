@@ -64,8 +64,8 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 1487dd
-  primary-rgb: 20,135,221
+  primary: 063163
+  primary-rgb: 6,49,99
   secondary: 025eb0 
   secondary-dark: 025eb0 
 #  primary: ee6128 
@@ -381,25 +381,33 @@ cfp:
     - name: "Resubmission for conditionally accepted paper"
       date: August 15th, 2022
       #<strike style="color:gray">Sep. 1st</strike> 
-    - name: <span style="color:#CEF9DC">[Challenge] Application</span>
-      date: <span style="color:#CEF9DC">Aug. 17th, 2021 <b>(Extended!)</b> (Anywhere on Earth)!</span>
+    - name: "[Challenge] Application"
+      date: July 1st, 2022
+#    - name: <span style="color:#CEF9DC">[Challenge] Application</span>
+#      date: <span style="color:#CEF9DC">Aug. 17th, 2021 <b>(Extended!)</b> (Anywhere on Earth)!</span>
 #    <strike style="color:gray">Jul. 1st</strike> 
-    - name: <span style="color:#CEF9DC">[Challenge] Result submission</span>
-      date: <span style="color:#CEF9DC">Aug. 17th, 2021 (Anywhere on Earth)!</span>
+    - name: "[Challenge] Result submission"
+      date: August 1st, 2022
+#    - name: <span style="color:#CEF9DC">[Challenge] Result submission</span>
+#      date: <span style="color:#CEF9DC">Aug. 17th, 2021 (Anywhere on Earth)!</span>
 #       <strike style="color:gray">Aug. 1st</strike>
 # Aug. 9th: review deadline
-    - name: <span style="color:#CEF9DC">(Challenge) Paper submission</span>
-      date: <span style="color:#CEF9DC">Aug. 20th, 2021  (Anywhere on Earth)!</span>
+    - name: "[Challenge] Paper submission"
+      date: August 10th, 2022
+#    - name: <span style="color:#CEF9DC">(Challenge) Paper submission</span>
+#      date: <span style="color:#CEF9DC">Aug. 20th, 2021  (Anywhere on Earth)!</span>
 #      <strike style="color:gray">Aug. 1st</strike>
-    - name: <span style="color:#CEF9DC">(Challenge) Review result</span>
-      date: <span style="color:#CEF9DC">Sep. 2nd, 2021</span>
+    - name: "[Challenge] Review result"
+      date: August 25th, 2022
+#    - name: <span style="color:#CEF9DC">(Challenge) Review result</span>
+#      date: <span style="color:#CEF9DC">Sep. 2nd, 2021</span>
 # <strike style="color:gray">Aug. 23rd</strike>      
     - name: '[Regular/Survey/Position/Challenge] Camera ready and Registration'
-      date: Oct. 1st, 2021
+      date:  August 25th, 2022
       #<strike style="color:gray">Sep. 7th</strike> 
 # Sep. 15th: submit to the publisher
     - name: "Conference"
-      date: Oct. 22nd - 23rd, 2021
+      date: Oct. 22nd - 23rd, 2022
   submit_url: https://cmt3.research.microsoft.com/ABC2021/Submission/Index
   template_url: https://ja.overleaf.com/latex/templates/template-for-authors-to-a-springer-contributed-volume/bbfkkmdbdtcy
 
