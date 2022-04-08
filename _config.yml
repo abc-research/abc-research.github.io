@@ -4,13 +4,14 @@ email: abc@sozolab.jp
 url: https://abc-research.github.io
 description: "International Conference on Activity and Behavior Computing (ABC), which includes Human Activity Recognition with mobile / environmental sensors in ubiquitous / pervasive domains and with cameras in vision domains, and Human Behavior Analysis for long-term health care, rehabilitation, emotion recognition, human interaction, and so on."
 keywords: "activity recognition, behavior analysis, international conference, activity and behavior computing"
-conf_title1: "The 3rd International Conference on"
+conf_title1: "The 4th International Conference on"
 conf_title2: "Activity and Behavior Computing"
 meta_author: Sozo Inoue
-location: Knowledge Exchange Center (KX), Bangkok, Thailand (<b style="color:yellow">Changed to Online</b>)
-date: Oct. 22nd - 23rd, 2021
+#location: Knowledge Exchange Center (KX), Bangkok, Thailand (<b style="color:yellow">Changed to Online</b>)
+location: London, United Kingdom 
+date: Oct. 22nd - 23rd, 2022
 conjunction:
-  name: ICIEV&IVPR2021
+  name: ICIEV&IVPR2022
   url: http://cennser.org/ICIEV/
   
 navitem:
@@ -63,8 +64,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: ee6128
-  primary-rgb: 238,97,40
+#  primary: ee6128
+#  primary-rgb: 238,97,40
+  primary: 1487DD
+  primary-rgb: 20,135,221
   secondary: 444648 
   secondary-dark: 444648 
 
@@ -79,98 +82,98 @@ about:
   - text: "<b>Human Activity Recognition</b> has been researched in thousands of papers so far, with mobile / environmental sensors in ubiquitous / pervasive domains, and with cameras in vision domains. As well, <b>Human Behavior Analysis</b> is also explored for long-term health care, rehabilitation, emotion recognition, human interaction, and so on. However, many research challenges remain for realistic settings, such as complex and ambiguous activities / behavior, optimal sensor combinations, (deep) machine learning, data collection, platform systems, and killer applications."
   - text: "In this conference, we comprehend such research domains as <b>ABC</b>: <i>Activity and Behavior Computing</i>, and provide an open and a confluent place for discussing various aspects and the future of the ABC."
 
-program:
-  - date: "Times are in JST"
-  - date: "Oct. 22nd (Fri.), 2021"
-    session: 
-      - name: "Opening"
-        time: "13:00-13:10"
-      - name: "Session 1: Regular papers"
-        time: "13:10-14:10"
-        paper: 
-          - title: "Chair: Kazuya Murao"
-            authors: "Ritsumeikan University, Japan"
-          - title: "BoxerSense: Punch Detection and Classification Using IMUs"
-            authors: "Yoshinori Hanada (Aoyama Gakuin University)*"
-          - title: "Using LUPI to Improve Complex Activity Recognition"
-            authors: "Kohei Adachi (Kyushu Institute of Technology)*; Paula Lago (Universidad Nacional Abierta y a Distancia); Yuichi Hattori (Kyushu Institute of Technology); Sozo Inoue (Kyushu Institute of Technology)"
-          - title: "A data-driven approach for online pre-impact fall detection with wearable devices"
-            authors: "Takuto Yoshida (Nagoya University)*"
-      - name: "Session 2: Challenge + Awards"
-        time: "14:20-15:50"
-        paper: 
-          - title: "Chair: Sozo Inoue"
-            authors: "Kyushu Institute of Technology"
-          - title: "Lunch-Box Preparation Activity Understanding from MoCap Data Using Handcrafted Features"
-            authors: "Yeasin Arafat (University of Dhaka); Md. Sohanur Rahman (University of Dhaka); Hasib Ryan Rahman (University of Dhaka); M. Ashikuzzaman Kowshik (University of Dhaka)*; Md Atiqur Rahman Ahad (University of Dhaka)"
-          - title: "Identification of Food Packaging Activity Using MoCap Sensor Data"
-            authors: "Adrita Anwar (University of Dhaka); Malisha Islam Tapotee (University of Dhaka); Purnata Saha (University of Dhaka)*; Md Atiqur Rahman Ahad (University of Dhaka)"
-          - title: "Can Ensemble of Classifiers Provide Better Recognition Results in Packaging Activity?"
-            authors: "Promit Basak (University of Dhaka)*; A.H.M Nazmus Sakib (University of Dhaka); Shahamat Mustavi Tasin (University of Dhaka); Syed Doha Uddin (University of Dhaka); Md Atiqur Rahman Ahad (University of Dhaka)"
-          - title: "Summary of the Bento Packaging Activity Recognition Challenge"
-            authors: Kohei Adachi (Kyushu Institute of Technology)*; Shamma Alia (Kyushu Institute of Technology); Nazmun Nahid (Kyushu Institute of Technology); Haru Kaneko (Kyushu Institute of Technology); Paula Lago (Universidad Nacional Abierta y a Distancia); Sozo Inoue (Kyushu Institute of Technology)
-          - title: "Bento Packaging Activity Recognition Based on Statistical Features"
-            authors: "Faizul Rakib Sayem (University of Dhaka)*; Md. Mamun Sheikh (University of Dhaka); Md Atiqur Rahman Ahad (University of Dhaka)"
-          - title: "Using k-Nearest-Neighbours Feature Selection for Activity Recognition"
-            authors: "Björn Friedrich (Carl von Ossietzky Universität)*; Tetchi Ange-Michel Orsot (unaffiliated); Andreas Hein (Carl von Ossietzky Universität)"
-          - title: "Bento Packaging Activity Recognition from Motion Capture Data"
-            authors: "Jahir Ibna Rafiq (University of Asia Pacific)*; Shamaun Nabi (University of Asia Pacific); Al Amin (University of Asia Pacific); Shahera Hossain (University of Asia Pacific)"
-          - title: "Bento Packaging Activity Recognition with Convolutional LSTM using Autocorrelation Function and Majority Vote"
-            authors: "Atsuhiro Fujii (Ritsumeikan University)*; Kazuki Yoshida (Ritsumeikan University); Kiichi Shirai (Ritsumeikan University); Kazuya Murao (Ritsumeikan University)"
-      - name: "Session 3: Regular papers"
-        time: "16:00-17:00"
-        paper: 
-          - title: "Chair: Michael Beigl"
-            authors: "Karlsruhe Institute of Technology, Germany"
-          - title: "Using Human Body Capacitance Sensing to Monitor Leg Motion Dominated Activities with a Wrist Worn Device"
-            authors: "Sizhen Bian (DFKI)*; Siyu Yuan (TU Kaiserslautern); Vitor Fortes Rey (DFKI); Paul Lukowicz (DFKI GmbH, Germany)"
-          - title: "Open-Source Data Collection for Activity Studies at Scale"
-            authors: "Alexander Hoelzemann (University of Siegen)*; Kristof Van Laerhoven (University of Siegen); Jana Sabrina Pithan (University Of Vechta)"
-          - title: "Toward the Analysis of Office Worker’s Mental Indicators Based on Activity Data"
-            authors: "Yusuke Nishimura (Kyushu Institute of Technology)*; Tahera Hossain (Kyushu Institute of Technology); Akane Sano (Rice University); Shota Isomura (NTT Data Institute of Management Consulting); Yutaka Arakawa (Kyushu University); Sozo Inoue (Kyushu Institute of Technology)"
-      - name: "Keynote 1"
-        time: "17:00-18:00"
-        paper: 
-          - title: "Chair: Anton Nijholt"
-            authors: "University of Twente, The Netherlands"
-          - title: '<b style="color:yellow">Björn W. Schuller, Fellow IEEE (Imperial College London/UK and University of Augsburg/Germany)</b>'
-            authors: '<b style="color:yellow">Multimodal Sentiment Analysis: Explore the No Pain, Big Gain Shortcut</b>'
-      - name: "Networking"
-        time: "18:00-18:20"
-  - date: "Oct. 23rd (Sat.), 2021"
-    session: 
-      - name: "Session 4: Regular papers"
-        time: "13:00-14:00"
-        paper: 
-          - title: "Chair: Takuro Yonezawa"
-            authors: "Nagoya University, Japan"
-          - title: "FootbSense: Soccer Moves Identification Using a Single IMU"
-            authors: "Yuki Kondo (Aoyama Gakuin University); Shun Ishii (Aoyama Gakuin University)*; Hikari Aoyagi (Aoyama Gakuin University); Tahera Hossain (Aoyama Gakuin University); Anna Yokokubo (Aoyama Gakuin University); Guillaume Lopez (Aoyama Gakuin University)"
-          - title: "Modeling Reminder System for Dementia by Reinforcement Learning"
-            authors: "Muhammad Fikry (Kyushu Institute of Technology)*; Nattaya Mairittha (Kyushu Institute of Technology); Sozo Inoue (Kyushu Institute of Technology)"
-          - title: "Attempts toward Behavior Recognition of the Asian Black Bears using an Accelerometer"
-            authors: "Kaori Fujinami (Tokyo University of Agriculture and Technology)*; Tomoko Naganuma (Tokyo University of Agriculture and Technology); Yushin Shinoda (Tokyo University of Agriculture and Technology); Koji Yamazaki (Tokyo University of Agriculture); Shinsuke Koike (Tokyo University of Agriculture and Technology)	"
-      - name: "Session 5: Work in Progress"
-        time: "14:10-15:00"
-        paper: 
-          - title: "Guillaume Lopez"
-            authors: "Aoyama Gakuin University, Japan"
-          - title: "A Method for Action Quality Analysis from Skeleton Data of Rehabilitation Exercises"
-            authors: "Faizul Rakib Sayem (University of Dhaka)*; Md. Mamun Sheikh (University of Dhaka); Md Atiqur Rahman Ahad (University of Dhaka)"
-          - title: "Examination of analogy method of degree of interest in news articles by gaze information"
-            authors: "Takuya Ogawa (Ehime University)*; Keiichi Endo (Ehime University); Hisayasu Kuroda (Ehime University); Shinya Kobayashi (Ehime University)"
-          - title: "A Comparative Analysis on Joint's Importance to Achieve Better Performance in Behavior Analysis in Human-Robot Collaborative Workspace"
-            authors: "Nazmun Nahid (Kyushu Institute of Technology)*; Shotaro Yoshinaga (Kyushu Institute of Technology); Sozo Inoue (Kyushu Institute of Technology)"
-          - title: "Human Activity Recognition Based on Wavelet-Based Features along with Feature Prioritization"
-            authors: "Mahmudul Hasan Abid (Khulna University); Abdullah-Al Nahid (Khulna University, Khulna-9208, Bangladesh)*"
-          - title: "Recognizing Human Actions Utilizing Relative Velocity of Skeleton Joints through Statistical Features"
-            authors: "Anindya Das Antar (University of Dhaka); Masud Ahmed (University of Dhaka); Md Atiqur Rahman Ahad (University of Dhaka)*"
-      - name: "Session 6: Panel: The Future of Activity and Behavior Computing"
-        time: "15:10-17:10"
-        paper: 
-          - title: "Chair: Md Atiqur Rahman Ahad"
-            authors: "University of Dhaka"
-          - title: "Stephan Sigg"
+#program:
+#  - date: "Times are in JST"
+#  - date: "Oct. 22nd (Fri.), 2021"
+#    session: 
+#      - name: "Opening"
+#        time: "13:00-13:10"
+#      - name: "Session 1: Regular papers"
+#        time: "13:10-14:10"
+#        paper: 
+#          - title: "Chair: Kazuya Murao"
+#            authors: "Ritsumeikan University, Japan"
+#          - title: "BoxerSense: Punch Detection and Classification Using IMUs"
+#            authors: "Yoshinori Hanada (Aoyama Gakuin University)*"
+#          - title: "Using LUPI to Improve Complex Activity Recognition"
+#            authors: "Kohei Adachi (Kyushu Institute of Technology)*; Paula Lago (Universidad Nacional Abierta y a Distancia); Yuichi Hattori (Kyushu Institute of Technology); Sozo Inoue (Kyushu Institute of Technology)"
+#          - title: "A data-driven approach for online pre-impact fall detection with wearable devices"
+#            authors: "Takuto Yoshida (Nagoya University)*"
+#      - name: "Session 2: Challenge + Awards"
+#        time: "14:20-15:50"
+#        paper: 
+#          - title: "Chair: Sozo Inoue"
+#            authors: "Kyushu Institute of Technology"
+#          - title: "Lunch-Box Preparation Activity Understanding from MoCap Data Using Handcrafted Features"
+#            authors: "Yeasin Arafat (University of Dhaka); Md. Sohanur Rahman (University of Dhaka); Hasib Ryan Rahman (University of Dhaka); M. Ashikuzzaman Kowshik (University of Dhaka)*; Md Atiqur Rahman Ahad (University of Dhaka)"
+#          - title: "Identification of Food Packaging Activity Using MoCap Sensor Data"
+#            authors: "Adrita Anwar (University of Dhaka); Malisha Islam Tapotee (University of Dhaka); Purnata Saha (University of Dhaka)*; Md Atiqur Rahman Ahad (University of Dhaka)"
+#          - title: "Can Ensemble of Classifiers Provide Better Recognition Results in Packaging Activity?"
+#            authors: "Promit Basak (University of Dhaka)*; A.H.M Nazmus Sakib (University of Dhaka); Shahamat Mustavi Tasin (University of Dhaka); Syed Doha Uddin (University of Dhaka); Md Atiqur Rahman Ahad (University of Dhaka)"
+#          - title: "Summary of the Bento Packaging Activity Recognition Challenge"
+#            authors: Kohei Adachi (Kyushu Institute of Technology)*; Shamma Alia (Kyushu Institute of Technology); Nazmun Nahid (Kyushu Institute of Technology); Haru Kaneko (Kyushu Institute of Technology); Paula Lago (Universidad Nacional Abierta y a Distancia); Sozo Inoue (Kyushu Institute of Technology)
+#          - title: "Bento Packaging Activity Recognition Based on Statistical Features"
+#            authors: "Faizul Rakib Sayem (University of Dhaka)*; Md. Mamun Sheikh (University of Dhaka); Md Atiqur Rahman Ahad (University of Dhaka)"
+#          - title: "Using k-Nearest-Neighbours Feature Selection for Activity Recognition"
+#            authors: "Björn Friedrich (Carl von Ossietzky Universität)*; Tetchi Ange-Michel Orsot (unaffiliated); Andreas Hein (Carl von Ossietzky Universität)"
+#          - title: "Bento Packaging Activity Recognition from Motion Capture Data"
+#            authors: "Jahir Ibna Rafiq (University of Asia Pacific)*; Shamaun Nabi (University of Asia Pacific); Al Amin (University of Asia Pacific); Shahera Hossain (University of Asia Pacific)"
+#          - title: "Bento Packaging Activity Recognition with Convolutional LSTM using Autocorrelation Function and Majority Vote"
+#            authors: "Atsuhiro Fujii (Ritsumeikan University)*; Kazuki Yoshida (Ritsumeikan University); Kiichi Shirai (Ritsumeikan University); Kazuya Murao (Ritsumeikan University)"
+#      - name: "Session 3: Regular papers"
+#        time: "16:00-17:00"
+#        paper: 
+#          - title: "Chair: Michael Beigl"
+#            authors: "Karlsruhe Institute of Technology, Germany"
+#          - title: "Using Human Body Capacitance Sensing to Monitor Leg Motion Dominated Activities with a Wrist Worn Device"
+#            authors: "Sizhen Bian (DFKI)*; Siyu Yuan (TU Kaiserslautern); Vitor Fortes Rey (DFKI); Paul Lukowicz (DFKI GmbH, Germany)"
+#          - title: "Open-Source Data Collection for Activity Studies at Scale"
+#            authors: "Alexander Hoelzemann (University of Siegen)*; Kristof Van Laerhoven (University of Siegen); Jana Sabrina Pithan (University Of Vechta)"
+#          - title: "Toward the Analysis of Office Worker’s Mental Indicators Based on Activity Data"
+#            authors: "Yusuke Nishimura (Kyushu Institute of Technology)*; Tahera Hossain (Kyushu Institute of Technology); Akane Sano (Rice University); Shota Isomura (NTT Data Institute of Management Consulting); Yutaka Arakawa (Kyushu University); Sozo Inoue (Kyushu Institute of Technology)"
+#      - name: "Keynote 1"
+#        time: "17:00-18:00"
+#        paper: 
+#          - title: "Chair: Anton Nijholt"
+#            authors: "University of Twente, The Netherlands"
+#          - title: '<b style="color:yellow">Björn W. Schuller, Fellow IEEE (Imperial College London/UK and University of Augsburg/Germany)</b>'
+#            authors: '<b style="color:yellow">Multimodal Sentiment Analysis: Explore the No Pain, Big Gain Shortcut</b>'
+#      - name: "Networking"
+#        time: "18:00-18:20"
+#  - date: "Oct. 23rd (Sat.), 2021"
+#    session: 
+#      - name: "Session 4: Regular papers"
+#        time: "13:00-14:00"
+#        paper: 
+#          - title: "Chair: Takuro Yonezawa"
+#            authors: "Nagoya University, Japan"
+#          - title: "FootbSense: Soccer Moves Identification Using a Single IMU"
+#            authors: "Yuki Kondo (Aoyama Gakuin University); Shun Ishii (Aoyama Gakuin University)*; Hikari Aoyagi (Aoyama Gakuin University); Tahera Hossain (Aoyama Gakuin University); Anna Yokokubo (Aoyama Gakuin University); Guillaume Lopez (Aoyama Gakuin University)"
+#          - title: "Modeling Reminder System for Dementia by Reinforcement Learning"
+#            authors: "Muhammad Fikry (Kyushu Institute of Technology)*; Nattaya Mairittha (Kyushu Institute of Technology); Sozo Inoue (Kyushu Institute of Technology)"
+#          - title: "Attempts toward Behavior Recognition of the Asian Black Bears using an Accelerometer"
+#            authors: "Kaori Fujinami (Tokyo University of Agriculture and Technology)*; Tomoko Naganuma (Tokyo University of Agriculture and Technology); Yushin Shinoda (Tokyo University of Agriculture and Technology); Koji Yamazaki (Tokyo University of Agriculture); Shinsuke Koike (Tokyo University of Agriculture and Technology)	"
+#      - name: "Session 5: Work in Progress"
+#        time: "14:10-15:00"
+#        paper: 
+#          - title: "Guillaume Lopez"
+#            authors: "Aoyama Gakuin University, Japan"
+#          - title: "A Method for Action Quality Analysis from Skeleton Data of Rehabilitation Exercises"
+#            authors: "Faizul Rakib Sayem (University of Dhaka)*; Md. Mamun Sheikh (University of Dhaka); Md Atiqur Rahman Ahad (University of Dhaka)"
+#          - title: "Examination of analogy method of degree of interest in news articles by gaze information"
+#            authors: "Takuya Ogawa (Ehime University)*; Keiichi Endo (Ehime University); Hisayasu Kuroda (Ehime University); Shinya Kobayashi (Ehime University)"
+#          - title: "A Comparative Analysis on Joint's Importance to Achieve Better Performance in Behavior Analysis in Human-Robot Collaborative Workspace"
+#            authors: "Nazmun Nahid (Kyushu Institute of Technology)*; Shotaro Yoshinaga (Kyushu Institute of Technology); Sozo Inoue (Kyushu Institute of Technology)"
+#          - title: "Human Activity Recognition Based on Wavelet-Based Features along with Feature Prioritization"
+#            authors: "Mahmudul Hasan Abid (Khulna University); Abdullah-Al Nahid (Khulna University, Khulna-9208, Bangladesh)*"
+#          - title: "Recognizing Human Actions Utilizing Relative Velocity of Skeleton Joints through Statistical Features"
+#            authors: "Anindya Das Antar (University of Dhaka); Masud Ahmed (University of Dhaka); Md Atiqur Rahman Ahad (University of Dhaka)*"
+#      - name: "Session 6: Panel: The Future of Activity and Behavior Computing"
+#        time: "15:10-17:10"
+#        paper: 
+#          - title: "Chair: Md Atiqur Rahman Ahad"
+#            authors: "University of Dhaka"
+#          - title: "Stephan Sigg"
             authors: Aalto University, Finland
           - title: "Takuro Yonezawa"
             authors: Nagoya University, Japan
@@ -190,19 +193,19 @@ program:
             authors: Aoyama Gakuin University, Japan        
 #          - title: "Philipp Scholl"
 #            authors: University of Freiburg, Germany
-          - title: "Hristijan Gjoreski"
-            authors: "Ss. Cyril and Methodius University, Macedonia"
-      - name: "Keynote 2"
-        time: "17:10-18:10"
-        paper: 
-          - title: "Chair: Kaori Fujinami"
-            authors: "Tokyo University of Agriculture and Technology"
-          - title: '<b style="color:yellow">Koichi Kise (Osaka Prefecture University/Japan)</b>'
-            authors: '<b style="color:yellow">Reading of Reading for Actuating: Augmenting Human Learning by Experiential Supplements</b>'
-      - name: "Awards + Closing"
-        time: "18:10-18:30"
-      - name: "Networking"
-        time: "18:30-18:50"
+#          - title: "Hristijan Gjoreski"
+#            authors: "Ss. Cyril and Methodius University, Macedonia"
+#      - name: "Keynote 2"
+#        time: "17:10-18:10"
+#        paper: 
+#          - title: "Chair: Kaori Fujinami"
+#            authors: "Tokyo University of Agriculture and Technology"
+#          - title: '<b style="color:yellow">Koichi Kise (Osaka Prefecture University/Japan)</b>'
+#            authors: '<b style="color:yellow">Reading of Reading for Actuating: Augmenting Human Learning by Experiential Supplements</b>'
+#      - name: "Awards + Closing"
+#        time: "18:10-18:30"
+#      - name: "Networking"
+#        time: "18:30-18:50"
   
 # Committee members
 committee:
@@ -417,20 +420,20 @@ social:
 #    url: http://github.com/abc-research
 
 series:
+  - text: "<b>Bento2021</b>: Bento Packaging Activity Recognition Challenge in ABC2021"
+    url: https://abc-research.github.io/bento2021a
   - text: "<b>ABC2020</b>: International Conference on Activity and Behavior Computing @Kitakyushu, Japan"
     url: https://abc-research.github.io/2020
   - text: "<b>ABC2019</b>: International Conference on Activity and Behavior Computing @Spokane, US"
     url: https://abc-research.github.io/2019
-  - text: "<b>Bento2021</b>: Bento Packaging Activity Recognition Challenge in ABC2021"
-    url: https://abc-research.github.io/bento2021a
-  - text: "<b>Cook2020</b>: Cooking Activity Recognition Challenge in ABC2020 @Kitakyushu, Japan"
-    url: https://abc-research.github.io/cook2020
   - text: "<b>Nurse2021</b>: Third Nurse Care Activity Recognition Challenge - Can we Do from Bigdata? - in HASCA2021"
     url: https://abc-research.github.io/nurse2021
   - text: "<b>Nurse2020</b>: Second Nurse Care Activity Recognition Challenge - From Lab to Field - in HASCA2020"
     url: https://abc-research.github.io/nurse2020
   - text: "<b>Nurse2019</b>: Nurse Care Activity Recognition Challenge 2019 in HASCA2019 @London"
     url: https://hasc-nurse-challenge.github.io
+  - text: "<b>Cook2020</b>: Cooking Activity Recognition Challenge in ABC2020 @Kitakyushu, Japan"
+    url: https://abc-research.github.io/cook2020
   - text: "<b>HASCA2019</b>: International Workshop on Human Activity Sensing Corpus and Applications @London"
     url: http://hasca2019.hasc.jp
 
