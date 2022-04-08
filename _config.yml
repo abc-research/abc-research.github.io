@@ -372,7 +372,7 @@ cfp:
      - item: "Note that the <b>author information should be removed</b> from the paper, for double blind reviews."
   dates:
     - name: "[Regular/Survey/Position] Paper submission"
-       date: June 30th, 2022
+      date: June 30th, 2022
 #      date: <b><span style="color:yellow"> Aug. 20th, 2021 (Extended!)</span></b> (Anywhere on Earth)!
 # <strike style="color:gray">Jul. 2nd</strike>      
     - name: "Review result"
@@ -402,7 +402,7 @@ cfp:
 #    - name: <span style="color:#CEF9DC">(Challenge) Review result</span>
 #      date: <span style="color:#CEF9DC">Sep. 2nd, 2021</span>
 # <strike style="color:gray">Aug. 23rd</strike>      
-    - name: '[Regular/Survey/Position/Challenge] Camera ready and Registration'
+    - name: "[Regular/Survey/Position/Challenge] Camera ready and Registration"
       date:  August 25th, 2022
       #<strike style="color:gray">Sep. 7th</strike> 
 # Sep. 15th: submit to the publisher
