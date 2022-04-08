@@ -412,7 +412,7 @@ cfp:
   template_url: https://ja.overleaf.com/latex/templates/template-for-authors-to-a-springer-contributed-volume/bbfkkmdbdtcy
 
 venue:
-   - text: ABC2022 will be held at (<b>London, United Kingdom</b>). 
+  - text: ABC2022 will be held at (<b>London, United Kingdom</b>). 
 #  - text: ABC2021 will be held <strike>at Knowledge Exchange Center (KX), Bangkok, Thailand</strike> (<b style="color:orange">Changed to Online</b>). 
 #  KX is the exchange center for academia and start-ups.
 #  - text: For more information, please see <a href="https://www.kxinnovation.com/en">here</a>.
