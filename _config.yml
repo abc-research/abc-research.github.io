@@ -66,12 +66,12 @@ disqus_shortname: myshortname
 color:
 #  primary: 025eb0
 #  primary-rgb: 2,94,176
-  secondary: 063163 
-  secondary-dark: 063163 
+#  secondary: 063163 
+#  secondary-dark: 063163 
   primary: ee6128 
   primary-rgb: 238,97,40 
-#  secondary: 444648 
-#  secondary-dark: 444648
+  secondary: 444648 
+  secondary-dark: 444648
 
 
 # Footer settings
@@ -412,7 +412,7 @@ cfp:
   template_url: https://ja.overleaf.com/latex/templates/template-for-authors-to-a-springer-contributed-volume/bbfkkmdbdtcy
 
 venue:
-  - text: ABC2022 will be held at (<b>London, United Kingdom</b>). 
+  - text: <center> ABC2022 will be held at (<b>London, United Kingdom</b>). </center> 
 #  - text: ABC2021 will be held <strike>at Knowledge Exchange Center (KX), Bangkok, Thailand</strike> (<b style="color:orange">Changed to Online</b>). 
 #  KX is the exchange center for academia and start-ups.
 #  - text: For more information, please see <a href="https://www.kxinnovation.com/en">here</a>.
