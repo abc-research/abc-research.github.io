@@ -17,8 +17,8 @@ conjunction:
 navitem:
   - name: About
     url: "#about"
-  - name: Program
-    url: "#program"
+#  - name: Program     commented
+#    url: "#program"    commented
   - name: Registration
     url: "#registration"
 #  - name: CFP
@@ -36,8 +36,8 @@ includes:
   - file: header.html
 #  - file: sponsors.html
   - file: about.html
-#  - file: keynote.html commented
-#  - file: program.html commented
+#  - file: keynote.html  commented 
+#  - file: program.html  commented
   - file: registration.html
   - file: cfp.html
   - file: venue.html
@@ -67,11 +67,11 @@ color:
   primary: 025eb0
   primary-rgb: 2,94,176
 #  secondary: 063163
-#  secondary-dark: 063163
+#  secondary-dark: 063163 E69138 444648 
 #  primary: ee6128 
 #  primary-rgb: 238,97,40 
-  secondary: 444648 
-  secondary-dark: 444648
+  secondary: 063163 
+  secondary-dark: 063163
 
 
 # Footer settings
