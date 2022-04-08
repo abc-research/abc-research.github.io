@@ -9,7 +9,7 @@ conf_title2: "Activity and Behavior Computing"
 meta_author: Sozo Inoue
 #location: Knowledge Exchange Center (KX), Bangkok, Thailand (<b style="color:yellow">Changed to Online</b>)
 location: London, United Kingdom 
-date: Oct. 22nd - 23rd, 2022
+date: October 22nd - 23rd, 2022
 conjunction:
   name: ICIEV&IVPR2022
   url: http://cennser.org/ICIEV/
@@ -36,8 +36,8 @@ includes:
   - file: header.html
 #  - file: sponsors.html
   - file: about.html
-  - file: keynote.html
-  - file: program.html
+#  - file: keynote.html commented
+#  - file: program.html commented
   - file: registration.html
   - file: cfp.html
   - file: venue.html
@@ -66,8 +66,9 @@ disqus_shortname: myshortname
 color:
   primary: 025eb0
   primary-rgb: 2,94,176
-  secondary: 063163 
-  secondary-dark: 063163 
+  secondary: 063163
+  secondary-rgb:: 6,49,99
+  secondary-dark: 063163
 #  primary: ee6128 
 #  primary-rgb: 238,97,40 
 #  secondary: 444648 
@@ -434,10 +435,12 @@ social:
 
 series:
   - text: "<b>Bento2021</b>: Bento Packaging Activity Recognition Challenge in ABC2021"
-    url: https://abc-research.github.io/bento2021a
-  - text: "<b>ABC2020</b>: International Conference on Activity and Behavior Computing @Kitakyushu, Japan"
+    url: https://abc-research.github.io/bento2021
+  - text: "<b>ABC2021</b>: 3rd International Conference on Activity and Behavior Computing @Bangkok, Thailand"
+    url: https://abc-research.github.io/2021
+  - text: "<b>ABC2020</b>: 2nd International Conference on Activity and Behavior Computing @Kitakyushu, Japan"
     url: https://abc-research.github.io/2020
-  - text: "<b>ABC2019</b>: International Conference on Activity and Behavior Computing @Spokane, US"
+  - text: "<b>ABC2019</b>: 1st International Conference on Activity and Behavior Computing @Spokane, US"
     url: https://abc-research.github.io/2019
   - text: "<b>Nurse2021</b>: Third Nurse Care Activity Recognition Challenge - Can we Do from Bigdata? - in HASCA2021"
     url: https://abc-research.github.io/nurse2021
