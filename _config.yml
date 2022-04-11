@@ -268,8 +268,8 @@ committee:
 #        affil: Toyohashi University of Technology, Japan
 #      - name: Kazuya Murao
 #        affil: Ritsumeikan University, Japan
-#      - name: Kristof Van Laerhoven
-#        affil: University of Siegen, Germany
+      - name: Kristof Van Laerhoven
+        affil: University of Siegen, Germany
 #      - name: Susanna Pirttikangas
 #        affil: University of Oulu, Finland
 #      - name: Philipp M. Scholl
@@ -282,8 +282,8 @@ committee:
 #        affil: Kyushu Institute of Technology / Riken, Japan
 #      - name: Paula Lago
 #        affil: Universidad Nacional Abierta y a Distancia, Colombia
-#      - name: Stephan Sigg
-#        affil: Aalto University, Finland
+      - name: Stephan Sigg
+        affil: Aalto University, Finland
 #      - name: Hiroki Watanabe
 #        affil: Hokkaido University, Japan
 #      - name: Pascal Hirmer
@@ -304,30 +304,30 @@ committee:
 ##        affil: Hiroshima City University, Japan
 ##      - name: Mohiuddin Ahmad	
 ##        affil: Khulna University of Engineering & Technology, Bangladesh
-#      - name: Upal Mahbub
-#        affil: University of Meryland, College Park, USA
+      - name: Upal Mahbub
+        affil: University of Meryland, College Park, USA
 #      - name: Atsushi Shimada
 #        affil: Kyushu University, Japan
 #      - name: Guillaume Lopez
 #        affil: Aoyama Gakuin University, Japan        
-#      - name: Atsushi Nakazawa
-#        affil: Kyoto University, Japan
+      - name: Atsushi Nakazawa
+        affil: Kyoto University, Japan
 #      - name: Liming Chen
 #        affil: Ulster University, UK
-#      - name: Christopher Nugent
-#        affil: Ulster University, UK
+      - name: Christopher Nugent
+        affil: Ulster University, UK
 #      - name: François Charpillet 
 #        affil: INRIA, France
 #      - name: Maria Del Pilar Villamil Giraldo
 #        affil: University of Los Andes, Colombia
 ##      - name: Shoji Kobashi
 ##        affil: University of Hyogo, Japan
-#      - name: Takuro Yonezawa
-#        affil: Nagoya University, Japan
+      - name: Takuro Yonezawa
+        affil: Nagoya University, Japan
 #      - name: Anna Yokokubo
 #        affil: Aoyama Gakuin University, Japan
-#      - name: Yuuki Nishimura
-#        affil: University of Tokyo, Japan
+      - name: Yuuki Nishimura
+        affil: University of Tokyo, Japan
 
     
 cfp:
