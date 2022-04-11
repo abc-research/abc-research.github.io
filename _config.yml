@@ -306,8 +306,8 @@ committee:
 ##        affil: Khulna University of Engineering & Technology, Bangladesh
       - name: Upal Mahbub
         affil: University of Meryland, College Park, USA
-#      - name: Atsushi Shimada
-#        affil: Kyushu University, Japan
+      - name: Atsushi Shimada
+        affil: Kyushu University, Japan
 #      - name: Guillaume Lopez
 #        affil: Aoyama Gakuin University, Japan        
       - name: Atsushi Nakazawa
