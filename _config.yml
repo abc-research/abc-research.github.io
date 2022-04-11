@@ -263,9 +263,9 @@ committee:
 #      - name: Tittaya Mairittha
 #        affil: Kyushu Institute of Technology, Japan
   - role: Program Committee (TBA)
-#    member:
-#      - name: Ren Ohmura
-#        affil: Toyohashi University of Technology, Japan
+    member:
+      - name: Ren Ohmura
+        affil: Toyohashi University of Technology, Japan
 #      - name: Kazuya Murao
 #        affil: Ritsumeikan University, Japan
       - name: Kristof Van Laerhoven
