@@ -9,7 +9,7 @@ conf_title2: "Activity and Behavior Computing"
 meta_author: Sozo Inoue
 #location: Knowledge Exchange Center (KX), Bangkok, Thailand (<b style="color:yellow">Changed to Online</b>)
 location: London, United Kingdom 
-date: October 22nd - 23rd, 2022
+date: October 27th - 29th, 2022
 conjunction:
   name: ICIEV&IVPR2022
   url: http://cennser.org/ICIEV/
@@ -19,10 +19,10 @@ navitem:
     url: "#about"
 #  - name: Program     commented
 #    url: "#program"    commented
-  - name: Registration
-    url: "#registration"
-#  - name: CFP
-#    url: "#cfp" 
+#  - name: Registration
+#    url: "#registration"
+  - name: CFP
+    url: "#cfp" 
   - name: Challenge
     url: "https://abc-research.github.io/challenge2022/"
 #  - name: Venue
@@ -38,7 +38,7 @@ includes:
   - file: about.html
 #  - file: keynote.html  commented 
 #  - file: program.html  commented
-  - file: registration.html
+#  - file: registration.html
   - file: cfp.html
   - file: venue.html
   - file: committee.html
@@ -220,24 +220,24 @@ committee:
     member:
       - name: Daniel Roggen
         affil: University of Sussex, UK
-      - name: Kaori Fujinami
-        affil: Tokyo University of Agriculture and Technology, Japan
-  - role: Publicity Chairs
-    member:
-      - name: Paula Lago
-        affil: Kyushu Institute of Technology, Japan
-      - name: Anja Exler
-        affil: Adastra, Germany
-      - name: Hiroki Watanabe
-        affil: Hokkaido University, Japan
+#      - name: Kaori Fujinami
+#        affil: Tokyo University of Agriculture and Technology, Japan
+  - role: Publicity Chairs (TBA)
+#    member:
+#      - name: Paula Lago
+#        affil: Kyushu Institute of Technology, Japan
+#      - name: Anja Exler
+#        affil: Adastra, Germany
+#      - name: Hiroki Watanabe
+#        affil: Hokkaido University, Japan
   - role: Publication Chair
     member:
       - name: Tahera Hossain
         affil: Aoyama Gakuin University, Japan        
-  - role: Local Organization Chair
-    member:
-      - name: Phond Phunchongharn
-        affil: KMUTT, Thailand
+  - role: Local Organization Chair (TBA)
+#    member:
+#      - name: Phond Phunchongharn
+#        affil: KMUTT, Thailand
   - role: Advisory Board
     member:
       - name: Paul Lukowicz
@@ -254,80 +254,80 @@ committee:
         affil: University of Washinton, USA
       - name: Nobuo Kawaguchi
         affil: Nagoya University, Japan
-  - role: Secretaries
+  - role: Secretaries (TBA)
     member:
 #      - name: Moe Matsuki
 #        affil: Kyushu Institute of Technology, Japan
-      - name: Nattaya Mairittha
-        affil: Kyushu Institute of Technology, Japan
-      - name: Tittaya Mairittha
-        affil: Kyushu Institute of Technology, Japan
-  - role: Program Committee
-    member:
-      - name: Ren Ohmura
-        affil: Toyohashi University of Technology, Japan
-      - name: Kazuya Murao
-        affil: Ritsumeikan University, Japan
-      - name: Kristof Van Laerhoven
-        affil: University of Siegen, Germany
-      - name: Susanna Pirttikangas
-        affil: University of Oulu, Finland
-      - name: Philipp M. Scholl
-        affil: University of Freiburg, Germany
-      - name: Hristijan Gjoreski
-        affil: Ss. Cyril and Methodius University, Macedonia
-      - name: Katsuhiko Kaji
-        affil: Aichi Institute of Technology, Japan
-      - name: Tsuyoshi Okita
-        affil: Kyushu Institute of Technology / Riken, Japan
-      - name: Paula Lago
-        affil: Universidad Nacional Abierta y a Distancia, Colombia
-      - name: Stephan Sigg
-        affil: Aalto University, Finland
-      - name: Hiroki Watanabe
-        affil: Hokkaido University, Japan
-      - name: Pascal Hirmer
-        affil: University of Stuttgart, Germany
-      - name: Shigeyuki Miyagi
-        affil: The University of Shiga Prefecture, Japan
-      - name: Yu Enokibori
-        affil: Nagoya University, Japan
-      - name: Anja Exler
-        affil: Adastra, Germany
-      - name: Kristina Yordanova
-        affil: University of Rostock, Germany
-      - name: Trung Thanh NGO
-        affil: Osaka University, Japan
+#      - name: Nattaya Mairittha
+#        affil: Kyushu Institute of Technology, Japan
+#      - name: Tittaya Mairittha
+#        affil: Kyushu Institute of Technology, Japan
+  - role: Program Committee (TBA)
+#    member:
+#      - name: Ren Ohmura
+#        affil: Toyohashi University of Technology, Japan
+#      - name: Kazuya Murao
+#        affil: Ritsumeikan University, Japan
+#      - name: Kristof Van Laerhoven
+#        affil: University of Siegen, Germany
+#      - name: Susanna Pirttikangas
+#        affil: University of Oulu, Finland
+#      - name: Philipp M. Scholl
+#        affil: University of Freiburg, Germany
+#      - name: Hristijan Gjoreski
+#        affil: Ss. Cyril and Methodius University, Macedonia
+#      - name: Katsuhiko Kaji
+#        affil: Aichi Institute of Technology, Japan
+#      - name: Tsuyoshi Okita
+#        affil: Kyushu Institute of Technology / Riken, Japan
+#      - name: Paula Lago
+#        affil: Universidad Nacional Abierta y a Distancia, Colombia
+#      - name: Stephan Sigg
+#        affil: Aalto University, Finland
+#      - name: Hiroki Watanabe
+#        affil: Hokkaido University, Japan
+#      - name: Pascal Hirmer
+#        affil: University of Stuttgart, Germany
+ #     - name: Shigeyuki Miyagi
+#        affil: The University of Shiga Prefecture, Japan
+#      - name: Yu Enokibori
+#        affil: Nagoya University, Japan
+#      - name: Anja Exler
+#        affil: Adastra, Germany
+#      - name: Kristina Yordanova
+#        affil: University of Rostock, Germany
+#      - name: Trung Thanh NGO
+#        affil: Osaka University, Japan
 #      - name: Ricky J Sethi
-#        affil: Fitchburg State University, USA
-#      - name: Ikuhisa Mitsugami
-#        affil: Hiroshima City University, Japan
-#      - name: Mohiuddin Ahmad	
-#        affil: Khulna University of Engineering & Technology, Bangladesh
-      - name: Upal Mahbub
-        affil: University of Meryland, College Park, USA
-      - name: Atsushi Shimada
-        affil: Kyushu University, Japan
-      - name: Guillaume Lopez
-        affil: Aoyama Gakuin University, Japan        
-      - name: Atsushi Nakazawa
-        affil: Kyoto University, Japan
-      - name: Liming Chen
-        affil: Ulster University, UK
-      - name: Christopher Nugent
-        affil: Ulster University, UK
-      - name: François Charpillet 
-        affil: INRIA, France
-      - name: Maria Del Pilar Villamil Giraldo
-        affil: University of Los Andes, Colombia
-#      - name: Shoji Kobashi
-#        affil: University of Hyogo, Japan
-      - name: Takuro Yonezawa
-        affil: Nagoya University, Japan
-      - name: Anna Yokokubo
-        affil: Aoyama Gakuin University, Japan
-      - name: Yuuki Nishimura
-        affil: University of Tokyo, Japan
+##        affil: Fitchburg State University, USA
+##      - name: Ikuhisa Mitsugami
+##        affil: Hiroshima City University, Japan
+##      - name: Mohiuddin Ahmad	
+##        affil: Khulna University of Engineering & Technology, Bangladesh
+#      - name: Upal Mahbub
+#        affil: University of Meryland, College Park, USA
+#      - name: Atsushi Shimada
+#        affil: Kyushu University, Japan
+#      - name: Guillaume Lopez
+#        affil: Aoyama Gakuin University, Japan        
+#      - name: Atsushi Nakazawa
+#        affil: Kyoto University, Japan
+#      - name: Liming Chen
+#        affil: Ulster University, UK
+#      - name: Christopher Nugent
+#        affil: Ulster University, UK
+#      - name: François Charpillet 
+#        affil: INRIA, France
+#      - name: Maria Del Pilar Villamil Giraldo
+#        affil: University of Los Andes, Colombia
+##      - name: Shoji Kobashi
+##        affil: University of Hyogo, Japan
+#      - name: Takuro Yonezawa
+#        affil: Nagoya University, Japan
+#      - name: Anna Yokokubo
+#        affil: Aoyama Gakuin University, Japan
+#      - name: Yuuki Nishimura
+#        affil: University of Tokyo, Japan
 
     
 cfp:
@@ -405,7 +405,7 @@ cfp:
       #<strike style="color:gray">Sep. 7th</strike> 
 # Sep. 15th: submit to the publisher
     - name: "Conference"
-      date: Oct. 22nd - 23rd, 2022
+      date: Oct. 27th - 29th, 2022
   submit_url: https://cmt3.research.microsoft.com/ABC2021/Submission/Index
   template_url: https://ja.overleaf.com/latex/templates/template-for-authors-to-a-springer-contributed-volume/bbfkkmdbdtcy
 
@@ -431,7 +431,7 @@ social:
 #    url: http://github.com/abc-research
 
 series:
-  - text: "<b>ABC2021</b>: 3rd International Conference on Activity and Behavior Computing @Bangkok, Thailand"
+  - text: "<b>ABC2021</b>: 3rd International Conference on Activity and Behavior Computing @Online"
     url: https://abc-research.github.io/2021
   - text: "<b>ABC2020</b>: 2nd International Conference on Activity and Behavior Computing @Kitakyushu, Japan"
     url: https://abc-research.github.io/2020
