@@ -274,8 +274,8 @@ committee:
 #        affil: University of Oulu, Finland
 #      - name: Philipp M. Scholl
 #        affil: University of Freiburg, Germany
-#      - name: Hristijan Gjoreski
-#        affil: Ss. Cyril and Methodius University, Macedonia
+      - name: Hristijan Gjoreski
+        affil: Ss. Cyril and Methodius University, Macedonia
       - name: Katsuhiko Kaji
         affil: Aichi Institute of Technology, Japan
 #      - name: Tsuyoshi Okita
@@ -284,20 +284,20 @@ committee:
 #        affil: Universidad Nacional Abierta y a Distancia, Colombia
       - name: Stephan Sigg
         affil: Aalto University, Finland
-#      - name: Hiroki Watanabe
-#        affil: Hokkaido University, Japan
+      - name: Hiroki Watanabe
+        affil: Hokkaido University, Japan
 #      - name: Pascal Hirmer
 #        affil: University of Stuttgart, Germany
- #     - name: Shigeyuki Miyagi
-#        affil: The University of Shiga Prefecture, Japan
-#      - name: Yu Enokibori
-#        affil: Nagoya University, Japan
+     - name: Shigeyuki Miyagi
+        affil: The University of Shiga Prefecture, Japan
+      - name: Yu Enokibori
+        affil: Nagoya University, Japan
 #      - name: Anja Exler
 #        affil: Adastra, Germany
 #      - name: Kristina Yordanova
 #        affil: University of Rostock, Germany
-#      - name: Trung Thanh NGO
-#        affil: Osaka University, Japan
+      - name: Trung Thanh NGO
+        affil: Osaka University, Japan
 #      - name: Ricky J Sethi
 ##        affil: Fitchburg State University, USA
 ##      - name: Ikuhisa Mitsugami
@@ -312,8 +312,8 @@ committee:
 #        affil: Aoyama Gakuin University, Japan        
       - name: Atsushi Nakazawa
         affil: Kyoto University, Japan
-#      - name: Liming Chen
-#        affil: Ulster University, UK
+      - name: Liming Chen
+        affil: Ulster University, UK
       - name: Christopher Nugent
         affil: Ulster University, UK
 #      - name: François Charpillet 
