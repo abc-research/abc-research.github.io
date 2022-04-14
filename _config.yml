@@ -280,8 +280,8 @@ committee:
         affil: Aichi Institute of Technology, Japan
 #      - name: Tsuyoshi Okita
 #        affil: Kyushu Institute of Technology / Riken, Japan
-#      - name: Paula Lago
-#        affil: Universidad Nacional Abierta y a Distancia, Colombia
+      - name: Paula Lago
+        affil: Universidad Nacional Abierta y a Distancia, Colombia
       - name: Stephan Sigg
         affil: Aalto University, Finland
       - name: Hiroki Watanabe
