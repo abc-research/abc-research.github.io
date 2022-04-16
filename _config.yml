@@ -258,12 +258,10 @@ committee:
         affil: Nagoya University, Japan
   - role: Secretaries (TBA)
     member:
-#      - name: Moe Matsuki
-#        affil: Kyushu Institute of Technology, Japan
-#      - name: Nattaya Mairittha
-#        affil: Kyushu Institute of Technology, Japan
-#      - name: Tittaya Mairittha
-#        affil: Kyushu Institute of Technology, Japan
+       - name: Muhammad Fikry
+         affil: Kyushu Institute of Technology, Japan
+       - name: Haru Kaneko
+         affil: Kyushu Institute of Technology, Japan
   - role: Program Committee (TBA)
     member:
       - name: Ren Ohmura
@@ -274,14 +272,14 @@ committee:
         affil: University of Siegen, Germany
 #      - name: Susanna Pirttikangas
 #        affil: University of Oulu, Finland
-#      - name: Philipp M. Scholl
-#        affil: University of Freiburg, Germany
+      - name: Philipp M. Scholl
+        affil: University of Freiburg, Germany
       - name: Hristijan Gjoreski
         affil: Ss. Cyril and Methodius University, Macedonia
       - name: Katsuhiko Kaji
         affil: Aichi Institute of Technology, Japan
-#      - name: Tsuyoshi Okita
-#        affil: Kyushu Institute of Technology / Riken, Japan
+      - name: Tsuyoshi Okita
+        affil: Kyushu Institute of Technology / Riken, Japan
       - name: Paula Lago
         affil: Universidad Nacional Abierta y a Distancia, Colombia
       - name: Stephan Sigg
