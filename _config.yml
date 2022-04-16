@@ -220,12 +220,14 @@ committee:
     member:
       - name: Daniel Roggen
         affil: University of Sussex, UK
+      - name: Guillaume Lopez
+        affil: Aoyama Gakuin University, Japan        
 #      - name: Kaori Fujinami
 #        affil: Tokyo University of Agriculture and Technology, Japan
   - role: Publicity Chairs (TBA)
-#    member:
-#      - name: Paula Lago
-#        affil: Kyushu Institute of Technology, Japan
+    member:
+      - name: Paula Lago
+        affil: Kyushu Institute of Technology, Japan
 #      - name: Anja Exler
 #        affil: Adastra, Germany
 #      - name: Hiroki Watanabe
@@ -308,8 +310,6 @@ committee:
         affil: University of Meryland, College Park, USA
       - name: Atsushi Shimada
         affil: Kyushu University, Japan
-#      - name: Guillaume Lopez
-#        affil: Aoyama Gakuin University, Japan        
       - name: Atsushi Nakazawa
         affil: Kyoto University, Japan
       - name: Liming Chen
