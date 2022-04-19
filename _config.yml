@@ -222,8 +222,6 @@ committee:
         affil: University of Sussex, UK
       - name: Guillaume Lopez
         affil: Aoyama Gakuin University, Japan        
-#      - name: Kaori Fujinami
-#        affil: Tokyo University of Agriculture and Technology, Japan
   - role: Publicity Chairs (TBA)
     member:
       - name: Paula Lago
@@ -268,6 +266,8 @@ committee:
         affil: Toyohashi University of Technology, Japan
 #      - name: Kazuya Murao
 #        affil: Ritsumeikan University, Japan
+      - name: Kaori Fujinami
+        affil: Tokyo University of Agriculture and Technology, Japan
       - name: Kristof Van Laerhoven
         affil: University of Siegen, Germany
 #      - name: Susanna Pirttikangas
@@ -314,10 +314,10 @@ committee:
         affil: Ulster University, UK
       - name: Christopher Nugent
         affil: Ulster University, UK
-#      - name: François Charpillet 
-#        affil: INRIA, France
-#      - name: Maria Del Pilar Villamil Giraldo
-#        affil: University of Los Andes, Colombia
+      - name: François Charpillet 
+        affil: INRIA, France
+      - name: Maria Del Pilar Villamil Giraldo
+        affil: University of Los Andes, Colombia
 ##      - name: Shoji Kobashi
 ##        affil: University of Hyogo, Japan
       - name: Takuro Yonezawa
