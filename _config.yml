@@ -264,8 +264,8 @@ committee:
     member:
       - name: Ren Ohmura
         affil: Toyohashi University of Technology, Japan
-#      - name: Kazuya Murao
-#        affil: Ritsumeikan University, Japan
+      - name: Kazuya Murao
+        affil: Ritsumeikan University, Japan
       - name: Kaori Fujinami
         affil: Tokyo University of Agriculture and Technology, Japan
       - name: Kristof Van Laerhoven
