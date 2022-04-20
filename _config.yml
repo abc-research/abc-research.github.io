@@ -218,8 +218,8 @@ committee:
         affil: University of Dhaka, Bangladesh / Osaka University, Japan
   - role: Program Chairs
     member:
-      - name: Daniel Roggen
-        affil: University of Sussex, UK
+#      - name: Daniel Roggen
+#        affil: University of Sussex, UK
       - name: Guillaume Lopez
         affil: Aoyama Gakuin University, Japan        
   - role: Publicity Chairs (TBA)
@@ -244,8 +244,8 @@ committee:
         affil: DFKI, Germany
       - name: Kristof Van Laerhoven
         affil: University of Siegen, Germany
-      - name: Daniel Roggen
-        affil: University of Sussex, UK
+#      - name: Daniel Roggen
+#        affil: University of Sussex, UK
       - name: Michael Beigl
         affil: Karlsruhe Institute of Technology, Germany
       - name: Jeffry Cohn
