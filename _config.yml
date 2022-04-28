@@ -8,7 +8,7 @@ conf_title1: "The 4th International Conference on"
 conf_title2: "Activity and Behavior Computing"
 meta_author: Sozo Inoue
 #location: Knowledge Exchange Center (KX), Bangkok, Thailand (<b style="color:yellow">Changed to Online</b>)
-location: London, United Kingdom 
+location: London, United Kingdom (Hybrid)
 date: October 27th - 29th, 2022
 conjunction:
   name: ICIEV&IVPR2022
@@ -228,8 +228,8 @@ committee:
     member:
       - name: Paula Lago
         affil: Kyushu Institute of Technology, Japan
-#      - name: Anja Exler
-#        affil: Adastra, Germany
+      - name: Anja Exler
+        affil: Adastra, Germany
 #      - name: Hiroki Watanabe
 #        affil: Hokkaido University, Japan
   - role: Publication Chair
@@ -292,8 +292,8 @@ committee:
         affil: The University of Shiga Prefecture, Japan
       - name: Yu Enokibori
         affil: Nagoya University, Japan
-#      - name: Anja Exler
-#        affil: Adastra, Germany
+      - name: Anja Exler
+        affil: Adastra, Germany
 #      - name: Kristina Yordanova
 #        affil: University of Rostock, Germany
       - name: Trung Thanh NGO
@@ -409,7 +409,7 @@ cfp:
   template_url: https://ja.overleaf.com/latex/templates/template-for-authors-to-a-springer-contributed-volume/bbfkkmdbdtcy
 
 venue:
-  - text: <center> ABC2022 will be held at (<b>London, United Kingdom</b>). </center> 
+  - text: <center> ABC2022 will be held at (<b>London, United Kingdom (Hybrid)</b>). </center> 
 #  - text: ABC2021 will be held <strike>at Knowledge Exchange Center (KX), Bangkok, Thailand</strike> (<b style="color:orange">Changed to Online</b>). 
 #  KX is the exchange center for academia and start-ups.
 #  - text: For more information, please see <a href="https://www.kxinnovation.com/en">here</a>.
