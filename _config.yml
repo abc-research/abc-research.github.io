@@ -334,7 +334,8 @@ committee:
 cfp:
   text:
     - text: "We welcome 4 categories of papers: regular  papers, position papers, survey papers, and challenge papers. The submitted papers are <u>peer reviewed</u> by expert researchers, and accepted based on the research quality."
-    - text: "Accepted papers will be included in the <a href='https://www.springer.com/series/8767' style='color:white'>Smart Innovation, Systems and Technologies series</a> of <u>Springer books</u> (Indexed in ISI Proceedings, EI-Compendex, SCOPUS, Google Scholar and Springerlink)."
+    - text: "Accepted and presented papers will be published as Book Chapters (indexed in ISI Proceedings, EI-Compendex, SCOPUS, Google Scholar) (details will be updated soon)."
+#    - text: "Accepted papers will be included in the <a href='https://www.springer.com/series/8767' style='color:white'>Smart Innovation, Systems and Technologies series</a> of <u>Springer books</u> (Indexed in ISI Proceedings, EI-Compendex, SCOPUS, Google Scholar and Springerlink)."
 #    - text: "Selected papers will be invited to submit to the <u>Pattern Recognition Letters</u> journal (5-Year Impact Factor: 2.350) and to <u>International Journal on Computer Vision and Signal Processing</u>."
 #    - text: To accept various research stages, an accepted paper can be either published in IEEE proceedings + USB, Open web + USB, or USB only upon authors' preference."
   scope:
@@ -366,7 +367,8 @@ cfp:
      - item: "<b>Survey papers</b>: 10-20 pages in single column"
      - item: "<b>Challenge papers</b>: 4-10 pages in single column"
      - item: "<b>Position papers</b>:  4-10 pages in single column"
-     - item: "Please use Springer Contributed Book format (button below for the LaTeX template)."
+#     - item: "Please use Springer Contributed Book format (button below for the LaTeX template)."
+     - item: "Please use the LaTeX template (button below for the LaTeX template)."
      - item: "Submit from Microsoft CMT service (button below) and select the ABC."
      - item: "Note that the <b>author information should be removed</b> from the paper, for double blind reviews."
   dates:
