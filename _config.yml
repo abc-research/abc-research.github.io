@@ -370,13 +370,13 @@ cfp:
      - item: "Note that the <b>author information should be removed</b> from the paper, for double blind reviews."
   dates:
     - name: "[Regular/Survey/Position] Paper submission"
-      date:  <strike style="color:gray">June 30th</strike><b><span style="color:yellow"> July 25th, 2022 (Extended!)</span></b> (Anywhere on Earth)!
+      date:  <strike style="color:gray">June 30th</strike><b><span style="color:yellow"> July 25th, 2022 (Extended)</span></b> (Anywhere on Earth)!
     - name: "Review result"
       date: <strike style="color:gray">August 1st</strike> August 25th, 2022
     - name: "Resubmission for conditionally accepted paper"
       date: <strike style="color:gray">August 15th</strike> August 5th, 2022
     - name: "[Challenge] Application Close"
-      date: July 15, 2022
+      date: July 15th, 2022
 #    - name: <span style="color:#CEF9DC">[Challenge] Application</span>
 #      date: <span style="color:#CEF9DC">Aug. 17th, 2021 <b>(Extended!)</b> (Anywhere on Earth)!</span>
 #    <strike style="color:gray">Jul. 1st</strike> 
