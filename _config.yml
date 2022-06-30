@@ -374,34 +374,20 @@ cfp:
     - name: "Review result"
       date: <strike style="color:gray">August 1st</strike> August 25th, 2022
     - name: "Resubmission for conditionally accepted paper"
-      date: <strike style="color:gray">August 15th</strike> August 5th, 2022
+      date: <strike style="color:gray">August 15th</strike> September 5th, 2022
     - name: "[Challenge] Application Close"
       date: July 15th, 2022
-#    - name: <span style="color:#CEF9DC">[Challenge] Application</span>
-#      date: <span style="color:#CEF9DC">Aug. 17th, 2021 <b>(Extended!)</b> (Anywhere on Earth)!</span>
-#    <strike style="color:gray">Jul. 1st</strike> 
     - name: "[Challenge] Result submission"
       date: August 1st, 2022
-#    - name: <span style="color:#CEF9DC">[Challenge] Result submission</span>
-#      date: <span style="color:#CEF9DC">Aug. 17th, 2021 (Anywhere on Earth)!</span>
-#       <strike style="color:gray">Aug. 1st</strike>
-# Aug. 9th: review deadline
     - name: "[Challenge] Paper submission"
       date: August 10th, 2022
-#    - name: <span style="color:#CEF9DC">(Challenge) Paper submission</span>
-#      date: <span style="color:#CEF9DC">Aug. 20th, 2021 (Anywhere on Earth)!</span>
-#      <strike style="color:gray">Aug. 1st</strike>
     - name: "[Challenge] Review result"
       date: August 25th, 2022
-#    - name: <span style="color:#CEF9DC">(Challenge) Review result</span>
-#      date: <span style="color:#CEF9DC">Sep. 2nd, 2021</span>
-# <strike style="color:gray">Aug. 23rd</strike>      
     - name: "[Regular/Survey/Position/Challenge] Camera ready and Registration"
       date: <strike style="color:gray">August 28th</strike> September 10th, 2022
 # Sep. 15th: submit to the publisher
     - name: "Conference"
       date: Oct. 27th - 29th, 2022
- # submit_url: https://cmt3.research.microsoft.com/ABC2021/Submission/Index
   submit_url: https://cmt3.research.microsoft.com/ABC2022/Submission/Index
   template_url: https://ja.overleaf.com/latex/templates/template-for-authors-to-a-springer-contributed-volume/bbfkkmdbdtcy
 
