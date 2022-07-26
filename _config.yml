@@ -329,7 +329,14 @@ committee:
         affil: University of Tokyo, Japan
       - name: Tahera Hossain
         affil: Aoyama Gakuin University, Japan
-
+      - name: Moe Matsuki
+        affil: Kyushu Institute of Technology, Japan
+      - name: Nattaya Mairittha
+        affil: Thai Union Group PCL., Thailand 
+      - name: Tittaya Mairittha
+        affil: Kyushu Institute of Technology, Japan
+      - name: John Noel Victorino
+        affil: Kyushu Institute of Technology, Japan
     
 cfp:
   text:
