@@ -216,7 +216,7 @@ committee:
       - name: Sozo Inoue
         affil: Kyushu Institute of Technology / AUTOCARE LLC, Japan
       - name: Atiqur Rahman Ahad
-        affil: University of Dhaka, Bangladesh / Osaka University, Japan
+        affil: University of East London, UK
   - role: Program Chairs
     member:
 #      - name: Daniel Roggen
@@ -337,6 +337,8 @@ committee:
         affil: Kyushu Institute of Technology, Japan
       - name: John Noel Victorino
         affil: Kyushu Institute of Technology, Japan
+      - name: Takuya Maekawa
+        affil: Osaka University, Japan
     
 cfp:
   text:
