@@ -388,9 +388,9 @@ cfp:
     - name: "[Challenge] Application Close"
       date: July 15th, 2022
     - name: "[Challenge] Result submission"
-      date: August 1st, 2022
+      date: <strike style="color:gray">August 1st, 2022</strike><b><span style="color:yellow"> August 7th, 2022 (Extended)</span></b> (Anywhere on Earth)!
     - name: "[Challenge] Paper submission"
-      date: August 10th, 2022
+      date: <strike style="color:gray">August 10th, 2022</strike><b><span style="color:yellow"> August 15th, 2022 (Extended)</span></b> (Anywhere on Earth)!
     - name: "[Challenge] Review result"
       date: August 25th, 2022
     - name: "[Regular/Survey/Position/Challenge] Camera ready and Registration"
