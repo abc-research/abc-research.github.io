@@ -20,7 +20,7 @@ navitem:
     url: "#about"
 #  - name: Program     commented
 #    url: "#program"    commented
-  - name: Registration
+#  - name: Registration
     url: "#registration"
   - name: CFP
     url: "#cfp" 
@@ -39,7 +39,7 @@ includes:
   - file: about.html
 #  - file: keynote.html  commented 
 #  - file: program.html  commented
-  - file: registration.html
+#  - file: registration.html
   - file: cfp.html
   - file: venue.html
   - file: committee.html
