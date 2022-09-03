@@ -409,7 +409,8 @@ venue:
   - text: ABC2022 will be held at Dept. of Computer Science and Digital Technologies, Docklands Campus, University of East London (UEL), UK, very nearby the <a href="https://goo.gl/maps/hdDTM94LbG2efgaA8">London City Airport</a>. 
   - text: For more information, please see <a href="https://www.uel.ac.uk/about/finding-us">the campus web</a>.
 #  - text: We are considering to do it <b>either of hybrid or online style</b>. Anyway we provide online participation at least.
-  - text: <div class="movie-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/T0HW6ngjAcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+#  - text: <div class="movie-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/T0HW6ngjAcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+   - text: <div class="map-wrap"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.304644497499!2d0.0628706516264414!3d51.507626718407366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a89bd79632e9%3A0xd2a1ee734c6226d0!2z44Kk44O844K544OI44O744Ot44Oz44OJ44Oz5aSn5a2m44OJ44OD44Kv44Op44Oz44K644O744Kt44Oj44Oz44OR44K5!5e0!3m2!1sja!2sjp!4v1662191413843!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
   
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
