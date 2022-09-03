@@ -406,10 +406,10 @@ cfp:
 
 venue:
   - text: <center> ABC2022 will be held at (<b>London, United Kingdom (Hybrid)</b>). </center> 
-  - text: ABC2022 will be held at University of East London (UEL). 
-#  - text: For more information, please see <a href="https://www.kxinnovation.com/en">here</a>.
+  - text: ABC2022 will be held at Dept. of Computer Science and Digital Technologies, Docklands Campus, University of East London (UEL), UK, very nearby the London City Airport. 
+  - text: For more information, please see <a href="https://www.uel.ac.uk/about/finding-us">the campus web</a>.
 #  - text: We are considering to do it <b>either of hybrid or online style</b>. Anyway we provide online participation at least.
-  - text: <div class="movie-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/qi-MFqqSscE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  - text: <div class="movie-wrap"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=T0HW6ngjAcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
