@@ -18,11 +18,10 @@
 
 
                 
-                    
 <div id="smart-button-container">
       <div style="text-align: center;">
         <div style="margin-bottom: 1.25rem;">
-          <p>Registration types</p>
+          <p>Registration type</p>
           <select id="item-options"><option value="Regular registration (On-site and Online)" price="240">Regular registration (On-site and Online) - 240 USD</option><option value="Student registration (On-site and Online)" price="120">Student registration (On-site and Online) - 120 USD</option></select>
           <select style="visibility: hidden" id="quantitySelect"></select>
         </div>
@@ -39,7 +38,7 @@
     if (!isNaN(quantity)) {
       quantitySelect.style.visibility = "visible";
     }
-    var orderDescription = 'Registration types';
+    var orderDescription = 'Registration type';
     if(orderDescription === '') {
       orderDescription = 'Item';
     }
@@ -121,13 +120,7 @@
   }
   initPayPalButton();
     </script>
-                    
                 
-
-                <div class="col-lg-12 text-center">
-                    <a href="https://sites.google.com/view/abc2021-reg/home?authuser=0" class="btn btn-lg btn-outline"/>
-                        <i class="fa fa-sign-in"></i> Registration </a>
-                </div>
             </div>
         </div>
     </section>
