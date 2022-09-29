@@ -37,7 +37,7 @@ includes:
   - file: header.html
 #  - file: sponsors.html
   - file: about.html
-#  - file: keynote.html  commented 
+  - file: keynote.html
 #  - file: program.html  commented
   - file: registration.html
   - file: cfp.html
