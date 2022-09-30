@@ -156,8 +156,8 @@ program:
 #        time: "18:00-18:20"
   - date: "Oct. 28th (Friday), 2022"
     session: 
-       - name: "Breakfast"
-         time: "9:00-9:30"
+      - name: "Breakfast"
+        time: "9:00-9:30"
       - name: "Session 3: Movement"
         time: "9:30-10:50"
 #        paper: 
@@ -173,9 +173,9 @@ program:
         time: "11:10-12:10"
       - name: "Luncheon Event: Prospects of Activity Understanding for Smart Cities"
         time: "12:10-14:00"
-         paper: 
-           - title: "Session Chair: Seyed Ali, Jaswinder Lota"
-             authors: "Organized by Smart City Res. Gr., UEL- Ali, Jaswinder, Atiq & others" 
+        paper: 
+          - title: "Session Chair: Seyed Ali, Jaswinder Lota"
+            authors: "Organized by Smart City Res. Gr., UEL- Ali, Jaswinder, Atiq & others" 
 #      - name: "Session 5: Work in Progress"
 #        time: "14:10-15:00"
 #        paper: 
