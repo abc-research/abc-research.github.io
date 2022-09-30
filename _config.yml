@@ -18,8 +18,8 @@ conjunction:
 navitem:
   - name: About
     url: "#about"
-#  - name: Program     commented
-#    url: "#program"    commented
+  - name: Program     
+    url: "#program"    
   - name: Registration
     url: "#registration"
   - name: CFP
@@ -84,14 +84,18 @@ about:
   - text: "<b>Human Activity Recognition</b> has been researched in thousands of papers so far, with mobile / environmental sensors in ubiquitous / pervasive domains, and with cameras in vision domains. As well, <b>Human Behavior Analysis</b> is also explored for long-term health care, rehabilitation, emotion recognition, human interaction, and so on. However, many research challenges remain for realistic settings, such as complex and ambiguous activities / behavior, optimal sensor combinations, (deep) machine learning, data collection, platform systems, and killer applications."
   - text: "In this conference, we comprehend such research domains as <b>ABC</b>: <i>Activity and Behavior Computing</i>, and provide an open and a confluent place for discussing various aspects and the future of the ABC."
 
-#program:
-#  - date: "Times are in JST"
-#  - date: "Oct. 22nd (Fri.), 2022"
-#    session: 
-#      - name: "Opening"
-#        time: "13:00-13:10"
-#      - name: "Session 1: Regular papers"
-#        time: "13:10-14:10"
+program:
+  - date: "Times are in GMT"
+  - date: "Oct. 27th (Thursday), 2022"
+    session: 
+      - name: "Registration"
+        time: "8:00-8:30"
+      - name: "Breakfast"
+        time: "8:30-9:00"
+      - name: "Welcome"
+        time: "9:00-9:30"
+      - name: "Session 1: Regular papers"
+        time: "9:50-11:10"
 #        paper: 
 #          - title: "Chair: Kazuya Murao"
 #            authors: "Ritsumeikan University, Japan"
