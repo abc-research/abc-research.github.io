@@ -281,7 +281,7 @@ program:
       - name: "Awards + Closing"
         time: "16:10-16:30"
       - name: "Banquet"
-        time: "18:30-"
+#        time: "18:30-"
   
 # Committee members
 committee:
