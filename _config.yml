@@ -171,10 +171,11 @@ program:
 #            authors: "Kaori Fujinami (Tokyo University of Agriculture and Technology)*; Tomoko Naganuma (Tokyo University of Agriculture and Technology); Yushin Shinoda (Tokyo University of Agriculture and Technology); Koji Yamazaki (Tokyo University of Agriculture); Shinsuke Koike (Tokyo University of Agriculture and Technology)	"
       - name: "Keynote 3 - CECILIA MASCOLO"
         time: "11:10-12:10"
-      - name: "Luncheon Event: Prospects of Activity Understanding for Smart Cities"
+      - name: "Luncheon Event"
         time: "12:10-14:00"
         paper: 
           - title: "Session Chair: Seyed Ali, Jaswinder Lota"
+          - title: "Prospects of Activity Understanding for Smart Cities"
             authors: "Organized by Smart City Res. Gr., UEL- Ali, Jaswinder, Atiq & others" 
 #      - name: "Session 5: Work in Progress"
 #        time: "14:10-15:00"
