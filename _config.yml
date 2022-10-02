@@ -89,11 +89,11 @@ program:
   - date: "Oct. 27th (Thursday), 2022"
     session: 
       - name: "Registration"
-        time: "8:00-8:30"
-      - name: "Breakfast"
         time: "8:30-9:00"
-      - name: "Welcome"
+      - name: "Breakfast"
         time: "9:00-9:30"
+      - name: "Welcome"
+        time: "9:30-9:50"
       - name: "Session 1: Security / Comfort"
         time: "9:50-11:10"
         paper: 
@@ -280,8 +280,8 @@ program:
             authors: "Shun Ishii (Aoyama Gakuin University); Kazuki Imura (Aoyamagakuinn)*; Guillaume Lopez (Aoyama Gakuin University); Tahera Hosain (Aoyama Gakuin University); Anna Yokokubo (Aoyama Gakuin University)"
       - name: "Awards + Closing"
         time: "16:10-16:30"
-#      - name: "Networking"
-#        time: "18:30-18:50"
+      - name: "Banquet"
+        time: "18:30-"
   
 # Committee members
 committee:
