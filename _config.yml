@@ -112,7 +112,7 @@ program:
         paper: 
 #          - title: "Chair: Kaori Fujinami"
 #            authors: "Tokyo University of Agriculture and Technology"
-          - title: '<b style="color:yellow">Nicholas D. Lane ()</b>'
+          - title: '<b style="color:yellow">Nicholas D. Lane (University of Cambridge / Samsung AI)</b>'
 #            authors: '<b style="color:yellow">Reading of Reading for Actuating: Augmenting Human Learning by Experiential Supplements</b>'
       - name: "Lunch Break"
         time: "12:30-13:30"
