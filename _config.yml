@@ -107,8 +107,13 @@ program:
             authors: "Tahera Hossain (Aoyama Gakuin University)*; Yusuke Kawasaki (Aoyama Gakuin University); Kazuki Honda (Aoyama Gakuin University); Kizito Nkurikiyeyezu (Aoyama Gakuin University); Guillaume Lopez (Aoyama Gakuin University)"
           - title: "Touching with eye contact and vocal greetings increases the sense of security"
             authors: "Miyuki Iwamoto (Kyoto University)*; Atsushi Nakazawa (Kyoto University)"
-      - name: "Keynote 1 - NICHOLAS LANE"
+      - name: "Keynote 1"
         time: "11:30-12:30"
+        paper: 
+#          - title: "Chair: Kaori Fujinami"
+#            authors: "Tokyo University of Agriculture and Technology"
+          - title: '<b style="color:yellow">Nicholas D. Lane ()</b>'
+#            authors: '<b style="color:yellow">Reading of Reading for Actuating: Augmenting Human Learning by Experiential Supplements</b>'
       - name: "Lunch Break"
         time: "12:30-13:30"
       - name: "Session 2: Emotion"
@@ -124,8 +129,13 @@ program:
             authors: "Nazmun Nahid (Kyushu Institute of Technology)*; XINYI MIN (kyushu institute of technology); Md Atiqur Rahman Ahad (University of East London); Sozo Inoue (Kyushu Institute of Technology)"
           - title: "Understanding Mental Health Using Ubiquitous Sensors and Machine Learning: Challenges Ahead"
             authors: "Tahia Tazin (Kyushu Institute of Technology)*; Tahera Hossain (Kyushu Institute of Technology); Shahera Hossain (Kyushu Institute of Technology); Sozo Inoue (Kyushu Institute of Technology)"
-      - name: "Keynote 2 - Bjorn Schuller"
+      - name: "Keynote 2"
         time: "15:10-16:10"
+        paper: 
+#          - title: "Chair: Kaori Fujinami"
+#            authors: "Tokyo University of Agriculture and Technology"
+          - title: '<b style="color:yellow">Björn W. Schuller, Fellow IEEE (Imperial College London / UK and University of Augsburg / Germany)</b>'
+#            authors: '<b style="color:yellow">Reading of Reading for Actuating: Augmenting Human Learning by Experiential Supplements</b>'
       - name: "Workshop - Mental Health"
         time: "16:10-17:10"
         paper: 
@@ -162,6 +172,11 @@ program:
             authors: "Claudia Krull (Otto-von-Guericke-University Magdeburg)*; Pascal Krenckel (Otto-von-Guericke-University Magdeburg); Lauro Fialho Müller (Otto-von-Guericke-University Magdeburg)"
       - name: "Keynote 3"
         time: "11:10-12:10"
+        paper: 
+#          - title: "Chair: Kaori Fujinami"
+#            authors: "Tokyo University of Agriculture and Technology"
+          - title: '<b style="color:yellow">Cecilia Mascolo (University of Cambridge / United Kingdom)</b>'
+            authors: '<b style="color:yellow">Wear-to-compute? Challenges of Wearable Computing for Health</b>'
       - name: "Luncheon Event"
         time: "12:10-14:00"
         paper: 
@@ -263,14 +278,6 @@ program:
             authors: "Yoshinori Hanada (Aoyama Gakuin University)*; Tahera Hossain (Aoyama Gakuin University); Anna Yokokubo (Aoyama Gakuin University); Guillaume Lopez (Aoyama Gakuin University)"
           - title: "Keeping athletes motivated by realtime co-running application"
             authors: "Shun Ishii (Aoyama Gakuin University); Kazuki Imura (Aoyamagakuinn)*; Guillaume Lopez (Aoyama Gakuin University); Tahera Hosain (Aoyama Gakuin University); Anna Yokokubo (Aoyama Gakuin University)"
-
-#      - name: "Keynote 2"
-#        time: "17:10-18:10"
-#        paper: 
-#          - title: "Chair: Kaori Fujinami"
-#            authors: "Tokyo University of Agriculture and Technology"
-#          - title: '<b style="color:yellow">Koichi Kise (Osaka Prefecture University/Japan)</b>'
-#            authors: '<b style="color:yellow">Reading of Reading for Actuating: Augmenting Human Learning by Experiential Supplements</b>'
       - name: "Awards + Closing"
         time: "16:10-16:30"
 #      - name: "Networking"
