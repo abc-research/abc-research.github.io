@@ -309,12 +309,26 @@ committee:
 #        affil: Hokkaido University, Japan
   - role: Publication Chair
     member:
-      - name: Tahera Hossain
-        affil: Aoyama Gakuin University, Japan        
+      - name: Shahera Hossain
+        affil: American University of Malta, Malta        
   - role: Local Organization Chair (TBA)
 #    member:
 #      - name: Phond Phunchongharn
 #        affil: KMUTT, Thailand
+  - role: Local Arrangement Committee
+    member:
+      - name: Abdulrazaq Abba
+        affil: University of East London, UK
+      - name: Bilyaminu Auwal Romo
+        affil: University of East London, UK
+      - name: Fahimeh Jafari
+        affil: University of East London, UK
+      - name: Seyed Ali Ghorashi
+        affil: University of East London, UK
+      - name: Shahera Hossain
+        affil: American University of Malta, Malta
+      - name: Sujit Biswas
+        affil: University of East London, UK
   - role: Advisory Board
     member:
       - name: Paul Lukowicz
