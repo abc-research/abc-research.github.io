@@ -311,7 +311,7 @@ committee:
     member:
       - name: Shahera Hossain
         affil: American University of Malta, Malta        
-  - role: Local Organization Chair (TBA)
+# - role: Local Organization Chair (TBA)
 #    member:
 #      - name: Phond Phunchongharn
 #        affil: KMUTT, Thailand
