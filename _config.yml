@@ -309,6 +309,8 @@ committee:
 #        affil: Hokkaido University, Japan
   - role: Publication Chair
     member:
+      - name: Tahera Hossain
+        affil: Aoyama Gakuin University, Japan
       - name: Shahera Hossain
         affil: American University of Malta, Malta        
 # - role: Local Organization Chair (TBA)
