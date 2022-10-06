@@ -265,6 +265,11 @@ program:
             authors: "Zengyi Han (The University of Tokyo); Xuefu Dong (The University of Tokyo)*; Yuuki Nishiyama (The University of Tokyo); Kaoru Sezaki (The University of Tokyo)"
           - title: "Technology for Recognizing Complex Human Behavior from Video and its Recognition Rule"
             authors: "Takahiro Saito (Fujitsu)*; Satoru Takahashi (Fujitsu)"
+          - title: "Learning from data: Self-Supervised Feature Learning for Human Activity Recognition"
+            authors: "Federico Cruciani (Ulster University)*; Chris Nugent (Ulster University); Ian Cleland (Ulster University); Paul McCullagh (Ulster University)"
+          - title: "Using Digital Twins for the generation of data for activity recognition models"
+            authors: "Chris Nugent (Ulster University); Federico Cruciani (Ulster University)*; Liming Chen (Ulster University); Ian Cleland (Ulster University); Kåre Synnes (Luleå University of Technology); Miguel Ortiz Barrios (Universidad de la costa)"
+            
       - name: "Session 6: Sports"
         time: "15:30-16:50"
         paper: 
