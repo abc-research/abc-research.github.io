@@ -240,7 +240,7 @@ program:
 #            authors: "M Kabiruzzaman (AIUB); Mohammad Shidujaman (American International University- Bangladesh); Shadril Hassan Shifat (American International University -Bangladesh); Pritom Debnath (AIUB); Shahera Hossain ("UAP, BD ")*"
       - name: "Lunch Break"
         time: "12:40-13:40"
-      - name: "Session 5: Position Papers"
+      - name: "Position Papers"
         time: "13:40-15:10"
         paper: 
 #          - title: "Guillaume Lopez"
