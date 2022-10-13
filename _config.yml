@@ -202,7 +202,7 @@ program:
     session: 
       - name: "Breakfast"
         time: "9:00-9:30"
-      - name: "Session 5: Recogntion"
+      - name: "Session 5: Recognition"
         time: "9:30-10:50"
         paper: 
 #          - title: "Chair: Takuro Yonezawa"
