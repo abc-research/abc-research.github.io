@@ -187,7 +187,7 @@ program:
         time: "14:00-15:20"
         paper: 
           - title: "Session Chair: Masayuki Numao"
-            authors: "Osaka University, Japan"
+            authors: "The University of Electro Communications, Japan"
           - title: "Reducing the Number of Wearable Sensors and Placement Optimization by Missing Data Imputation on Nursery Teacher Activity Recognition"
             authors: "Akira Omi (Toyohashi University of Technology)*; Kenshi Fujiwara (Toyohashi University of Technology); Naoko Ishibashi (Sugiyama Jogakuen University); Ren Ohmura ()"
           - title: "Forecasting Parkinson's Disease Patients' Wearing-Off using Wrist-Worn Fitness Tracker and Smartphone Dataset"
