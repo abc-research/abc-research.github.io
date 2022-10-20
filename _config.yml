@@ -97,7 +97,7 @@ program:
       - name: "Session 1: Security / Comfort"
         time: "9:50-11:10"
         paper: 
-          - title: "Chair: Stephan Sigg"
+          - title: "Session Chair: Stephan Sigg"
             authors: "Aalto University, Finland"
           - title: "Function Estimation of Multiple IoT Devices by Communication Traffic Analysis"
             authors: "Yuichi Hattori (Kyushu Institute of Technology)*; Yutaka Arakawa (Kyushu University); Sozo Inoue (Kyushu Institute of Technology)"
@@ -119,7 +119,7 @@ program:
       - name: "Session 2: Emotion"
         time: "13:30-14:50"
         paper: 
-          - title: "Chair: Kazuya Murao"
+          - title: "Session Chair: Kazuya Murao"
             authors: "Ritsumeikan University, Japan"
           - title: "Optimal EEG Electrode Set for Emotion Recognition From Brain Signals: An Empirical Quest"
             authors: "Rumman Ahmed Prodhan (University of Asia Pacific); Sumya Akter (University of Asia Pacific ); Tanmoy Sarkar Pias (Virginia Tech)*; Akhtaruzzaman Adnan (UAP)"
@@ -160,7 +160,7 @@ program:
       - name: "Session 3: Movement"
         time: "9:30-10:50"
         paper: 
-          - title: "Chair: John Noel Victorino"
+          - title: "Session Chair: John Noel Victorino"
             authors: "Kyushu Institute of Technology, Japan"
           - title: "A Method for Estimating the Number of Steps Taken Using a BLE Beacon Attached to the Soles of Footwear"
             authors: "Yuki Ogane (Aichi Institute of Technology)*; Yu Enokibori (Nagoya University); Katsuhiko Kaji (Aichi Institute of Technology)"
@@ -186,7 +186,7 @@ program:
       - name: "Session 4: Healthcare / Nursery"
         time: "14:00-15:20"
         paper: 
-          - title: "Chair: Masayuki Numao"
+          - title: "Session Chair: Masayuki Numao"
             authors: "Osaka University, Japan"
           - title: "Reducing the Number of Wearable Sensors and Placement Optimization by Missing Data Imputation on Nursery Teacher Activity Recognition"
             authors: "Akira Omi (Toyohashi University of Technology)*; Kenshi Fujiwara (Toyohashi University of Technology); Naoko Ishibashi (Sugiyama Jogakuen University); Ren Ohmura ()"
@@ -199,7 +199,7 @@ program:
       - name: "Panel: Now and the Future of Activity and Behavior Computing"
         time: "15:40-17:40"
         paper:
-          - title: "Chair: Atiqur Rahman Ahad"
+          - title: "Session Chair: Atiqur Rahman Ahad"
             authors: "University of East London, UK" 
   - date: "Oct. 29th (Saturday), 2022"
     session: 
@@ -208,7 +208,7 @@ program:
       - name: "Session 5: Recognition"
         time: "9:30-10:50"
         paper: 
-          - title: "Chair: Shigeyuki Miyaki"
+          - title: "Session Chair: Shigeyuki Miyaki"
             authors: "The University of Shiga Prefecture, Japan"
           - title: "Static Sign Language Recognition Using Segmented Images and HOG on Cluttered Backgrounds"
             authors: "Arezoo Sadeghzadeh (Bahcesehir University)*; MD BAHARUL ISLAM (Bahcesehir University); Md Atiqur Rahman Ahad (University of East London)"
@@ -221,7 +221,7 @@ program:
       - name: "4th Nurse Challenge"
         time: "11:10-12:40"
         paper: 
-          - title: "Tahera Hossain"
+          - title: "Session Chair: Tahera Hossain"
             authors: "Aoyama Gakuin University, Japan"
           - title: "Overview of the 4th Nurse Care Challenge"
             authors: "Defry Hamdhana (Kyushu Institute of Technology, Japan)"
@@ -252,7 +252,7 @@ program:
       - name: "Position Papers"
         time: "13:40-15:10"
         paper: 
-          - title: "Guillaume Lopez"
+          - title: "Session Chair: Guillaume Lopez"
             authors: "Aoyama Gakuin University, Japan"
           - title: "Technology for Recognizing Complex Human Behavior from Video and its Recognition Rule"
             authors: "Takahiro Saito (Fujitsu)*; Satoru Takahashi (Fujitsu)"
@@ -282,7 +282,7 @@ program:
       - name: "Session 6: Sports"
         time: "15:30-16:50"
         paper: 
-          - title: "Chair: Ren Ohmura"
+          - title: "Session Chair: Ren Ohmura"
             authors: "Toyohashi University of Technology, Japan"
           - title: "Gait condition assessment methods for visualizing interventional expertise by means of posture detection"
             authors: "Akinori Kunishima (Shizuoka University)*; Koki Suzuki (Shizuoka University); Atsushi Omata (Shizuoka University); Shogo Ishikawa (Shizuoka University); Shinya Kiriyama (Shizuoka University)"
