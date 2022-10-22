@@ -139,7 +139,7 @@ program:
       - name: "Workshop - Mental Health"
         time: "16:10-17:10"
         paper: 
-          - title: "Sessio Chair: Akane Sano"
+          - title: "Session Chair: Akane Sano"
             authors: "Rice University, USA"
           - title: "IEEE EMBC 2022 Workshop and Challenge on Detection of Stress and Mental Health Using Wearable Sensors"
             authors: "Huiyuan Yang (Rice University)*; Han Yu (Rice University); Alicia M Choto (Rice University); Maryam Khalid (Rice University); Thomas Vaessen (University of Twente); Akane Sano (Rice University)"
@@ -191,7 +191,7 @@ program:
           - title: "Session Chair: Masayuki Numao"
             authors: "The University of Electro Communications, Japan"
           - title: "Reducing the Number of Wearable Sensors and Placement Optimization by Missing Data Imputation on Nursery Teacher Activity Recognition"
-            authors: "Akira Omi (Toyohashi University of Technology)*; Kenshi Fujiwara (Toyohashi University of Technology); Naoko Ishibashi (Sugiyama Jogakuen University); Ren Ohmura ()"
+            authors: "Akira Omi (Toyohashi University of Technology)*; Kenshi Fujiwara (Toyohashi University of Technology); Naoko Ishibashi (Sugiyama Jogakuen University); Ren Ohmura (Toyohashi University of Technology, Japan)"
           - title: "Forecasting Parkinson's Disease Patients' Wearing-Off using Wrist-Worn Fitness Tracker and Smartphone Dataset"
             authors: "John Noel C Victorino (Kyushu Institute of Technology)*; Yuko Shibata (Kyushu Institute of Technology); Sozo Inoue (Kyushu Institute of Technology); Tomohiro Shibata (Kyushu Institute of Technology)"
           - title: "Analysis of Care Records for Predicting Urination Times"
@@ -219,7 +219,7 @@ program:
           - title: "A CSI-based Human Activity Recognition using Canny Edge Detector"
             authors: "Hossein Shahverdi (Shahid Beheshti University); Parisa Fard Moshiri (Shahid Beheshti University); Mohammad Nabati (Shahid Beheshti University); Seyed Ali Ghorashi (University of East London)*"
           - title: "A Method for Estimating Upper-Arm Muscle Activities and sEMG with PPG Sensor"
-            authors: "Masahiro Okamoto (Ritsumeikan University); Kazuya Murao ()*"
+            authors: "Masahiro Okamoto (Ritsumeikan University); Kazuya Murao (Ritsumeikan University, Japan)*"
       - name: "4th Nurse Challenge"
         time: "11:10-12:40"
         paper: 
