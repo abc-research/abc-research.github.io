@@ -110,10 +110,10 @@ program:
       - name: "Keynote 1"
         time: "11:30-12:30"
         paper: 
-#          - title: "Chair: Kaori Fujinami"
-#            authors: "Tokyo University of Agriculture and Technology"
+          - title: "Session Chair: Stephan Sigg"
+            authors: "Aalto University, Finland"
           - title: '<b style="color:yellow">Nicholas D. Lane (University of Cambridge / Samsung AI)</b>'
-#            authors: '<b style="color:yellow">Reading of Reading for Actuating: Augmenting Human Learning by Experiential Supplements</b>'
+            authors: '<b style="color:yellow">The Machine Learning Data Center is a Cancer: What is the Cure?</b>'
       - name: "Lunch Break"
         time: "12:30-13:30"
       - name: "Session 2: Emotion"
@@ -132,13 +132,15 @@ program:
       - name: "Keynote 2"
         time: "15:10-16:10"
         paper: 
-#          - title: "Chair: Kaori Fujinami"
-#            authors: "Tokyo University of Agriculture and Technology"
+          - title: "Sessio Chair: Guillaume Lopez"
+            authors: "Aoyama Gakuin University, Japan"
           - title: '<b style="color:yellow">Björn W. Schuller, Fellow IEEE (Imperial College London / UK and University of Augsburg / Germany)</b>'
-#            authors: '<b style="color:yellow">Reading of Reading for Actuating: Augmenting Human Learning by Experiential Supplements</b>'
+            authors: '<b style="color:yellow">Automatic Anthropologic Activity and Affect Assessment: About Advancing an Art</b>'
       - name: "Workshop - Mental Health"
         time: "16:10-17:10"
         paper: 
+          - title: "Sessio Chair: Akane Sano"
+            authors: "Rice University, USA"
           - title: "IEEE EMBC 2022 Workshop and Challenge on Detection of Stress and Mental Health Using Wearable Sensors"
             authors: "Huiyuan Yang (Rice University)*; Han Yu (Rice University); Alicia M Choto (Rice University); Maryam Khalid (Rice University); Thomas Vaessen (University of Twente); Akane Sano (Rice University)"
           - title: "Anxolotl, an Anxiety Companion App - Stress Detection"
@@ -173,8 +175,8 @@ program:
       - name: "Keynote 3"
         time: "11:10-12:10"
         paper: 
-#          - title: "Chair: Kaori Fujinami"
-#            authors: "Tokyo University of Agriculture and Technology"
+          - title: "Session Chair: Sozo Inoue"
+            authors: "Kyushu Institute of Technology / AUTOCARE LLC, Japan"
           - title: '<b style="color:yellow">Cecilia Mascolo (University of Cambridge / United Kingdom)</b>'
             authors: '<b style="color:yellow">Wear-to-compute? Challenges of Wearable Computing for Health</b>'
       - name: "Luncheon Event"
