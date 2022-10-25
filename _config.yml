@@ -203,6 +203,20 @@ program:
         paper:
           - title: "Session Chair: Atiqur Rahman Ahad"
             authors: "University of East London, UK" 
+          - title: Bala Amavasai
+            authors: (Global Technical Director for manufacturing and logistics, Databricks, UK)
+          - title: Sozo Inoue
+            authors: (Kyushu Institute of Technology, Japan)
+          - title: Guillaume Lopez 
+            authors: (Aoyama Gakuin University, Japan)
+          - title: Stephan Sigg
+            authors: (Aalto University, Finland)
+          - title: Chris Nugent 
+            authors: (Ulster University, UK)
+          - title: Jamie ward
+            authors: (Goldsmith College, UK)
+          - title: TBA
+            authors:
   - date: "Oct. 29th (Saturday), 2022"
     session: 
       - name: "Breakfast"
