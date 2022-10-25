@@ -329,7 +329,7 @@ committee:
         affil: Aalto University, Finland
       - name: Guillaume Lopez
         affil: Aoyama Gakuin University, Japan        
-  - role: Publicity Chairs (TBA)
+  - role: Publicity Chairs
     member:
       - name: Paula Lago
         affil: Concordia University, Canada
@@ -379,13 +379,13 @@ committee:
         affil: University of Washinton, USA
       - name: Nobuo Kawaguchi
         affil: Nagoya University, Japan
-  - role: Secretaries (TBA)
+  - role: Secretaries
     member:
        - name: Muhammad Fikry
          affil: Kyushu Institute of Technology, Japan
        - name: Haru Kaneko
          affil: Kyushu Institute of Technology, Japan
-  - role: Program Committee (TBA)
+  - role: Program Committee
     member:
       - name: Ren Ohmura
         affil: Toyohashi University of Technology, Japan
