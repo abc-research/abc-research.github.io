@@ -97,8 +97,8 @@ program:
       - name: "Session 1: Security / Comfort"
         time: "9:50-11:10"
         paper: 
-          - title: "Session Chair: Stephan Sigg"
-            authors: "Aalto University, Finland"
+          - title: "Session Chair: Sozo Inoue"
+            authors: "Kyushu Institute of Technology, Japan"
           - title: "Function Estimation of Multiple IoT Devices by Communication Traffic Analysis"
             authors: "Yuichi Hattori (Kyushu Institute of Technology)*; Yutaka Arakawa (Kyushu University); Sozo Inoue (Kyushu Institute of Technology)"
           - title: "(k,n)-Threshold Encoding Scheme for RFID-based Real-Time Event Extraction and Its Application to ADL Recognition"
