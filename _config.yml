@@ -132,7 +132,7 @@ program:
       - name: "Keynote 2"
         time: "15:10-16:10"
         paper: 
-          - title: "Sessio Chair: Guillaume Lopez"
+          - title: "Session Chair: Guillaume Lopez"
             authors: "Aoyama Gakuin University, Japan"
           - title: '<b style="color:yellow">Björn W. Schuller, Fellow IEEE (Imperial College London / UK and University of Augsburg / Germany)</b>'
             authors: '<b style="color:yellow">Automatic Anthropologic Activity and Affect Assessment: About Advancing an Art</b>'
