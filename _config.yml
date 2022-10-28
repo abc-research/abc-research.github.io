@@ -215,8 +215,10 @@ program:
             authors: (Ulster University, UK)
           - title: Jamie ward
             authors: (Goldsmith College, UK)
-          - title: TBA
-            authors:
+          - title: Kazuya Murao
+            authors: (Ritsumeikan University, Japan)
+          - title: Ren Ohmura
+            authors: (Toyohashi University of Technology, Japan)
   - date: "Oct. 29th (Saturday), 2022"
     session: 
       - name: "Breakfast"
