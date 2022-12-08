@@ -95,7 +95,7 @@ program:
       - name: "Welcome"
         time: "9:30-9:50"
         paper:
-          - title: "<a href='https://docs.google.com/presentation/d/1nwFZEpDHX5d3hbT5H0G9ju_6uaxzSFRjMBKzNeUYdZM/edit?usp=sharing'><b style='color:yellow';>Opening Slides link</b></a>."    
+          - title: "<a href='https://docs.google.com/presentation/d/1nwFZEpDHX5d3hbT5H0G9ju_6uaxzSFRjMBKzNeUYdZM/edit?usp=sharing'><b style='color:yellow';>Click to view Opening Slides</b></a>"    
       - name: "Session 1: Security / Comfort"
         time: "9:50-11:10"
         paper: 
@@ -313,7 +313,7 @@ program:
       - name: "Awards + Closing"
         time: "16:50-17:30"
         paper:
-          - title: "<a href='https://docs.google.com/presentation/d/1vi8OlqCLNquyiAhR19_7UyDeHMQlQcvetEhRakv86s4/edit?usp=sharing'><b style='color:yellow’;>Closing Slides link</b></a>."
+          - title: "<a href='https://docs.google.com/presentation/d/1vi8OlqCLNquyiAhR19_7UyDeHMQlQcvetEhRakv86s4/edit?usp=sharing'><b style='color:yellow’;>Click to view Closing Slides link</b></a>"
       - name: "Banquet"
 #        time: "18:30-"
   
