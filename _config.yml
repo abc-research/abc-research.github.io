@@ -86,8 +86,6 @@ about:
 
 program:
   - date: "Times are in GMT+1"
-  - text: "<a href='https://docs.google.com/presentation/d/1nwFZEpDHX5d3hbT5H0G9ju_6uaxzSFRjMBKzNeUYdZM/edit?usp=sharing'><b style='color:blue';>Opening Slides</b></a>."
-  - text: "<a href='https://docs.google.com/presentation/d/1vi8OlqCLNquyiAhR19_7UyDeHMQlQcvetEhRakv86s4/edit?usp=sharing'><b style='color:blue';>Closing Slides</b></a>."
   - date: "Oct. 27th (Thursday), 2022"
     session: 
       - name: "Registration"
@@ -96,6 +94,8 @@ program:
         time: "9:00-9:30"
       - name: "Welcome"
         time: "9:30-9:50"
+        paper:
+          - title: "<a href='https://docs.google.com/presentation/d/1nwFZEpDHX5d3hbT5H0G9ju_6uaxzSFRjMBKzNeUYdZM/edit?usp=sharing'><b style='color:blue';>Opening Slides</b></a>."    
       - name: "Session 1: Security / Comfort"
         time: "9:50-11:10"
         paper: 
