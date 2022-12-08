@@ -86,8 +86,8 @@ about:
 
 program:
   - date: "Times are in GMT+1"
-      - text: "View the <a href='https://docs.google.com/presentation/d/1nwFZEpDHX5d3hbT5H0G9ju_6uaxzSFRjMBKzNeUYdZM/edit?usp=sharing'><b style='color:blue';>Opening Slides</b></a>."
-      - text: "View the <a href='https://docs.google.com/presentation/d/1vi8OlqCLNquyiAhR19_7UyDeHMQlQcvetEhRakv86s4/edit?usp=sharing'><b style='color:blue';>Closing Slides</b></a>."
+      - text: "<a href='https://docs.google.com/presentation/d/1nwFZEpDHX5d3hbT5H0G9ju_6uaxzSFRjMBKzNeUYdZM/edit?usp=sharing'><b style='color:blue';>Opening Slides</b></a>."
+      - text: "<a href='https://docs.google.com/presentation/d/1vi8OlqCLNquyiAhR19_7UyDeHMQlQcvetEhRakv86s4/edit?usp=sharing'><b style='color:blue';>Closing Slides</b></a>."
   - date: "Oct. 27th (Thursday), 2022"
     session: 
       - name: "Registration"
