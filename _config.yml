@@ -86,6 +86,11 @@ about:
 
 program:
   - date: "Times are in GMT+1"
+    session: 
+      - name: "Opening and Closing slides"
+        paper:
+          - title: "<a href='https://docs.google.com/presentation/d/1nwFZEpDHX5d3hbT5H0G9ju_6uaxzSFRjMBKzNeUYdZM/edit?usp=sharing'><b style='color:yellow';>Click to view Opening Slides</b></a>" 
+          - title: "<a href='https://docs.google.com/presentation/d/1vi8OlqCLNquyiAhR19_7UyDeHMQlQcvetEhRakv86s4/edit?usp=sharing'><b style='color:yellow’;>Click to view Closing Slides link</b></a>"
   - date: "Oct. 27th (Thursday), 2022"
     session: 
       - name: "Registration"
@@ -93,9 +98,7 @@ program:
       - name: "Breakfast"
         time: "9:00-9:30"
       - name: "Welcome"
-        time: "9:30-9:50"
-        paper:
-          - title: "<a href='https://docs.google.com/presentation/d/1nwFZEpDHX5d3hbT5H0G9ju_6uaxzSFRjMBKzNeUYdZM/edit?usp=sharing'><b style='color:yellow';>Click to view Opening Slides</b></a>"    
+        time: "9:30-9:50"    
       - name: "Session 1: Security / Comfort"
         time: "9:50-11:10"
         paper: 
@@ -312,8 +315,6 @@ program:
             authors: "Shun Ishii (Aoyama Gakuin University); Kazuki Imura (Aoyamagakuinn)*; Guillaume Lopez (Aoyama Gakuin University); Tahera Hosain (Aoyama Gakuin University); Anna Yokokubo (Aoyama Gakuin University)"
       - name: "Awards + Closing"
         time: "16:50-17:30"
-        paper: 
-          - title: "<a href='https://docs.google.com/presentation/d/1vi8OlqCLNquyiAhR19_7UyDeHMQlQcvetEhRakv86s4/edit?usp=sharing'><b style='color:yellow’;>Click to view Closing Slides link</b></a>"
       - name: "Banquet"
 #        time: "18:30-"
   
