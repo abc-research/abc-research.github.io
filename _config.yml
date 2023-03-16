@@ -551,6 +551,8 @@ social:
 #    url: http://github.com/abc-research
 
 series:
+  - text: "<b>ABC2022</b>: 4th International Conference on Activity and Behavior Computing @London,UK"
+    url: https://abc-research.github.io/2022
   - text: "<b>ABC2021</b>: 3rd International Conference on Activity and Behavior Computing @Online"
     url: https://abc-research.github.io/2021
   - text: "<b>ABC2020</b>: 2nd International Conference on Activity and Behavior Computing @Kitakyushu, Japan"
@@ -569,6 +571,8 @@ series:
     url: https://abc-research.github.io/cook2020
   - text: "<b>HASCA2019</b>: International Workshop on Human Activity Sensing Corpus and Applications @London"
     url: http://hasca2019.hasc.jp
+    
+
 
 
 # Postal address (add as many lines as necessary)
