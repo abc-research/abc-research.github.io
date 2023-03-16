@@ -560,6 +560,8 @@ series:
     url: https://abc-research.github.io/2020
   - text: "<b>ABC2019</b>: 1st International Conference on Activity and Behavior Computing @Spokane, US"
     url: https://abc-research.github.io/2019
+  - text: "<b>Nurse2022</b>: Fourth Nurse Care Activity Recognition Challenge - in ABC2022 @London, UK"
+    url: https://abc-research.github.io/challenge2022/
   - text: "<b>Nurse2021</b>: Third Nurse Care Activity Recognition Challenge - Can we Do from Bigdata? - in HASCA2021"
     url: https://abc-research.github.io/nurse2021
   - text: "<b>Nurse2020</b>: Second Nurse Care Activity Recognition Challenge - From Lab to Field - in HASCA2020"
