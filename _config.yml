@@ -1,5 +1,5 @@
 # Site settings
-title: ABC2022
+title: ABC2023
 email: abc2022@sozolab.jp
 url: https://abc-research.github.io
 description: "International Conference on Activity and Behavior Computing (ABC), which includes Human Activity Recognition with mobile / environmental sensors in ubiquitous / pervasive domains and with cameras in vision domains, and Human Behavior Analysis for long-term health care, rehabilitation, emotion recognition, human interaction, and so on."
@@ -8,7 +8,8 @@ conf_title1: "The 4th International Conference on"
 conf_title2: "Activity and Behavior Computing"
 meta_author: Sozo Inoue
 #location: Knowledge Exchange Center (KX), Bangkok, Thailand (<b style="color:yellow">Changed to Online</b>)
-location: London, United Kingdom (Hybrid)
+#location: London, United Kingdom (Hybrid)
+location: Germany
 date: October 27th - 29th, 2022
 addition: 'Paper deadline: <span style="color:yellow"> July 31st, 2022 (Extended)</span>'
 conjunction:
@@ -18,18 +19,18 @@ conjunction:
 navitem:
   - name: About
     url: "#about"
-  - name: Program     
-    url: "#program"    
-  - name: Registration
-    url: "#registration"
-  - name: CFP
-    url: "#cfp" 
-  - name: Challenge
-    url: "https://abc-research.github.io/challenge2022/"
+  #- name: Program     
+  #  url: "#program"    
+  #- name: Registration
+  #  url: "#registration"
+  #- name: CFP
+  #  url: "#cfp" 
+  #- name: Challenge
+  #  url: "https://abc-research.github.io/challenge2022/"
   - name: Venue
     url: "#venue"
-  - name: Committee
-    url: "#committee"
+  #- name: Committee
+  #  url: "#committee"
   - name: Series
     url: "#series"
     
