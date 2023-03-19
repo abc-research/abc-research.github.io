@@ -23,8 +23,8 @@ navitem:
   #  url: "#program"    
   #- name: Registration
   #  url: "#registration"
-  #- name: CFP
-  #  url: "#cfp" 
+  - name: CFP
+    url: "#cfp" 
   #- name: Challenge
   #  url: "https://abc-research.github.io/challenge2022/"
   - name: Venue
@@ -508,22 +508,24 @@ cfp:
      - item: "Submit from Microsoft CMT service (button below) and select the ABC."
      - item: "Note that the <b>author information should be removed</b> from the paper, for double blind reviews."
   dates:
+    - name: "[Regular/Survey/Position] Short abstract"
+      date: April 27, 2023 (Anywhere on Earth) 
     - name: "[Regular/Survey/Position] Paper submission"
-      date:  <strike style="color:gray">June 30th</strike><b><span style="color:yellow"> July 31st, 2022 (Extended)</span></b> (Anywhere on Earth)!
+      date: May 18, 2023 (Anywhere on Earth)
     - name: "Review result"
-      date: <strike style="color:gray">August 1st</strike> August 25th, 2022
+      date: June 15, 2023
     - name: "Resubmission for conditionally accepted paper"
-      date: <strike style="color:gray">August 15th</strike> September 5th, 2022
-    - name: "[Challenge] Application Close"
-      date: July 15th, 2022
-    - name: "[Challenge] Result submission"
-      date: <strike style="color:gray">August 1st</strike><b><span style="color:yellow"> August 7th, 2022 (Extended)</span></b> (Anywhere on Earth)!
-    - name: "[Challenge] Paper submission"
-      date: <strike style="color:gray">August 10th</strike><b><span style="color:yellow"> August 15th, 2022 (Extended)</span></b> (Anywhere on Earth)!
-    - name: "[Challenge] Review result"
-      date: August 25th, 2022
+      date: July 6, 2023
+#    - name: "[Challenge] Application Close"
+#      date: July 15th, 2022
+#    - name: "[Challenge] Result submission"
+#      date: <strike style="color:gray">August 1st</strike><b><span style="color:yellow"> August 7th, 2022 (Extended)</span></b> (Anywhere on Earth)!
+#    - name: "[Challenge] Paper submission"
+#      date: <strike style="color:gray">August 10th</strike><b><span style="color:yellow"> August 15th, 2022 (Extended)</span></b> (Anywhere on Earth)!
+#    - name: "[Challenge] Review result"
+#      date: August 25th, 2022
     - name: "[Regular/Survey/Position/Challenge] Camera ready and Registration"
-      date: <strike style="color:gray">September 10th</strike><b><span style="color:yellow"> September 23rd, 2022 (Extended)</span></b> (Anywhere on Earth)!
+      date:  July 27, 2023 (Anywhere on Earth)
 # Sep. 15th: submit to the publisher
     - name: "Conference"
       date: October 27th - 29th, 2022
