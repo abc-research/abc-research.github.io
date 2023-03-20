@@ -554,7 +554,7 @@ social:
 #    url: http://github.com/abc-research
 
 series:
-  - text: "<b>ABC2022</b>: 4th International Conference on Activity and Behavior Computing @London,UK"
+  - text: "<b style='color:blue'>ABC2022</b>: 4th International Conference on Activity and Behavior Computing @London,UK"
     url: https://abc-research.github.io/2022
   - text: "<b>ABC2021</b>: 3rd International Conference on Activity and Behavior Computing @Online"
     url: https://abc-research.github.io/2021
