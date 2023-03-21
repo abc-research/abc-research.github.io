@@ -66,12 +66,12 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 64DC94
-  primary-rgb: "100,220,148"
-#  primary: ee6128, 444648, 495F85
+  primary: 1B567D
+  primary-rgb: "27,86,125"
+#  primary: ee6128, 444648
 #  primary-rgb: 238,97,40.    73,95,133
-  secondary: 0A386B
-  secondary-dark: 0A386B
+  secondary: 495F85
+  secondary-dark: 495F85
 
 
 # Footer settings
@@ -554,7 +554,7 @@ social:
 #    url: http://github.com/abc-research
 
 series:
-  - text: "<b style='color:blue'>ABC2022</b>: 4th International Conference on Activity and Behavior Computing @London,UK"
+  - text: "<b>ABC2022</b>: 4th International Conference on Activity and Behavior Computing @London,UK"
     url: https://abc-research.github.io/2022
   - text: "<b>ABC2021</b>: 3rd International Conference on Activity and Behavior Computing @Online"
     url: https://abc-research.github.io/2021
