@@ -41,7 +41,7 @@ includes:
 #  - file: keynote.html
 #  - file: program.html
 #  - file: registration.html
-#  - file: cfp.html
+  - file: cfp.html
 #  - file: venue.html
 #  - file: committee.html
   - file: series.html
@@ -468,12 +468,12 @@ committee:
     
 cfp:
   text:
-    - text: "We welcome 4 categories of papers: regular  papers, position papers, survey papers, and challenge papers. The submitted papers are <u>peer reviewed</u> by expert researchers, and accepted based on the research quality."
-#    - text: "Accepted and presented papers will be published as Book Chapters (indexed in ISI Proceedings, EI-Compendex, SCOPUS, Google Scholar) (details will be updated soon)."
-    - text: "Accepted papers will be included in the <b style='color:white'>Human Activity and Behavior Analysis: Advances in Computer Vision and Sensors</b> by <u>CRC Press</u>."
-#(Indexed in ISI Proceedings, EI-Compendex, SCOPUS, Google Scholar and Springerlink)."
-#    - text: "Selected papers will be invited to submit to the <u>Pattern Recognition Letters</u> journal (5-Year Impact Factor: 2.350) and to <u>International Journal on Computer Vision and Signal Processing</u>."
-#    - text: To accept various research stages, an accepted paper can be either published in IEEE proceedings + USB, Open web + USB, or USB only upon authors' preference."
+#    - text: "We welcome 4 categories of papers: regular  papers, position papers, survey papers, and challenge papers. The submitted papers are <u>peer reviewed</u> by expert researchers, and accepted based on the research quality."
+##    - text: "Accepted and presented papers will be published as Book Chapters (indexed in ISI Proceedings, EI-Compendex, SCOPUS, Google Scholar) (details will be updated soon)."
+#    - text: "Accepted papers will be included in the <b style='color:white'>Human Activity and Behavior Analysis: Advances in Computer Vision and Sensors</b> by <u>CRC Press</u>."
+##(Indexed in ISI Proceedings, EI-Compendex, SCOPUS, Google Scholar and Springerlink)."
+##    - text: "Selected papers will be invited to submit to the <u>Pattern Recognition Letters</u> journal (5-Year Impact Factor: 2.350) and to <u>International Journal on Computer Vision and Signal Processing</u>."
+##    - text: To accept various research stages, an accepted paper can be either published in IEEE proceedings + USB, Open web + USB, or USB only upon authors' preference."
   scope:
     - item: Mobile sensor-based ABC
     - item: Environmental sensor-based ABC
@@ -499,11 +499,11 @@ cfp:
     - item: "<b>Challenge papers</b>: we will provide a dataset and accept results for activity recognition and papers describing the methods and the results. Please see the <a href='https://abc-research.github.io/challenge2022'><b style='color:yellow';>Challenge Site</b></a> for details."
     - item: "<b>Position papers</b>: describe the challenges and future directions of ABC based on  problems that arise when systems are deployed in real settings."
   format: 
-     - item: "<b>Regular papers</b>: 8-20 pages in single column"
-     - item: "<b>Survey papers</b>: 10-20 pages in single column"
-     - item: "<b>Challenge papers</b>: 4-10 pages in single column"
-     - item: "<b>Position papers</b>:  4-10 pages in single column"
-#     - item: "Please use Springer Contributed Book format (button below for the LaTeX template)."
+#     - item: "<b>Regular papers</b>: 8-20 pages in single column"
+#     - item: "<b>Survey papers</b>: 10-20 pages in single column"
+#     - item: "<b>Challenge papers</b>: 4-10 pages in single column"
+#     - item: "<b>Position papers</b>:  4-10 pages in single column"
+##     - item: "Please use Springer Contributed Book format (button below for the LaTeX template)."
      - item: "Please use the LaTeX template (button below for the LaTeX template)."
      - item: "Submit from Microsoft CMT service (button below) and select the ABC."
      - item: "Note that the <b>author information should be removed</b> from the paper, for double blind reviews."
@@ -529,16 +529,16 @@ cfp:
 # Sep. 15th: submit to the publisher
     - name: "Conference"
       date: October 27th - 29th, 2022
-  submit_url: https://cmt3.research.microsoft.com/ABC2022/Submission/Index
+  submit_url: https://cmt3.research.microsoft.com/ABC2023/Submission/Index
   # template_url: https://ja.overleaf.com/latex/templates/template-for-authors-to-a-springer-contributed-volume/bbfkkmdbdtcy
-  template_url: https://www.overleaf.com/read/rrpmfcbkqmvx
+#  template_url: https://www.overleaf.com/read/rrpmfcbkqmvx
 
 venue:
-  - text: <center> ABC2022 will be held at (<b>London, United Kingdom (Hybrid)</b>). </center> 
-  - text: ABC2022 will be held at Knowledge Dock building (KD.2.22), Docklands Campus, University of East London (UEL), UK, very nearby the <a href="https://goo.gl/maps/hdDTM94LbG2efgaA8">London City Airport</a>. 
-#  - text: For more information, please see <a href="https://www.uel.ac.uk/about/finding-us">the campus web</a>.
-#  - text: We are considering to do it <b>either of hybrid or online style</b>. Anyway we provide online participation at least.
-#  - text: <div class="movie-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/T0HW6ngjAcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  - text: <center> ABC2023 will be held at (<b>Kaiserslautern, Germany (Hybrid)</b>). </center> 
+#  - text: ABC2023 will be held at Knowledge Dock building (KD.2.22), Docklands Campus, University of East London (UEL), UK, very nearby the <a href="https://goo.gl/maps/hdDTM94LbG2efgaA8">London City Airport</a>. 
+##  - text: For more information, please see <a href="https://www.uel.ac.uk/about/finding-us">the campus web</a>.
+##  - text: We are considering to do it <b>either of hybrid or online style</b>. Anyway we provide online participation at least.
+##  - text: <div class="movie-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/T0HW6ngjAcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
