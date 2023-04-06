@@ -27,8 +27,8 @@ navitem:
     url: "#cfp" 
   #- name: Challenge
   #  url: "https://abc-research.github.io/challenge2022/"
-  - name: Venue
-    url: "#venue"
+  #- name: Venue
+  #  url: "#venue"
   - name: Committee
     url: "#committee"
   - name: Series
@@ -351,7 +351,7 @@ committee:
 #    member:
 #      - name: Phond Phunchongharn
 #        affil: KMUTT, Thailand
- - role: Organizating Chair
+  - role: Organizating Chair
     member:
       - name: Vitor Fortes Rey
         affil: DFKI, Germany
