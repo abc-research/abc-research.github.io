@@ -29,8 +29,8 @@ navitem:
   #  url: "https://abc-research.github.io/challenge2022/"
   - name: Venue
     url: "#venue"
-  #- name: Committee
-  #  url: "#committee"
+  - name: Committee
+    url: "#committee"
   - name: Series
     url: "#series"
     
@@ -43,7 +43,7 @@ includes:
 #  - file: registration.html
   - file: cfp.html
 #  - file: venue.html
-#  - file: committee.html
+  - file: committee.html
   - file: series.html
   
 
@@ -333,12 +333,12 @@ committee:
         affil: Aalto University, Finland
       - name: Guillaume Lopez
         affil: Aoyama Gakuin University, Japan        
-  - role: Publicity Chairs
-    member:
-      - name: Paula Lago
-        affil: Concordia University, Canada
-      - name: Anja Exler
-        affil: Adastra, Germany
+#  - role: Publicity Chairs
+#    member:
+#      - name: Paula Lago
+#        affil: Concordia University, Canada
+#      - name: Anja Exler
+#        affil: Adastra, Germany
 #      - name: Hiroki Watanabe
 #        affil: Hokkaido University, Japan
   - role: Publication Chairs
@@ -351,6 +351,10 @@ committee:
 #    member:
 #      - name: Phond Phunchongharn
 #        affil: KMUTT, Thailand
+ - role: Organizating Chair
+    member:
+      - name: Vitor Fortes Rey
+        affil: DFKI, Germany
   - role: Local Arrangement Committee
     member:
       - name: Abdulrazaq Abba
@@ -397,18 +401,18 @@ committee:
         affil: Ritsumeikan University, Japan
       - name: Kaori Fujinami
         affil: Tokyo University of Agriculture and Technology, Japan
-      - name: Kristof Van Laerhoven
-        affil: University of Siegen, Germany
+#      - name: Kristof Van Laerhoven
+#        affil: University of Siegen, Germany
 #      - name: Susanna Pirttikangas
 #        affil: University of Oulu, Finland
-      - name: Philipp M. Scholl
-        affil: University of Freiburg, Germany
-      - name: Hristijan Gjoreski
-        affil: Ss. Cyril and Methodius University, Macedonia
+#      - name: Philipp M. Scholl
+#        affil: University of Freiburg, Germany
+#      - name: Hristijan Gjoreski
+#        affil: Ss. Cyril and Methodius University, Macedonia
       - name: Katsuhiko Kaji
         affil: Aichi Institute of Technology, Japan
-      - name: Tsuyoshi Okita
-        affil: Kyushu Institute of Technology / Riken, Japan
+#      - name: Tsuyoshi Okita
+#        affil: Kyushu Institute of Technology / Riken, Japan
       - name: Paula Lago
         affil: Concordia University, Canada
       - name: Hiroki Watanabe
@@ -423,16 +427,16 @@ committee:
         affil: Adastra, Germany
 #      - name: Kristina Yordanova
 #        affil: University of Rostock, Germany
-      - name: Trung Thanh NGO
-        affil: Osaka University, Japan
+#      - name: Trung Thanh NGO
+#        affil: Osaka University, Japan
 #      - name: Ricky J Sethi
 ##        affil: Fitchburg State University, USA
 ##      - name: Ikuhisa Mitsugami
 ##        affil: Hiroshima City University, Japan
 ##      - name: Mohiuddin Ahmad	
 ##        affil: Khulna University of Engineering & Technology, Bangladesh
-      - name: Upal Mahbub
-        affil: University of Meryland, College Park, USA
+#      - name: Upal Mahbub
+#        affil: University of Meryland, College Park, USA
       - name: Atsushi Shimada
         affil: Kyushu University, Japan
       - name: Atsushi Nakazawa
@@ -443,14 +447,14 @@ committee:
         affil: Ulster University, UK
       - name: François Charpillet 
         affil: INRIA, France
-      - name: Maria Del Pilar Villamil Giraldo
-        affil: University of Los Andes, Colombia
+#      - name: Maria Del Pilar Villamil Giraldo
+#        affil: University of Los Andes, Colombia
 ##      - name: Shoji Kobashi
 ##        affil: University of Hyogo, Japan
       - name: Takuro Yonezawa
         affil: Nagoya University, Japan
-#      - name: Anna Yokokubo
-#        affil: Aoyama Gakuin University, Japan
+      - name: Anna Yokokubo
+        affil: Aoyama Gakuin University, Japan
       - name: Yuuki Nishimura
         affil: University of Tokyo, Japan
       - name: Tahera Hossain
