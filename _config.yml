@@ -346,7 +346,9 @@ committee:
       - name: Tahera Hossain
         affil: Aoyama Gakuin University, Japan
       - name: Shahera Hossain
-        affil: American University of Malta, Malta        
+        affil: University of Asia Pacific, Bangladesh   
+      - name: Sungho Suh
+        affil: DFKI, Germany
 # - role: Local Organization Chair (TBA)
 #    member:
 #      - name: Phond Phunchongharn
@@ -355,22 +357,22 @@ committee:
     member:
       - name: Vitor Fortes Rey
         affil: DFKI, Germany
-  - role: Local Arrangement Committee
-    member:
-      - name: Abdulrazaq Abba
-        affil: University of East London, UK
-      - name: Bilyaminu Auwal Romo
-        affil: University of East London, UK
-      - name: Fahimeh Jafari
-        affil: University of East London, UK
-      - name: Seyed Ali Ghorashi
-        affil: University of East London, UK
-      - name: Shahera Hossain
-        affil: American University of Malta, Malta
-      - name: Sujit Biswas
-        affil: University of East London, UK
-      - name: Saeed Sharif
-        affil: University of East London, UK
+  #- role: Local Arrangement Committee
+  #  member:
+  #    - name: Abdulrazaq Abba
+   #     affil: University of East London, UK
+   #   - name: Bilyaminu Auwal Romo
+   #     affil: University of East London, UK
+   #   - name: Fahimeh Jafari
+   #     affil: University of East London, UK
+   #   - name: Seyed Ali Ghorashi
+   #     affil: University of East London, UK
+   #   - name: Shahera Hossain
+   #     affil: American University of Malta, Malta
+   #   - name: Sujit Biswas
+   #     affil: University of East London, UK
+   #   - name: Saeed Sharif
+   #     affil: University of East London, UK
   - role: Advisory Board
     member:
       - name: Paul Lukowicz
@@ -395,10 +397,22 @@ committee:
          affil: Kyushu Institute of Technology, Japan
   - role: Program Committee
     member:
-      - name: Ren Ohmura
-        affil: Toyohashi University of Technology, Japan
-      - name: Kazuya Murao
-        affil: Ritsumeikan University, Japan
+      - name: Anja Exler
+        affil: Adastra, Germany
+      - name: Anna Yokokubo
+        affil: Aoyama Gakuin University, Japan
+      - name: Atsushi Nakazawa
+        affil: Kyoto University, Japan
+      - name: Atsushi Shimada
+        affil: Kyushu University, Japan
+      - name: Christopher Nugent
+        affil: Ulster University, UK
+      - name: François Charpillet 
+        affil: INRIA, France
+      - name: Hiroki Watanabe
+        affil: Hokkaido University, Japan
+      - name: John Noel Victorino
+        affil: Kyushu Institute of Technology, Japan
       - name: Kaori Fujinami
         affil: Tokyo University of Agriculture and Technology, Japan
 #      - name: Kristof Van Laerhoven
@@ -411,20 +425,36 @@ committee:
 #        affil: Ss. Cyril and Methodius University, Macedonia
       - name: Katsuhiko Kaji
         affil: Aichi Institute of Technology, Japan
+      - name: Kazuya Murao
+        affil: Ritsumeikan University, Japan
+      - name: Liming Chen
+        affil: Ulster University, UK
 #      - name: Tsuyoshi Okita
 #        affil: Kyushu Institute of Technology / Riken, Japan
-      - name: Paula Lago
-        affil: Concordia University, Canada
-      - name: Hiroki Watanabe
-        affil: Hokkaido University, Japan
+      - name: Moe Matsuki
+        affil: Kyushu Institute of Technology, Japan
+      - name: Nattaya Mairittha
+        affil: Kyushu Institute of Technology, Japan 
       - name: Pascal Hirmer
         affil: University of Stuttgart, Germany
+      - name: Paula Lago
+        affil: Concordia University, Canada
+      - name: Ren Ohmura
+        affil: Toyohashi University of Technology, Japan
       - name: Shigeyuki Miyagi
         affil: The University of Shiga Prefecture, Japan
+      - name: Tahera Hossain
+        affil: Aoyama Gakuin University, Japan
+      - name: Takuro Yonezawa
+        affil: Nagoya University, Japan
+      - name: Takuya Maekawa
+        affil: Osaka University, Japan
+      - name: Tittaya Mairittha
+        affil: Kyushu Institute of Technology, Japan
       - name: Yu Enokibori
         affil: Nagoya University, Japan
-      - name: Anja Exler
-        affil: Adastra, Germany
+      - name: Yuuki Nishimura
+        affil: University of Tokyo, Japan
 #      - name: Kristina Yordanova
 #        affil: University of Rostock, Germany
 #      - name: Trung Thanh NGO
@@ -437,39 +467,12 @@ committee:
 ##        affil: Khulna University of Engineering & Technology, Bangladesh
 #      - name: Upal Mahbub
 #        affil: University of Meryland, College Park, USA
-      - name: Atsushi Shimada
-        affil: Kyushu University, Japan
-      - name: Atsushi Nakazawa
-        affil: Kyoto University, Japan
-      - name: Liming Chen
-        affil: Ulster University, UK
-      - name: Christopher Nugent
-        affil: Ulster University, UK
-      - name: François Charpillet 
-        affil: INRIA, France
 #      - name: Maria Del Pilar Villamil Giraldo
 #        affil: University of Los Andes, Colombia
 ##      - name: Shoji Kobashi
 ##        affil: University of Hyogo, Japan
-      - name: Takuro Yonezawa
-        affil: Nagoya University, Japan
-      - name: Anna Yokokubo
-        affil: Aoyama Gakuin University, Japan
-      - name: Yuuki Nishimura
-        affil: University of Tokyo, Japan
-      - name: Tahera Hossain
-        affil: Aoyama Gakuin University, Japan
-      - name: Moe Matsuki
-        affil: Kyushu Institute of Technology, Japan
-      - name: Nattaya Mairittha
-        affil: Kyushu Institute of Technology, Japan 
-      - name: Tittaya Mairittha
-        affil: Kyushu Institute of Technology, Japan
-      - name: John Noel Victorino
-        affil: Kyushu Institute of Technology, Japan
-      - name: Takuya Maekawa
-        affil: Osaka University, Japan
-    
+
+
 cfp:
   text:
 #    - text: "We welcome 4 categories of papers: regular  papers, position papers, survey papers, and challenge papers. The submitted papers are <u>peer reviewed</u> by expert researchers, and accepted based on the research quality."
