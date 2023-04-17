@@ -35,7 +35,8 @@
                   <h3>Special Sessions</h3>
                   <ul>
                   {% for special in site.cfp.specials %}
-                  <li>{{special.title}}</li>
+                    <li><b>{{special.title}}</b></li>
+                    <li>{{ special.host }}, <i>{{special.affiliation}}</i></li>
                   {% endfor %}
                   </ul>
                 </div>
