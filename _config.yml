@@ -514,19 +514,19 @@ cfp:
 #    - item: "<b>Challenge papers</b>: we will provide a dataset and accept results for activity recognition and papers describing the methods and the results. Please see the <a href='https://abc-research.github.io/challenge2022'><b style='color:yellow';>Challenge Site</b></a> for details."
     - item: "<b>Position papers</b>: describe the challenges and future directions of ABC based on  problems that arise when systems are deployed in real settings."
   specials: 
-    - title: Activity Computing in Nursing and Elderly Care
+    - title: "1) Activity Computing in Nursing and Elderly Care"
       chair: Tomohiro Shibata
       affiliation: Kyushu Institute of Technology
-    - title: Activity Recognition with Original Devices
+    - title: "2) Activity Recognition with Original Devices"
       chair: Yu Enokibori 
       affiliation: Nagoya University
-    - title: Activity and Behavior Sensing Apps
+    - title: "3) Activity and Behavior Sensing Apps"
       chair: Yuuki Nishiyama
       affiliation: University of Tokyo
-    - title: "Analysis / recognition of emotion, feeling, and sentiment"
+    - title: "4) Analysis / recognition of emotion, feeling, and sentiment"
       chair: Mitsunori Mizumachi
       affiliation: Kyushu Institute of Technology
-    - title: Activity Computing in Sports
+    - title: "5) Activity Computing in Sports"
       chair: Kazuya Murao
       affiliation: Ritsumeikan University
   format: 
