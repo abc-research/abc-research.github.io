@@ -375,20 +375,22 @@ committee:
    #     affil: University of East London, UK
   - role: Advisory Board
     member:
-      - name: Paul Lukowicz
-        affil: DFKI, Germany
+      - name: Anind Dey
+        affil: University of Washinton, USA
+      - name: Björn W. Schuller
+        affil: Imperial College London, UK and University of Augsburg, Germany
+      - name: Jeffry Cohn
+        affil: University of Pittsburgh, USA
       - name: Kristof Van Laerhoven
         affil: University of Siegen, Germany
 #      - name: Daniel Roggen
 #        affil: University of Sussex, UK
       - name: Michael Beigl
         affil: Karlsruhe Institute of Technology, Germany
-      - name: Jeffry Cohn
-        affil: University of Pittsburgh, USA
-      - name: Anind Dey
-        affil: University of Washinton, USA
       - name: Nobuo Kawaguchi
         affil: Nagoya University, Japan
+      - name: Paul Lukowicz
+        affil: DFKI, Germany
   - role: Secretaries
     member:
        - name: Muhammad Fikry
@@ -397,6 +399,10 @@ committee:
          affil: Kyushu Institute of Technology, Japan
   - role: Program Committee
     member:
+      - name: Abdullah Al Nahid
+        affil: Khulna University, Bangladesh
+      - name: Allam Shehata
+        affil: Osaka University, Japan
       - name: Anja Exler
         affil: Adastra, Germany
       - name: Anna Yokokubo
@@ -405,6 +411,8 @@ committee:
         affil: Kyoto University, Japan
       - name: Atsushi Shimada
         affil: Kyushu University, Japan
+      - name: Baharul Islam
+        affil: American University of Malta, Malta
       - name: Christopher Nugent
         affil: Ulster University, UK
       - name: François Charpillet 
@@ -443,12 +451,16 @@ committee:
         affil: Toyohashi University of Technology, Japan
       - name: Saeed Sharif
         affil: University of East London, UK
+      - name: Seyed Ali Ghorashi
+        affil: University of East London, UK
       - name: Shahera Hossain
         affil: University of Asia Pacific, Bangladesh 
       - name: Shigeyuki Miyagi
         affil: The University of Shiga Prefecture, Japan
       - name: Shiqi Yu
         affil: SusTech, China
+      - name: Swapnil Saha
+        affil: University of California, Los Angeles, USA
       - name: Tahera Hossain
         affil: Aoyama Gakuin University, Japan
       - name: Takuro Yonezawa
@@ -547,7 +559,7 @@ cfp:
       date: June 15, 2023
     - name: "Resubmission for conditionally accepted paper"
       date: July 6, 2023
-    - name: "[Challenge] Opens (Train Data shared with Eng/JP Tutorial)"
+    - name: "[Challenge] Opens (Train Data shared with Tutorial)"
       date: May 4, 2023
     - name: "[Challenge] Registration"
       date: June 15, 2023
