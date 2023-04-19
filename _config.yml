@@ -579,6 +579,7 @@ cfp:
     - name: "Conference"
       date: September 7th - 9th, 2023
   submit_url: https://cmt3.research.microsoft.com/ABC2023/Submission/Index
+  template_url: https://www.overleaf.com/project/643f201a14b3bed07fed7da8
 #  template_url: https://ja.overleaf.com/latex/templates/template-for-authors-to-a-springer-contributed-volume/bbfkkmdbdtcy
 #  template_url: https://www.overleaf.com/read/rrpmfcbkqmvx
 
