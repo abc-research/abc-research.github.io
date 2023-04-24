@@ -12,11 +12,11 @@ meta_author: Sozo Lab
 location: Kaiserslautern, Germany (Hybrid)
 date: September 7th - 9th, 2023
 #addition: 'Ca (<b>Kaiserslautern, Germany (Hybrid)</b>)'
-addition: 'Call for Papers <a href="https://abc-research.github.io/img/cfpABC23.pdf"></a>' 
 conjunction:
   name: ICIEV&IVPR2022
   url: http://cennser.org/ICIEV/
-  
+addition: <h3><a href="https://abc-research.github.io/img/cfpABC23.pdf"><b style="color:yellow">Click HERE for Call for Papers!</b></a></h3>
+
 navitem:
   - name: About
     url: "#about"
