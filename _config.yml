@@ -496,7 +496,8 @@ committee:
 
 cfp:
   text:
-#    - text: "We welcome 4 categories of papers: regular  papers, position papers, survey papers, and challenge papers. The submitted papers are <u>peer reviewed</u> by expert researchers, and accepted based on the research quality."
+    - text: "We welcome 4 categories of papers: regular  papers, position papers, survey papers, and challenge papers. The submitted papers are <u>peer reviewed</u> by expert researchers, and accepted based on the research quality."
+    - text: "The 1st International Workshop (BTIW2023) will be held at ABC2023. For more information, please visit <a href="http://www.sig-bti.jp/event/btiw.html">the campus web</a>.
 ##    - text: "Accepted and presented papers will be published as Book Chapters (indexed in ISI Proceedings, EI-Compendex, SCOPUS, Google Scholar) (details will be updated soon)."
 #    - text: "Accepted papers will be included in the <b style='color:white'>Human Activity and Behavior Analysis: Advances in Computer Vision and Sensors</b> by <u>CRC Press</u>."
 ##(Indexed in ISI Proceedings, EI-Compendex, SCOPUS, Google Scholar and Springerlink)."
