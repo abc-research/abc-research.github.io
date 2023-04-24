@@ -496,8 +496,7 @@ committee:
 
 cfp:
   text:
-    - text: We welcome 4 categories of papers: regular  papers, position papers, survey papers, and challenge papers. The submitted papers are <u>peer reviewed</u> by expert researchers, and accepted based on the research quality.
-    - text: The 1st International Workshop (BTIW2023) will be held at ABC2023. For more information, please visit <a href="http://www.sig-bti.jp/event/btiw.html"></a>.
+ #- text: We welcome 4 categories of papers: regular  papers, position papers, survey papers, and challenge papers. The submitted papers are <u>peer reviewed</u> by expert researchers, and accepted based on the research quality.
 ##    - text: "Accepted and presented papers will be published as Book Chapters (indexed in ISI Proceedings, EI-Compendex, SCOPUS, Google Scholar) (details will be updated soon)."
 #    - text: "Accepted papers will be included in the <b style='color:white'>Human Activity and Behavior Analysis: Advances in Computer Vision and Sensors</b> by <u>CRC Press</u>."
 ##(Indexed in ISI Proceedings, EI-Compendex, SCOPUS, Google Scholar and Springerlink)."
@@ -527,6 +526,7 @@ cfp:
     - item: "<b>Survey papers</b>: new perspective or new challenges in ABC based on literature survey. We do not welcome just compilations of existing research, but do if it provides new research horizons."
 #    - item: "<b>Challenge papers</b>: we will provide a dataset and accept results for activity recognition and papers describing the methods and the results. Please see the <a href='https://abc-research.github.io/challenge2022'><b style='color:yellow';>Challenge Site</b></a> for details."
     - item: "<b>Position papers</b>: describe the challenges and future directions of ABC based on  problems that arise when systems are deployed in real settings."
+    - item: "The 1st International Workshop (BTIW2023) will be held at ABC2023. For more information, please visit <a href=http://www.sig-bti.jp/event/btiw.html></a>."
   specials: 
     - title: "1) Activity Computing in Nursing and Elderly Care"
       chair: Tomohiro Shibata
