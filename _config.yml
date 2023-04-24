@@ -11,7 +11,8 @@ meta_author: Sozo Lab
 #location: London, United Kingdom (Hybrid)
 location: Kaiserslautern, Germany (Hybrid)
 date: September 7th - 9th, 2023
-#addition: 'Paper deadline: <span style="color:yellow"> July 31st, 2022 (Extended)</span>'
+#addition: 'Ca (<b>Kaiserslautern, Germany (Hybrid)</b>)'
+addition: 'Call for Papers <a href="https://abc-research.github.io/img/cfpABC23.pdf"></a>' 
 conjunction:
   name: ICIEV&IVPR2022
   url: http://cennser.org/ICIEV/
@@ -323,7 +324,7 @@ committee:
     member:
       - name: Sozo Inoue
         affil: Kyushu Institute of Technology / AUTOCARE LLC, Japan
-      - name: Atiqur Rahman Ahad
+      - name: Md Atiqur Rahman Ahad
         affil: University of East London, UK
   - role: Program Chairs
     member:
@@ -376,7 +377,7 @@ committee:
   - role: Advisory Board
     member:
       - name: Anind Dey
-        affil: University of Washinton, USA
+        affil: University of Washington, USA
       - name: Björn W. Schuller
         affil: Imperial College London, UK and University of Augsburg, Germany
       - name: Jeffry Cohn
