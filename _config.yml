@@ -554,13 +554,17 @@ cfp:
      - item: "Note that the <b>author information should be removed</b> from the paper, for double blind reviews."
   dates:
     - name: "[Regular/Survey/Position] Short abstract (1-2 pages, any format)"
-      date: April 27, 2023
+#      date: April 27, 2023
+      date: May 11, 2023 <span style="color:yellow">(Extended)</span>
     - name: "[Regular/Survey/Position] Paper submission"
-      date: May 18, 2023 (Anywhere on Earth)
+#      date: May 18, 2023 (Anywhere on Earth)
+      date: May 25, 2023 (Extended)
     - name: "Review result"
-      date: June 15, 2023
+#      date: June 15, 2023
+      date: June 22, 2023
     - name: "Resubmission for conditionally accepted paper"
-      date: July 6, 2023
+#      date: July 6, 2023
+      date: July 13, 2023
     - name: "[Challenge] Opens (Train Data shared with Tutorial)"
       date: May 4, 2023
     - name: "[Challenge] Registration"
