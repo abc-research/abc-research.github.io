@@ -349,7 +349,7 @@ committee:
       - name: Shahera Hossain
         affil: University of Asia Pacific, Bangladesh   
       - name: Sungho Suh
-        affil: DFKI, Germany
+        affil: RPTU / DFKI, Germany
 # - role: Local Organization Chair (TBA)
 #    member:
 #      - name: Phond Phunchongharn
@@ -357,7 +357,7 @@ committee:
   - role: Organizating Chair
     member:
       - name: Vitor Fortes Rey
-        affil: DFKI, Germany
+        affil: RPTU / DFKI, Germany
   #- role: Local Arrangement Committee
   #  member:
   #    - name: Abdulrazaq Abba
@@ -391,7 +391,7 @@ committee:
       - name: Nobuo Kawaguchi
         affil: Nagoya University, Japan
       - name: Paul Lukowicz
-        affil: DFKI, Germany
+        affil: RPTU / DFKI, Germany
   - role: Secretaries
     member:
        - name: Muhammad Fikry
@@ -543,6 +543,9 @@ cfp:
     - title: "5) Activity Computing in Sports"
       chair: Kazuya Murao
       affiliation: Ritsumeikan University
+    - title: "6) Activity and Behaviour Analysis with Head-worn Devices"
+      chair: Hristijan Gjoreski
+      affiliation: Ss. Cyril and Methodius University, Macedonia
   format: 
 #     - item: "<b>Regular papers</b>: 8-20 pages in single column"
 #     - item: "<b>Survey papers</b>: 10-20 pages in single column"
