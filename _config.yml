@@ -1,6 +1,6 @@
 # Site settings
 title: ABC2023
-email: abc2022@sozolab.jp
+email: abc2023@sozolab.jp
 url: https://abc-research.github.io
 description: "International Conference on Activity and Behavior Computing (ABC), which includes Human Activity Recognition with mobile / environmental sensors in ubiquitous / pervasive domains and with cameras in vision domains, and Human Behavior Analysis for long-term health care, rehabilitation, emotion recognition, human interaction, and so on."
 keywords: "activity recognition, behavior analysis, international conference, activity and behavior computing"
@@ -525,7 +525,8 @@ cfp:
     - item: "<b>Regular papers</b>: full technical contents which describe the accuracy and performance of ABC Systems, real deployment cases or application of new paradigms such as deep learning to ABC. "
     - item: "<b>Survey papers</b>: new perspective or new challenges in ABC based on literature survey. We do not welcome just compilations of existing research, but do if it provides new research horizons."
     - item: "<b>Position papers</b>: describe the challenges and future directions of ABC based on  problems that arise when systems are deployed in real settings."
-    - item: "<b>Challenge papers</b>: We will provide a dataset and accept results for the wearing-off recognition challenge with papers describing the methods and the results. Please see the <a href='https://abc-research.github.io/challenge2023'><b style='color:yellow';>Challenge Site</b></a> for details."
+    - item: "<b>Parkinson Challenge papers</b>: We will provide a dataset and accept results for the wearing-off recognition challenge with papers describing the methods and the results. Please see the <a href='https://abc-research.github.io/challenge2023'><b style='color:yellow';>Challenge Site</b></a> for details."
+    - item: "<b>Heatstroke Prevention Challenge papers</b>: We will provide a dataset and accept results for the Heatstroke Prevention challenge with papers describing the methods and the results. Please see the <a href='https://sites.google.com/view/heatstroke-challenge'><b style='color:yellow';>Challenge Site</b></a> for details."
     - item: "The 1st International Workshop (BTIW2023) will be held at ABC2023. For more information, please visit the <a href='http://www.sig-bti.jp/event/btiw.html'><b style='color:yellow';>SIG-BTI Site</b></a>."
   specials: 
     - title: "1) Activity Computing in Nursing and Elderly Care"
