@@ -614,29 +614,33 @@ social:
 #    url: http://github.com/abc-research
 
 series:
-  - text: "<b>ABC2023</b>: 5th International Conference on Activity and Behavior Computing @Kaiserslautern, Germany"
+  - text: "<b>BTI 2023</b>: 1st Behavior Transformation by IoT International Workshop @Kaiserslautern, Germany"
+    url: http://www.sig-bti.jp/event/btiw.html
+  - text: "<b>ABC 2023</b>: 5th International Conference on Activity and Behavior Computing @Kaiserslautern, Germany"
     url: https://abc-research.github.io/
-  - text: "<b>ABC2022</b>: 4th International Conference on Activity and Behavior Computing @London,UK"
+  - text: "<b>ABC 2022</b>: 4th International Conference on Activity and Behavior Computing @London,UK"
     url: https://abc-research.github.io/2022
-  - text: "<b>ABC2021</b>: 3rd International Conference on Activity and Behavior Computing @Online"
+  - text: "<b>ABC 2021</b>: 3rd International Conference on Activity and Behavior Computing @Online"
     url: https://abc-research.github.io/2021
-  - text: "<b>ABC2020</b>: 2nd International Conference on Activity and Behavior Computing @Kitakyushu, Japan"
+  - text: "<b>ABC 2020</b>: 2nd International Conference on Activity and Behavior Computing @Kitakyushu, Japan"
     url: https://abc-research.github.io/2020
-  - text: "<b>ABC2019</b>: 1st International Conference on Activity and Behavior Computing @Spokane, US"
+  - text: "<b>ABC 2019</b>: 1st International Conference on Activity and Behavior Computing @Spokane, US"
     url: https://abc-research.github.io/2019
-  - text: "<b>Parkinson2023</b>: Fifth Activity and Behavior Computing Challenge - in ABC2023 @Kaiserslautern, Germany"
+  - text: "<b>Heatstroke 2023</b>: Heatstroke Prevention Challenge: Forecasting Thermal Comfort - in ABC2023 @Germany"
+    url: https://sites.google.com/view/heatstroke-challenge
+  - text: "<b>Parkinson 2023</b>: Fifth ABC Challenge - Forecasting Wearing-Off - in ABC2023 @Germany"
     url: https://abc-research.github.io/challenge2023/
-  - text: "<b>Nurse2022</b>: Fourth Nurse Care Activity Recognition Challenge - in ABC2022 @London, UK"
+  - text: "<b>Nurse 2022</b>: Fourth Nurse Care Activity Recognition Challenge - in ABC2022 @London, UK"
     url: https://abc-research.github.io/challenge2022/
-  - text: "<b>Nurse2021</b>: Third Nurse Care Activity Recognition Challenge - Can we Do from Bigdata? - in HASCA2021"
+  - text: "<b>Nurse 2021</b>: Third Nurse Care Activity Recognition Challenge - Can we Do from Bigdata? - in HASCA2021"
     url: https://abc-research.github.io/nurse2021
-  - text: "<b>Nurse2020</b>: Second Nurse Care Activity Recognition Challenge - From Lab to Field - in HASCA2020"
+  - text: "<b>Nurse 2020</b>: Second Nurse Care Activity Recognition Challenge - From Lab to Field - in HASCA2020"
     url: https://abc-research.github.io/nurse2020
-  - text: "<b>Nurse2019</b>: Nurse Care Activity Recognition Challenge 2019 in HASCA2019 @London"
+  - text: "<b>Nurse 2019</b>: Nurse Care Activity Recognition Challenge 2019 in HASCA2019 @London"
     url: https://hasc-nurse-challenge.github.io
-  - text: "<b>Bento2021</b>: Bento Packaging Activity Recognition Challenge in ABC2021"
+  - text: "<b>Bento 2021</b>: Bento Packaging Activity Recognition Challenge in ABC2021"
     url: https://abc-research.github.io/bento2021
-  - text: "<b>Cook2020</b>: Cooking Activity Recognition Challenge in ABC2020 @Kitakyushu, Japan"
+  - text: "<b>Cook 2020</b>: Cooking Activity Recognition Challenge in ABC2020 @Kitakyushu, Japan"
     url: https://abc-research.github.io/cook2020
   - text: "<b>HASCA2019</b>: International Workshop on Human Activity Sensing Corpus and Applications @London"
     url: http://hasca2019.hasc.jp
