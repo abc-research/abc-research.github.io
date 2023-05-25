@@ -556,9 +556,9 @@ cfp:
      - item: "Submit from Microsoft CMT service (button below) and select the ABC."
      - item: "Note that the <b>author information should be removed</b> from the paper, for double blind reviews."
   dates:
-    - name: "[Regular/Survey/Position] Short abstract (1-2 pages, any format)"
+#    - name: "[Regular/Survey/Position] Short abstract (1-2 pages, any format)"
 #      date: April 27, 2023
-      date: May 11, 2023 <span style="color:yellow">(Extended)</span>
+#      date: May 11, 2023 <span style="color:yellow">(Extended)</span>
     - name: "[Regular/Survey/Position] Paper submission"
 #      date: May 18, 2023 (Anywhere on Earth)
 #      date: May 25, 2023 (Extended)
