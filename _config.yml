@@ -14,7 +14,7 @@ conjunction:
   name: ICIEV&IVPR2022
   url: http://cennser.org/ICIEV/
 #addition: <h3><a href="https://abc-research.github.io/img/cfpABC23.pdf"><b style="color:yellow">Click HERE for Call for Papers!</b></a></h3>
-addition: <h3><b style="color:yellow">Paper deadline: June 1st, 2023</b></h3>
+addition: '<h3><b style="color:yellow">Paper deadline: June 1st, 2023</b></h3>'
 
 navitem:
   - name: About
@@ -562,7 +562,7 @@ cfp:
     - name: "[Regular/Survey/Position] Paper submission"
 #      date: May 18, 2023 (Anywhere on Earth)
 #      date: May 25, 2023 (Extended)
-      date: June 1, 2023 (Extended)
+      date: <span style="color:yellow">June 1, 2023 (Extended)</span>
     - name: "Review result"
 #      date: June 15, 2023
 #      date: June 22, 2023
