@@ -574,17 +574,21 @@ cfp:
     - name: "[Challenge] Opens (Train Data shared with Tutorial)"
       date: May 4, 2023
     - name: "[Challenge] Registration"
-      date: June 15, 2023
+#      date: June 15, 2023
+      date: <span style="color:yellow">June 26, 2023 (Extended)</span>
 #    - name: "[Challenge] Application Close"
 #      date: July 15th, 2022
     - name: "[Challenge] Result submission"
-      date: June 29, 2023
+#      date: June 29, 2023
+      date: <span style="color:yellow">July 8, 2023 (Extended)</span>
 #      date: <strike style="color:gray">August 1st</strike><b><span style="color:yellow"> August 7th, 2022 (Extended)</span></b> (Anywhere on Earth)!
     - name: "[Challenge] Paper submission"
-      date: July 6, 2023
+#      date: July 6, 2023
+      date: <span style="color:yellow">July 18, 2023 (Extended)</span>
 #      date: <strike style="color:gray">August 10th</strike><b><span style="color:yellow"> August 15th, 2022 (Extended)</span></b> (Anywhere on Earth)!
     - name: "[Challenge] Review result"
-      date: July 20, 2023
+#      date: July 20, 2023
+      date: <span style="color:yellow">July 27, 2023 (Extended)</span>
     - name: "[Regular/Survey/Position/Challenge] Camera ready and Registration"
 #      date:  July 27, 2023 (Anywhere on Earth)
       date:  August 3, 2023 (Anywhere on Earth)
