@@ -401,8 +401,8 @@ committee:
     member:
       - name: Abdullah Al Nahid
         affil: Khulna University, Bangladesh
-      - name: Allam Shehata
-        affil: Osaka University, Japan
+#      - name: Allam Shehata
+#        affil: Osaka University, Japan
       - name: Anja Exler
         affil: Adastra, Germany
       - name: Anna Yokokubo
