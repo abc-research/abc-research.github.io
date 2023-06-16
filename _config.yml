@@ -571,10 +571,12 @@ cfp:
 #      date: July 6, 2023
 #      date: July 13, 2023
       date: July 20, 2023
-    - name: "[Challenge] Opens (Train Data shared with Tutorial)"
+    - name: "[Challenge] Opens (Train Data release)"
       date: May 4, 2023
+    - name: "[Challenge] Test Data release and Tutorial Webinar (English/Japanese)"
+      date: <span style="color:yellow">June 22, 2023 (Extended)</span> 
     - name: "[Challenge] Registration"
-#      date: June 15, 2023
+#      date: June 15, 2023 shared with Tutorial
       date: <span style="color:yellow">June 26, 2023 (Extended)</span>
 #    - name: "[Challenge] Application Close"
 #      date: July 15th, 2022
