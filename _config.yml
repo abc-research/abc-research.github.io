@@ -40,7 +40,7 @@ includes:
   - file: about.html
 #  - file: keynote.html
 #  - file: program.html
-#  - file: registration.html
+  - file: registration.html
   - file: cfp.html
 #  - file: venue.html
   - file: committee.html
