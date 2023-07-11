@@ -21,8 +21,8 @@ navitem:
     url: "#about"
   #- name: Program     
   #  url: "#program"    
-  #- name: Registration
-  #  url: "#registration"
+  - name: Registration
+    url: "#registration"
   - name: CFP
     url: "#cfp" 
   #- name: Challenge
