@@ -605,7 +605,7 @@ cfp:
 
 venue:
   - text: <center> ABC2023 will be held at (<b>Kaiserslautern, Germany (Hybrid)</b>). </center> 
-  - text: <center> Access: <a href="https://goo.gl/maps/6wK4GwKfsoaa4KnJ9"> RPTU (the University of Kaiserslauern - Landau)</a> </center>
+  - text: '<center> Access: <a href="https://goo.gl/maps/6wK4GwKfsoaa4KnJ9"> RPTU (the University of Kaiserslauern - Landau)</a> </center>'
 #  - text: ABC2023 will be held at Knowledge Dock building (KD.2.22), Docklands Campus, University of East London (UEL), UK, very nearby the <a href="https://goo.gl/maps/hdDTM94LbG2efgaA8">London City Airport</a>. 
 ##  - text: For more information, please see <a href="https://www.uel.ac.uk/about/finding-us">the campus web</a>.
 ##  - text: We are considering to do it <b>either of hybrid or online style</b>. Anyway we provide online participation at least.
