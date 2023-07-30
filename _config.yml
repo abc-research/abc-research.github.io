@@ -27,8 +27,8 @@ navitem:
     url: "#cfp" 
   #- name: Challenge
   #  url: "https://abc-research.github.io/challenge2022/"
-  #- name: Venue
-  #  url: "#venue"
+  - name: Venue
+    url: "#venue"
   - name: Committee
     url: "#committee"
   - name: Series
@@ -42,7 +42,7 @@ includes:
 #  - file: program.html
   - file: registration.html
   - file: cfp.html
-#  - file: venue.html
+  - file: venue.html
   - file: committee.html
   - file: series.html
   
