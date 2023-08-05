@@ -19,8 +19,8 @@ addition: '<h3><b style="color:yellow">Paper deadline: June 1st, 2023</b></h3>'
 navitem:
   - name: About
     url: "#about"
-  #- name: Program     
-  #  url: "#program"    
+  - name: Program     
+    url: "#program"    
   - name: Registration
     url: "#registration"
   - name: CFP
