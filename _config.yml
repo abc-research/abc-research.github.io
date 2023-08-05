@@ -206,6 +206,8 @@ program:
         paper:
 #          - title: "Session Chair: Atiqur Rahman Ahad"
 #            authors: "University of East London, UK" 
+      - name: "Banquet"
+        time: "7pm"
   - date: "Sep. 9th (Saturday), 2023"
     session: 
       - name: "Breakfast"
