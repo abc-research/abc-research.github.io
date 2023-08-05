@@ -87,7 +87,7 @@ about:
 
 program:
   - date: "Times are in GMT+1"
-  - date: "Oct. 27th (Thursday), 2022"
+  - date: "Sep. 7th (Thursday), 2023"
     session: 
       - name: "Registration"
         time: "8:30-9:00"
@@ -158,7 +158,7 @@ program:
 #            authors: "Mert Sevil (Illinois Institute of Technology); Mudassir Rashid (Illinois Institute of Technology); Mohammad Reza Askari (Illinois Institute of Technology); Lisa Sharp (UIC); Laurie Quinn (UIC); ALI CINAR (Illinois Institute of Technology)*"
 #          - title: "Classification of Stress via Ambulatory ECG and GSR Data"
 #            authors: "Zac Dair (Munster Technological University)*; Muhammad Muneeb Saad (Cork Institute of Technology, Ireland); Urja Pawar (CIT); Samantha Dockray (University College Cork); Ruairí D O'Reilly (Cork Institute of Technology)"
-  - date: "Oct. 28th (Friday), 2022"
+  - date: "Sep. 28th (Friday), 2023"
     session: 
       - name: "Breakfast"
         time: "9:00-9:30"
@@ -222,7 +222,7 @@ program:
             authors: (Ritsumeikan University, Japan)
           - title: Ren Ohmura
             authors: (Toyohashi University of Technology, Japan)
-  - date: "Oct. 29th (Saturday), 2022"
+  - date: "Sep. 9th (Saturday), 2023"
     session: 
       - name: "Breakfast"
         time: "9:00-9:30"
@@ -429,8 +429,8 @@ committee:
 #        affil: University of Oulu, Finland
 #      - name: Philipp M. Scholl
 #        affil: University of Freiburg, Germany
-#      - name: Hristijan Gjoreski
-#        affil: Ss. Cyril and Methodius University, Macedonia
+      - name: Hristijan Gjoreski
+        affil: Ss. Cyril and Methodius University, Macedonia
       - name: Katsuhiko Kaji
         affil: Aichi Institute of Technology, Japan
       - name: Kazuya Murao
