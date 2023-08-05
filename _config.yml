@@ -102,6 +102,14 @@ program:
         paper: 
 #          - title: "Session Chair: "
 #            authors: ""
+          - title: "Pitcher Identification Method using an Accelerometer and Gyroscope embedded In a Baseball"
+            authors: "Mizuno, Goro*; Murao, Kazuya; Nagano, Akinori; Shibata, Shohei; Yamada, Yuki"
+          - title: "Design and Implementation of a Long-casting Support System for Lure Fishing using an Accelerometer"
+            authors: "Ogawa, Takashi*; Murao, Kazuya"
+          - title: "Estimation of Muscle Activation during Complex Movement using Unsupervised Motion Primitives Decomposition of Limb Kinematics"
+            authors: "Labib, Mainul Islam ; Raihan, Md. Johir; Nahid, Abdullah-Al*"
+          - title: "SIMUAug: Variability-aware Data Augmentation for Wearable IMU using Physics Simulation"
+            authors: "Oishi, Nobuyuki*; Roggen, Daniel; Birch, Phil; Lago, Paula"
       - name: "Keynote 1"
         time: "11:00am-12:00am"
         paper: 
@@ -127,8 +135,14 @@ program:
         paper: 
 #          - title: "Session Chair: "
 #            authors: "Rice University, USA"
-#          - title: "Chair: Michael Beigl"
-#            authors: "Karlsruhe Institute of Technology, Germany"
+          - title: "Toward Recognizing Nursing Activity in Endotracheal Suctioning Using Video-based Pose Estimation"
+            authors: "Ngo , Hoang Anh Vy*; Vu, Quynh N Phuong ; Colley, Noriyo; Ninomiya, Shinji; Kanai, Satoshi; Komizunai, Shunsuke; Konno, Atsushi; Nakamura, Misuzu; Inoue, Sozo"
+          - title: "Daily Gait Recording Using Infrared Analog Sensors"
+            authors: "Nozu, Satoshi*; Kudo, Mineichi"
+          - title: "Analysis of Physiological Variances in Thermal Comfort among Individuals"
+            authors: "Honda, Kazuki K*; Hossain, Tahera; Kawasaki, Yusuke; Lopez, Guillaume"
+          - title: "Older Adults Daily Mobility and Its Connection to DEMMI"
+            authors: "Friedrich, Björn*; Elgert, Lena; Eckhoff, Daniel; Bauer, Jürgen Martin; Hein, Andreas"
   - date: "Sep. 8th (Friday), 2023"
     session: 
       - name: "Breakfast"
@@ -138,13 +152,27 @@ program:
         paper: 
 #          - title: "Session Chair: "
 #            authors: "Kyushu Institute of Technology, Japan"
+          - title: "A data-driven approach for group work analysis using a topic model"
+            authors: "Kondo, Kazuaki*; Arimoto, Takuya; Shimonishi, Kei; Nakamura, Yuichi"
+          - title: "Eye gaze analysis for distraction detection during silent reading of a text"
+            authors: "Tanaka, Saki; Tsuji, Airi; Fujinami, Kaori*"
+          - title: "Enhancing Stress Detection for Students: Exploring the Impact of Fine-Tuning and User-Specific Data Calibration in Deep Learning"
+            authors: "ALUR RAMACHANDRA, RASHMI*; Santhosh, Jayasankar; Ishimaru, Shoya; Dengel, Andreas"
+          - title: "Synchronizing an AR Robot Simulator with a Real Industrial Robot"
+            authors: "Ryoke, Naoya*; Nahid, Nazmun; Inoue, Sozo"
       - name: "Session 4: Original Devices"
         time: "10:40am-12:00"
         paper: 
 #          - title: "Session Chair: Sozo Inoue"
 #            authors: "Kyushu Institute of Technology / AUTOCARE LLC, Japan"
-#          - title: '<b style="color:yellow">Cecilia Mascolo (University of Cambridge / United Kingdom)</b>'
-#            authors: '<b style="color:yellow">Wear-to-compute? Challenges of Wearable Computing for Health</b>'
+          - title: "Forecasting Sit-to-Stand Transitions in Wheelchair Patients: a Textile Pressure Sensor-based Approach"
+            authors: "Tazin, Tahia*; Victorino, John Noel; Inoue, Sozo; Enokibori, Yu"
+          - title: "PressuransferNet: Human Attribute Guided Dynamic Ground Pressure Profile Transfer using 3D simulated Dataset."
+            authors: "Ray, Lala Shakti Swarup*; Fortes Rey, Vitor; Zhou, Bo; Suh, Sungho; Lukowicz, Paul"
+          - title: "Contrastive Left-Right Wearable Sensors (IMUs) Consistency Matching for HAR"
+            authors: "Nshimyimana, Dominique*; Fortes Rey, Vitor; Lukowicz, Paul"
+          - title: "Abacus Manipulation Understanding by Behavior Sensing Utilizing Document Camera as a Sensor"
+            authors: "Matsuda, Yuki*"
       - name: "Poster with Lunch"
         time: "12:00-1:30pm"
         paper: 
@@ -156,13 +184,23 @@ program:
         paper: 
 #          - title: "Session Chair: Masayuki Numao"
 #            authors: "The University of Electro Communications, Japan"
-#          - title: "Reducing the Number of Wearable Sensors and Placement Optimization by Missing Data Imputation on Nursery Teacher Activity Recognition"
-#            authors: "Akira Omi (Toyohashi University of Technology)*; Kenshi Fujiwara (Toyohashi University of Technology); Naoko Ishibashi (Sugiyama Jogakuen University); Ren Ohmura (Toyohashi University of Technology, Japan)"
+#          - title: '<b style="color:yellow">Cecilia Mascolo (University of Cambridge / United Kingdom)</b>'
+#            authors: '<b style="color:yellow">Wear-to-compute? Challenges of Wearable Computing for Health</b>'
       - name: "Session 5: Interesting Applications"
         time: "2:50pm-4:30pm"
         paper:
 #          - title: "Session Chair: Atiqur Rahman Ahad"
 #            authors: "University of East London, UK" 
+          - title: "Estimation Method of Doneness for Boiled Eggs and Diced Steaks using Active Acoustic Sensing"
+            authors: "takahashi, daiki*; Murao, Kazuya"
+          - title: "Evaluation of Functional Estimation Methods in IoT Devices at Intervals of a Few Seconds by Communication Traffic Analysis"
+            authors: "Hattori, Yuichi*; Arakawa, Yutaka; Inoue, Sozo"
+          - title: "Gantt-Chart based ADL Flow-Line Model to Integrate Spatial and Temporal Distance and Its Application to RFID-based Flow-Line Monitoring System to Trace Infection Route"
+            authors: "Numao, Masayuki*; Tanaka, Kinnosuke"
+          - title: "Appearance-based Gaze Data Collection and Estimation using Deep Neural Networks"
+            authors: "Bhatt, Ankur *; Watanabe, Ko ; Dengel, Andreas; Ishimaru, Shoya"
+          - title: "A Relabeling Approach to Signal Patterns for Beacon-based Indoor Localization in Nursing Care Facility"
+            authors: "Garcia, Chrisitina A*; Vu, Quynh N Phuong ; Kaneko, Haru; Inoue, Sozo"
       - name: "Town Hall Meeting"
         time: "4:30pm-5:30pm"
         paper:
@@ -187,6 +225,18 @@ program:
         paper: 
 #          - title: "Session Chair: Guillaume Lopez"
 #            authors: "Aoyama Gakuin University, Japan"
+          - title: "An Input Interface for Wearable Devices using Pulse Wave Control by Manually Compressing the Upper Arm"
+            authors: "Akimoto, Yuma; Murao, Kazuya*"
+          - title: "A Machine Learning Approach To Detecting Autistic Spectrum Disorder in Toddlers"
+            authors: "Amirhosseini, Mohammad Hossein*; Alam, Nuha"
+          - title: "Efficient Construction of Face Image Dataset for Head Pose Estimation"
+            authors: "Furuya, Yuki; Saitoh, Takeshi*; Tsuchiya, Keiko; Nakamura, Kyota; Sato, Hitoshi; Abe, Takeru"
+          - title: "Rehabilitation Assessment using Depth Image and Skeleton Data: A Deep Learning Approach"
+            authors: "Or Rashid, Mamun; Abedin, Abu Jaffor Morshedul; Saha, Sujay*"
+          - title: "Analysis of Cat Activity for Estimating Cat Urine Volume using Multiple Weight Sensors"
+            authors: "Yamaguchi, Tetsuhiro*; Nakashima, Namiko; Shigemori, Takeshi; Hirahata, Teruki; Inoue, Sozo"
+          - title: "Estimation of depth change and grabbing motion of a smartphone submerged in water based on barometric pressure sensor and its application"
+            authors: "Suzaki, Shota*; Kaji, Katsuhiko"
       - name: "Awards + Closing"
         time: "12:25pm-12:55"
   
