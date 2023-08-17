@@ -513,15 +513,18 @@ cfp:
 #      date: July 6, 2023
       date: July 27, 2023 (Extended)
 #      date: <strike style="color:gray">August 10th</strike><b><span style="color:yellow"> August 15th, 2022 (Extended)</span></b> (Anywhere on Earth)!
-    - name: "[Challenge] Review result"
-#      date: July 20, 2023
-      date: August 3, 2023 (Extended)
     - name: "[Regular/Survey/Position/] Camera ready and Registration"
 #      date:  July 27, 2023 (Anywhere on Earth)
       date:  August 3, 2023 (Anywhere on Earth)
 # Sep. 15th: submit to the publisher
+    - name: "[Challenge] Review result"
+#      date: July 20, 2023
+      date: August 3, 2023 (Extended)
+    - name: "[Challenge] Resubmission of Reviewed Papers"
+#      date: July 20, 2023
+      date: August 18, 2023 (Extended)
     - name: "[Challenge] Camera ready and Registration"
-      date:  August 10, 2023 (Anywhere on Earth)
+      date:  August 21, 2023 (Anywhere on Earth)
     - name: "Conference"
       date: September 7th - 9th, 2023
   submit_url: https://cmt3.research.microsoft.com/ABC2023/Submission/Index
