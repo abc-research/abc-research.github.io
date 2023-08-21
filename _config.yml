@@ -119,10 +119,21 @@ program:
 #            authors: '<b style="color:yellow">The Machine Learning Data Center is a Cancer: What is the Cure?</b>'
       - name: "Lunch Break"
         time: "12:00-1:30pm"
-      - name: "BTI Workshop"
+      - name: "Behavior Transformation by IoT International Workshop"
         time: "1:30pm-2:45pm"
         paper: 
           - title: "Session Chair: "
+          - title: "	Let's Do as Friends Do: An Approach for Encouraging Social Behavior Transformation	"
+            authors: "	Akinari Sakai (NTT DOCOMO, INC.)*; Takashi Hamatani (NTT DOCOMO, INC.); Keiichi Ochiai (NTT DOCOMO, INC.); Toru Otaki (NTT DOCOMO, INC.); Takashi Suzuki (NTT DOCOMO, INC.); Satoshi Hiyama (NTT DOCOMO, INC.); Akira Yamada (NTT DOCOMO, INC.); Takuya Shirai (NTT DOCOMO, INC.); Yutaka Arakawa (Kyushu University)	"
+
+          - title: "	Effect of Real-Time Feedback on Posture Improvement during Core Training	"
+            authors: "	Keisuke Sato (Aoyama Gakuin University)*; Guillaume Lopez (Aoyama Gakuin University)	"
+
+          - title: "	Subjective Stress and Heart Rate Variability Patterns: A Study on Harassment Detection	"
+            authors: "	Takahiro Ueno (Fukuoka University)*; Masayoshi Ohashi (Fukuoka University)	"
+
+          - title: "	Development of a Smartphone Case for Horror Movie Experience Augmentation	"
+            authors: "	Takeshi Shiba (Aoyama Gakuin University)*; Reika Takeshita (Aoyama Gakuin University); Guillaume Lopez (Aoyama Gakuin University)	"
       - name: "Keynote 2"
         time: "3:05pm-4:05pm"
         paper: 
