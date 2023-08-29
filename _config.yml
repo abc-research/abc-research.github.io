@@ -224,7 +224,7 @@ program:
       - name: "Breakfast"
         time: "8:30am-9:00am"
       - name: "Heatrstoke Challenge"
-        time: "9:30am-10:20am"
+        time: "9:00am-10:00am"
         paper: 
 #          - title: "Session Chair: Shigeyuki Miyaki"
 #            authors: "The University of Shiga Prefecture, Japan"
@@ -245,7 +245,7 @@ program:
           - title: "Enhancing Personalized Heatstroke Prevention: Forecasting Thermal Comfort Sensations through Data-driven Models"
             authors: "Shahera Hossain (University of Asia Pacific, Bangladesh)*"
       - name: "Parkinson Challenge"
-        time: "10:40am-11:25am"
+        time: "10:20am-11:05am"
         paper: 
 #          - title: "Session Chair: Tahera Hossain"
 #            authors: "Aoyama Gakuin University, Japan"
@@ -260,7 +260,7 @@ program:
           - title: "Forecasting Wearing-Off in Parkinson’s Disease: An Ensemble Learning Approach Using Wearable Data"
             authors: "Md Imran Hosen (Bahçeşehir Üniversitesi)*; MD BAHARUL ISLAM (Bahcesehir University)"
       - name: "WiP Papers"
-        time: "11:25am-12:25"
+        time: "11:05am-11:45"
         paper: 
 #          - title: "Session Chair: Guillaume Lopez"
 #            authors: "Aoyama Gakuin University, Japan"
@@ -271,7 +271,7 @@ program:
           - title: "Analysis of Cat Activity for Estimating Cat Urine Volume using Multiple Weight Sensors"
             authors: "Yamaguchi, Tetsuhiro*; Nakashima, Namiko; Shigemori, Takeshi; Hirahata, Teruki; Inoue, Sozo"
       - name: "Awards + Closing"
-        time: "12:25pm-12:55"
+        time: "12:15pm-12:45"
   
   
 # Committee members
