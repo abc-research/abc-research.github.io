@@ -265,11 +265,11 @@ program:
 #          - title: "Session Chair: Guillaume Lopez"
 #            authors: "Aoyama Gakuin University, Japan"
           - title: "An Input Interface for Wearable Devices using Pulse Wave Control by Manually Compressing the Upper Arm"
-            authors: "Akimoto, Yuma; Murao, Kazuya*"
+            authors: "Yuma Akimoto (Ritsumeikan Univeresity); Kazuya Murao ()*"
 #          - title: "Rehabilitation Assessment using Depth Image and Skeleton Data: A Deep Learning Approach"
 #            authors: "Mamun Or Rashid (University of Dhaka); Abu Jaffor Morshedul Abedin (University of Dhaka); Sujay Saha (University of Dhaka)*"
           - title: "Analysis of Cat Activity for Estimating Cat Urine Volume using Multiple Weight Sensors"
-            authors: "Yamaguchi, Tetsuhiro*; Nakashima, Namiko; Shigemori, Takeshi; Hirahata, Teruki; Inoue, Sozo"
+            authors: "Tetsuhiro Yamaguchi (Kyushu Institute of Technology)*; Namiko Nakashima (Toletta Cats Inc.); Takeshi Shigemori (Toletta Cats Inc. ); Teruki Hirahata (Toletta Cats Inc. ); Sozo Inoue (Kyushu Institute of Technology)"
       - name: "Awards + Closing"
         time: "12:15pm-12:45"
   
