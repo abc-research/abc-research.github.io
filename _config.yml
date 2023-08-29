@@ -123,8 +123,8 @@ program:
       - name: "Behavior Transformation by IoT International Workshop"
         time: "1:30pm-2:45pm"
         paper: 
-          - title: "Session Chair: Guillaume Lopez"
-            authors: "Aoyama Gakuin University, Japan"
+          - title: "Session Chair: Tadashi Okoshi"
+            authors: "Keio University, Japan"
           - title: "Let's Do as Friends Do: An Approach for Encouraging Social Behavior Transformation"
             authors: "Akinari Sakai (NTT DOCOMO, INC.)*; Takashi Hamatani (NTT DOCOMO, INC.); Keiichi Ochiai (NTT DOCOMO, INC.); Toru Otaki (NTT DOCOMO, INC.); Takashi Suzuki (NTT DOCOMO, INC.); Satoshi Hiyama (NTT DOCOMO, INC.); Akira Yamada (NTT DOCOMO, INC.); Takuya Shirai (NTT DOCOMO, INC.); Yutaka Arakawa (Kyushu University)"
           - title: "Effect of Real-Time Feedback on Posture Improvement during Core Training"
