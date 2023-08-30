@@ -194,10 +194,10 @@ program:
       - name: "Keynote 3"
         time: "1:30pm-2:30pm"
         paper: 
-#          - title: "Session Chair: Masayuki Numao"
-#            authors: "The University of Electro Communications, Japan"
-#          - title: '<b style="color:yellow">Cecilia Mascolo (University of Cambridge / United Kingdom)</b>'
-#            authors: '<b style="color:yellow">Wear-to-compute? Challenges of Wearable Computing for Health</b>'
+          - title: "Session Chair: Atiqur Rahman Ahad"
+            authors: "University of East London, UK" 
+          - title: '<b style="color:yellow">Sozo Inoue (Kyushu Institute of Technology, Japan)</b>'
+#            authors: '<b style="color:yellow"></b>'
       - name: "Session 5: Interesting Applications"
         time: "2:50pm-4:30pm"
         paper:
