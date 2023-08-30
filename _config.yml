@@ -197,7 +197,7 @@ program:
           - title: "Session Chair: Atiqur Rahman Ahad"
             authors: "University of East London, UK" 
           - title: '<b style="color:yellow">Sozo Inoue (Kyushu Institute of Technology, Japan)</b>'
-#            authors: '<b style="color:yellow"></b>'
+#            authors: '<b style="color:yellow">Toward Care Forecasting Services Using IoT, Bigdata, and Generative AI</b>'
       - name: "Session 5: Interesting Applications"
         time: "2:50pm-4:30pm"
         paper:
