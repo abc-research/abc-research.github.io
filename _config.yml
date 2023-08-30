@@ -138,8 +138,8 @@ program:
       - name: "Keynote 2"
         time: "3:05pm-4:05pm"
         paper: 
-          - title: "Session Chair: "
-#            authors: ""
+          - title: "Session Chair: Stephan Sigg"
+            authors: "Aalto University, Finland"
           - title: '<b style="color:yellow">Michael Beigl (Karlsruhe Institute of Technology, Germany)</b>'
             authors: '<b style="color:yellow">Computers Closer to Your Body: Sensing, Machine Learning and Innovative Applications in Earables and Wearables</b>'
       - name: "Session 2: Nursing and Elderly Care"
