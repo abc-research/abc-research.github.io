@@ -116,8 +116,8 @@ program:
         paper: 
           - title: "Session Chair: "
             authors: ""
-#          - title: '<b style="color:yellow">Nicholas D. Lane (University of Cambridge / Samsung AI)</b>'
-#            authors: '<b style="color:yellow">The Machine Learning Data Center is a Cancer: What is the Cure?</b>'
+          - title: '<b style="color:yellow">Paul Lukowicz (Deutsche Forschungszentrum für Künstliche Intelligenz GmbH)</b>'
+            authors: '<b style="color:yellow">Will Advances in Foundational Models Solve Human Activity Recognition?</b>'
       - name: "Lunch Break"
         time: "12:00-1:30pm"
       - name: "Behavior Transformation by IoT International Workshop"
@@ -140,8 +140,8 @@ program:
         paper: 
           - title: "Session Chair: "
 #            authors: ""
-#          - title: '<b style="color:yellow">Björn W. Schuller, Fellow IEEE (Imperial College London / UK and University of Augsburg / Germany)</b>'
-#            authors: '<b style="color:yellow">Automatic Anthropologic Activity and Affect Assessment: About Advancing an Art</b>'
+          - title: '<b style="color:yellow">Michael Beigl (Karlsruhe Institute of Technology, Germany)</b>'
+            authors: '<b style="color:yellow">Computers Closer to Your Body: Sensing, Machine Learning and Innovative Applications in Earables and Wearables</b>'
       - name: "Session 2: Nursing and Elderly Care"
         time: "4:25pm -5:45pm"
         paper: 
