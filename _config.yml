@@ -175,8 +175,8 @@ program:
       - name: "Session 4: Original Devices"
         time: "10:40am-12:00"
         paper: 
-          - title: "Session Chair: Sozo Inoue"
-            authors: "Kyushu Institute of Technology / AUTOCARE LLC, Japan"
+#          - title: "Session Chair: Sozo Inoue"
+#            authors: "Kyushu Institute of Technology / AUTOCARE LLC, Japan"
           - title: "Forecasting Sit-to-Stand Transitions in Wheelchair Patients: a Textile Pressure Sensor-based Approach"
             authors: "Tahia Tazin (Kyushu Institute of Technology)*; John Noel Victorino (Kyushu Institute of Technology); Sozo Inoue (Kyushu Institute of Technology); Yu Enokibori (Nagoya University)"
           - title: "PressureTansferNet: Human Attribute Guided Dynamic Ground Pressure Profile Transfer using 3D simulated Pressure Maps"
