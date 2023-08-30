@@ -14,7 +14,7 @@ conjunction:
   name: ICIEV&IVPR2022
   url: http://cennser.org/ICIEV/
 #addition: <h3><a href="https://abc-research.github.io/img/cfpABC23.pdf"><b style="color:yellow">Click HERE for Call for Papers!</b></a></h3>
-addition: '<h3><b style="color:yellow">Paper deadline: June 1st, 2023</b></h3>'
+#addition: '<h3><b style="color:yellow">Paper deadline: June 1st, 2023</b></h3>'
 
 navitem:
   - name: About
