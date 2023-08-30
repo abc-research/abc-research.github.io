@@ -114,8 +114,8 @@ program:
       - name: "Keynote 1"
         time: "11:00am-12:00am"
         paper: 
-          - title: "Session Chair: "
-            authors: ""
+          - title: "Session Chair: Guillaume Lopez"
+            authors: "Aoyama Gakuin University, Japan"
           - title: '<b style="color:yellow">Paul Lukowicz (Deutsche Forschungszentrum für Künstliche Intelligenz GmbH)</b>'
             authors: '<b style="color:yellow">Will Advances in Foundational Models Solve Human Activity Recognition?</b>'
       - name: "Lunch Break"
@@ -175,8 +175,8 @@ program:
       - name: "Session 4: Original Devices"
         time: "10:40am-12:00"
         paper: 
-#          - title: "Session Chair: Sozo Inoue"
-#            authors: "Kyushu Institute of Technology / AUTOCARE LLC, Japan"
+          - title: "Session Chair: Sozo Inoue"
+            authors: "Kyushu Institute of Technology / AUTOCARE LLC, Japan"
           - title: "Forecasting Sit-to-Stand Transitions in Wheelchair Patients: a Textile Pressure Sensor-based Approach"
             authors: "Tahia Tazin (Kyushu Institute of Technology)*; John Noel Victorino (Kyushu Institute of Technology); Sozo Inoue (Kyushu Institute of Technology); Yu Enokibori (Nagoya University)"
           - title: "PressureTansferNet: Human Attribute Guided Dynamic Ground Pressure Profile Transfer using 3D simulated Pressure Maps"
@@ -203,6 +203,8 @@ program:
         paper:
 #          - title: "Session Chair: Atiqur Rahman Ahad"
 #            authors: "University of East London, UK" 
+          - title: "Session Chair: Sungho Suh"
+            authors: "DFKI, Japan"
           - title: "Estimation Method of Doneness for Boiled Eggs and Diced Steaks using Active Acoustic Sensing"
             authors: "daiki takahashi (Ritsumeikan university)*; Kazuya Murao ()"
           - title: "Evaluation of Functional Estimation Methods in IoT Devices at Intervals of a Few Seconds by Communication Traffic Analysis"
@@ -265,6 +267,8 @@ program:
         paper: 
 #          - title: "Session Chair: Guillaume Lopez"
 #            authors: "Aoyama Gakuin University, Japan"
+          - title: "Session Chair: Vitor Fortes Rey"
+            authors: "DFKI, Japan"
           - title: "An Input Interface for Wearable Devices using Pulse Wave Control by Manually Compressing the Upper Arm"
             authors: "Yuma Akimoto (Ritsumeikan Univeresity); Kazuya Murao ()*"
 #          - title: "Rehabilitation Assessment using Depth Image and Skeleton Data: A Deep Learning Approach"
