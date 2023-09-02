@@ -229,6 +229,8 @@ program:
         paper: 
           - title: "Session Chair: Tahera Hossain"
             authors: "Aoyama Gakuin University, Japan"
+          - title: "Challenge Summary"
+            authors: "Tahera Hossain (Aoyama Gakuin University, Japan)"
           - title: "Personal Thermal Assessment using Feature Reduction and Machine Learning Techniques"
             authors: "Afsana Mimi (East West University)*; Md. Golam Rasul (University of Potsdam, Germany); Tanjila Alam Sathi (Islamic University of Technology ); Lutfun Nahar Lota (Islamic University of Technology )"
 #          - title: "Thermal Comfort Sensation Detection using a LSTM Autoencoder in combination with an ANN"
@@ -250,6 +252,8 @@ program:
         paper: 
           - title: "Session Chair: Chrisitina A Garcia"
             authors: "Kyushu Institute of Technology, Japan"
+          - title: "Challenge Summary"
+            authors: "Haru Kaneko (Kyushu Institute of Technology, Japan)"
           - title: "Intrapatient Forecasting of Parkinson’s Wearing-off by Analyzing Data from Wrist-worn Fitness Tracker and Smartphone"
             authors: "Nhat Tan Le (Ho Chi Minh City University of Technology, Vietnam National University)*; Duy Nguyen Khuong Cong (HCMUT); Duy Nhat Vo (Ho Chi Minh city University Of technology); Tan Thi Pham (Ho Chi Minh City University of Technology, Vietnam National University)"
           - title: "Foreseeing wearing-off state in Parkinson’s disease patients, a multimodal approach with the usage of machine learning and wearables"
