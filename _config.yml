@@ -252,7 +252,7 @@ program:
       - name: "Parkinson Challenge"
         time: "10:20am-11:05am"
         paper: 
-          - title: "Session Chair: Chrisitina A Garcia"
+          - title: "Session Chair: Christina A Garcia"
             authors: "Kyushu Institute of Technology, Japan"
           - title: "Challenge Summary"
             authors: "Haru Kaneko (Kyushu Institute of Technology, Japan)"
