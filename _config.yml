@@ -182,7 +182,7 @@ program:
             authors: "Tahia Tazin (Kyushu Institute of Technology)*; John Noel Victorino (Kyushu Institute of Technology); Sozo Inoue (Kyushu Institute of Technology); Yu Enokibori (Nagoya University)"
           - title: "<span style='color:cyan'>PressureTansferNet: Human Attribute Guided Dynamic Ground Pressure Profile Transfer using 3D simulated Pressure Maps</span>"
             authors: "Lala Shakti Swarup Ray (DFKI)*; Vitor Fortes Rey (DFKI); Bo Zhou (DFKI GmbH); Sungho Suh (DFKI); Paul Lukowicz (DFKI GmbH, Germany)"
-          - title: "Contrastive Left-Right Wearable Sensors (IMUs) Consistency Matching for HAR"
+          - title: "<span style='color:cyan'>Contrastive Left-Right Wearable Sensors (IMUs) Consistency Matching for HAR</span>"
             authors: "Dominique Nshimyimana (DFKI, RPTU)*; Vitor Fortes Rey (DFKI); Paul Lukowicz (DFKI GmbH, Germany)"
           - title: "Abacus Manipulation Understanding by Behavior Sensing Utilizing Document Camera as a Sensor"
             authors: "Yuki Matsuda (Nara Institute of Science and Technology)*"
