@@ -247,7 +247,7 @@ program:
           - title: "Clustering-based Feature Selection and Stacked Generalization Method to Offset Imbalanced Data for Thermal Stress Assessment"
             authors: "Iqbal Hassan (Ahsanullah University of Science and Technology)*; Shahera Hossain (University of Asia Pacific, Bangladesh); Md Atiqur Rahman Ahad (University of East London, UK)"
           - title: "Enhancing Personalized Heatstroke Prevention: Forecasting Thermal Comfort Sensations through Data-driven Models"
-            authors: "Shahera Hossain (University of Asia Pacific, Bangladesh)*"
+            authors: "Md. Samiur Rahman(University of Asia Pacific), Ziaul Karim Asfi (University of Asia Pacific), Md. Atik Shams (University of Asia Pacific), Md. Ifaj Hos- san Omi American International University- Bangladesh, Md. Akhtaruzzaman Adnan (University of Asia Pacific), Shahera Hossain (University of Asia Pacific)"
       - name: "Parkinson Challenge"
         time: "10:20am-11:05am"
         paper: 
