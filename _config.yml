@@ -225,7 +225,7 @@ program:
     session: 
       - name: "Breakfast"
         time: "8:30am-9:00am"
-      - name: "Heatrstoke Challenge"
+      - name: "Heatstroke Challenge"
         time: "9:00am-10:00am"
         paper: 
           - title: "Session Chair: Tahera Hossain"
