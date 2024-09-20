@@ -1,5 +1,5 @@
 ---
 layout: redirected
 sitemap: false
-redirect_to: https://autocare.ai/abc2024
+redirect_to: https://autocare.ai/abc2025
 ---
